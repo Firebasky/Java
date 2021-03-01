@@ -14,6 +14,6 @@
 
 ## 下面是搭建搭建
 漏洞版本去官网下载就可以
-archive.apache.org/dist/struts/binaries/struts-2.0.8-all.zip
-[](.img/环境.png)
+[漏洞版本](archive.apache.org/dist/struts/binaries/struts-2.0.8-all.zip)
+![](./img/环境.png)
 
