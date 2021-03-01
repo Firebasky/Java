@@ -13,9 +13,9 @@ public class Struts001 extends ActionSupport {
             return "error";
         }
         if ((this.username.equalsIgnoreCase("admin"))
-//                && (this.password.equals("admin"))
+                && (this.password.equals("admin"))
                 ) {
-            return "error";
+            return "success";
         }
         return "error";
 
