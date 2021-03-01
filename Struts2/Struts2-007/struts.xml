@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+        "http://struts.apache.org/dtds/struts-2.5.dtd">
+<struts>
+    <!--
+    package 标签：该标签配置控制器的包结构
+    name属性：自定义，必须保证唯一,与编码没有任何关系，用于区分package
+    extends属性：继承某个package,其中struts-default是struts2框架的核心
+    namespace属性：命名空间，默认为/(根目录)
+    -->
+    <constant name="struts.custom.i18n.resources" value="mess"/>
+    <constant name="struts.i18n.encoding" value="UTF-8"/>
+
+    <package name="S2-007" extends="struts-default">
+        <action name="user" class="com.vulhub.struts.Struts007">
+            <result name="success">/welcome.jsp</result>
+            <result name="error">/index.jsp</result>
+            <result name="input">/index.jsp</result>
+        </action>
+    </package>
+
+</struts>
