@@ -11,6 +11,8 @@
 [Struts2框架基础](https://www.cnblogs.com/cenyu/p/6219894.html)可以看文章也可以看视频，我比较笨就看的视频加看文章。[2020最新Struts2框架教程——SSH系列](https://www.bilibili.com/video/BV1tp4y1v7gc)
 
 **接下来就开始我们的Struts02漏洞学习**
+之前看了一个文章比较好，可以说是Struts2漏洞的原理吧。。。
+[Struts2漏洞利用原理及OGNL机制研究](https://xz.aliyun.com/t/225#toc-0)
 
 ## 下面是搭建搭建
 漏洞版本去官网下载就可以
