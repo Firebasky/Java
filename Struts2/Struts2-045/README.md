@@ -1,5 +1,6 @@
 # S2-045 远程代码执行漏洞（CVE-2017-5638）
 影响版本: Struts 2.3.5 - Struts 2.3.31, Struts 2.5 - Struts 2.5.10
+
 简单的说就是在处理Content-Type的post请求的时候使用了ognl表达式注入。注意Content-Type:必须含有multipart/form-data，
 ## poc
 ```python
