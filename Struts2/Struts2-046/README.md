@@ -3,7 +3,7 @@
 
 影响版本: Struts 2.3.5 - Struts 2.3.31, Struts 2.5 - Struts 2.5.10
 
-与s2-045类似，但是利用点在文件上传的filename值位置，并需要使用\x00截断。
+与s2-045类似，但是利用点在文件上传的filename值位置，并需要使用`\x00`截断。
 
 由于需要发送畸形数据包，我们简单使用原生socket编写payload：
 ## poc
@@ -37,4 +37,5 @@ with socket.create_connection(('node3.buuoj.cn', '26885'), timeout=5) as conn:
 
 ## 参考
 >https://github.com/vulhub/vulhub/blob/master/struts2/s2-046/README.zh-cn.md
+>
 >https://xz.aliyun.com/t/221
