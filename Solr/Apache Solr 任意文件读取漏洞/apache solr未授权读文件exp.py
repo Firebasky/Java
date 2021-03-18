@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-#@author Firbasky
+#@author Firebasky
 import requests
 import json
 
