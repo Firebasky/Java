@@ -34,7 +34,7 @@ public class CVE_2018_19178 {
                 "onbeforeunload", "onblur", "onerror", "onfocus", "onresize",
                 "onscroll", "oncontextmenu", "alert" };
         // 滤除脚本事件代码
-        for (int i = 0; i < eventKeywords.length; i++) {
+        for (int i = 0; i < eventKeywords.length; i++) {//没有处理大写字符
             // 添加一个"_", 使事件代码无效
             value = value.replaceAll(eventKeywords[i],"_" + eventKeywords[i]);
         }
