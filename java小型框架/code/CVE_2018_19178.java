@@ -1,6 +1,7 @@
 package CVE;
 
 /**
+ * 地方：src/main/java/com.lxinet.jeesns/core/utils/XssHttpServletRequestWrapper.java
  * <svg/onLoad=confirm(1)>
  * <object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgiSGVsbG8iKTs8L3NjcmlwdD4=">
  * <img src="x" ONERROR=confirm(0)>
