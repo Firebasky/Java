@@ -1,6 +1,7 @@
 # java小型框架代码审计
 
 >[java危险函数](./java危险函数.md)
+>[代码审计基础](./代码审计基础.pdf)
 
 + 2021/6/1 [JAVA代码审计的一些Tips(附脚本)](https://xz.aliyun.com/t/1633)
 + 2021/6/1 [java代码审计之租车系统](./java代码审计之租车系统.pdf)  [框架下载连接](http://down.chinaz.com/soft/38425.htm)
