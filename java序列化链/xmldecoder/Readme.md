@@ -49,9 +49,9 @@ public class test1 {
 
 [exp1](./exp1.xml)
 
-[exp2](./exp1.xml) **通过实体编码绕过**
+[exp2](./exp2.xml) **通过实体编码绕过**
 
-[exp3](./exp1.xml)
+[exp3](./exp3.xml)
 
 >参考
 >
