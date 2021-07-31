@@ -1,0 +1,1 @@
+gcc org_apache_jsp_test_jsp_JniClass.c -shared -fPIC -o libtest.dll

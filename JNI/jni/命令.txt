@@ -1,0 +1,5 @@
+x86_64-w64-mingw32-g++ -I"%JAVA_HOME%\include" -I"%JAVA_HOME%\include\win32" -shared -o cmd.dll org_javaweb_jni_CommandExecution.cpp
+
+https://javaweb.org/?p=1866
+https://blog.csdn.net/williamgavin/article/details/83867408
+https://www3.ntu.edu.sg/home/ehchua/programming/java/JavaNativeInterface.html
