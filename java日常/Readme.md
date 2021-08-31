@@ -11,3 +11,4 @@
 + 2021/8/19 [探究Java中XXE漏洞的深层原理](https://gv7.me/articles/2019/study-the-deep-principle-of-xxe-vulnerability-in-java/)
 + 2021/8/19 [xxe流程图](./img/xxe.png)
 + 2021/8/20 [jep290的实现图片](./img/jep290.png)   [文章](https://y4er.com/post/bypass-jep290/)
++ 2021/8/31 [java写文件rce](java写文件rce.md)
