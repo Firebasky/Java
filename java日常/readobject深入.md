@@ -1,4 +1,6 @@
 ## 流程：
+
+![](./img/readobject.jpg)
 ObjectInputSteram.readObject()
 
 readObject0()
