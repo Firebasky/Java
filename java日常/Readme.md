@@ -14,3 +14,8 @@
 + 2021/8/31 [java写文件rce](java写文件rce.md)
 + 2021/8/31 [java协议](java协议.md)
 + 2021/9/01 [java反序列化编码绕过](java反序列化编码绕过.md)
++ 2021/9/03 [javabean与内省](javabean与内省.md)
++ 2021/9/03 [marshalsec工具使用](marshalsec.md)
++ 2021/9/03 [readobject深入](readobject深入.md)
++ 2021/9/03 [Thinking in java 高级之volatile](Thinking_in_java高级之volatile.md)   volatile如果对应单线程会不会存在条件竞争问题 参考d3ctf no rce
++ 2021/9/03 [yso搭建](yso搭建.md)
