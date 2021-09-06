@@ -5,4 +5,4 @@
 + 2021/7/30 [添加了java的一些命令执行shell](shell)
 + 2021/8/15 [添加了Java日常知识点](java日常)
 + 2021/8/31 [添加了jackson序列化的exp](jackson)
-+ 2021/9/06 [添加shiro其他漏洞](shiro)
++ 2021/9/06 [添加Shiro其他漏洞](Shiro)
