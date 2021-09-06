@@ -1,0 +1,12 @@
+getClassForName:677, Constructor (org.yaml.snakeyaml.constructor)
+getClassForNode:664, Constructor (org.yaml.snakeyaml.constructor)
+getConstructor:336, Constructor$ConstructYamlObject (org.yaml.snakeyaml.constructor)
+construct:346, Constructor$ConstructYamlObject (org.yaml.snakeyaml.constructor)
+constructObject:182, BaseConstructor (org.yaml.snakeyaml.constructor)
+constructDocument:141, BaseConstructor (org.yaml.snakeyaml.constructor)
+getSingleData:127, BaseConstructor (org.yaml.snakeyaml.constructor)
+loadFromReader:450, Yaml (org.yaml.snakeyaml)
+load:369, Yaml (org.yaml.snakeyaml)
+main:22, test (learn)
+
+https://www.mi1k7ea.com/2019/11/29/Java-SnakeYaml%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E/#%E7%9B%B8%E5%85%B3%E5%BA%94%E7%94%A8CVE

