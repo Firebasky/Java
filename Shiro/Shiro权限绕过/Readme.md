@@ -142,6 +142,7 @@ pom.xml 中版本修改为 1.7.0 或及以下即可
 /login/..;/admin/
 /login/..;/json
 
+/admin/%3b/xxx
 /admin/%252fxxx
 /admin/%3Bxx
 /admin/%20
