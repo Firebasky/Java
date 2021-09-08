@@ -7,4 +7,4 @@
 + 2021/8/31 [添加了jackson序列化的exp](jackson)
 + 2021/9/06 [添加Shiro其他漏洞](Shiro)
 + 2021/9/06 [添加SnakeYaml序列化漏洞和trick](SnakeYaml)
-
++ 2021/9/08 [添加序列化链]()
