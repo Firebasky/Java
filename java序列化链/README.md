@@ -9,3 +9,4 @@
 + [添加了Vaadin利用链](Vaadin) **可以说和Rome利用链差不多。。。。**
 + [添加了Groovy利用链](Groovy) **简单的说利用AnnotationInvocationHandler的代理去触发ConvertedClosure.invokeCustom,yso中使用PriorityQueue去触发Comparator.compare()一样的会触发ConvertedClosure.invokeCustom**
 + [添加了Hibernate利用链](Hibernate) **Hibernate类似jdbc的东西，简单的说还是触发getter方法去利用TemplatesImpl#getOutputProperties**
++ [添加了spring利用链](spring) **个人感觉spring链中最重要的是代理，非常巧妙的利用了代理功能**
