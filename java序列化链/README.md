@@ -7,4 +7,4 @@
 + [添加了Clojure利用链](Clojure) **简单的说就是触发了BadAttributeValueExpException#toString方法然后触发hashcode方法到sink点main$eval_opt#invokeStatic**
 + [添加了ROME利用链](ROME) **简单的说就是调用toString方法然后去触发java内省的getReadMethod去调用任意的get方法去触发TemplatesImpl#getOutputProperties**
 + [添加了Vaadin利用链](Vaadin) **可以说和Rome利用链差不多。。。。**
-+ [添加了Groovy利用链](Groovy) **简单的说利用AnnotationInvocationHandler的代理去触发ConvertedClosure.invokeCustom**
++ [添加了Groovy利用链](Groovy) **简单的说利用AnnotationInvocationHandler的代理去触发ConvertedClosure.invokeCustom,yso中使用PriorityQueue去触发Comparator.compare()一样的会触发ConvertedClosure.invokeCustom**
