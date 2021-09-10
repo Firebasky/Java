@@ -24,7 +24,7 @@ import java.lang.reflect.Field;
 import java.lang.reflect.Method;
 import java.util.HashMap;
 
-public class Hibernate {
+public class Hibernate1 {
     public static String fileName = "Hibernate1.bin";
     public static void main(String[] args)throws Exception {
         // 生成包含恶意类字节码的 TemplatesImpl 类
