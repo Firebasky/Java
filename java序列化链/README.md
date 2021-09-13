@@ -11,3 +11,4 @@
 + [添加了Hibernate利用链](Hibernate) **Hibernate类似jdbc的东西，简单的说还是触发getter方法去利用TemplatesImpl#getOutputProperties**
 + [添加了spring利用链](spring) **个人感觉spring链中最重要的是代理，非常巧妙的利用了代理功能**
 + [添加了FileUpload利用链](FileUpload) **比较简单而且真实危害可能比较小，截断还需要jdk的支持。不过copy可以去出题**
++ [并没有添加Wicket链]  **因为和FileUpload一样。。。。。**
