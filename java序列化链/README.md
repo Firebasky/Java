@@ -12,3 +12,4 @@
 + [添加了spring利用链](spring) **个人感觉spring链中最重要的是代理，非常巧妙的利用了代理功能**
 + [添加了FileUpload利用链](FileUpload) **比较简单而且真实危害可能比较小，截断还需要jdk的支持。不过copy可以去出题**
 + [并没有添加Wicket链]()  **因为和FileUpload一样。。。。。**
++ [添加了CommonsBeanutils链](CommonsBeanutils) **来自p师傅的文章，不需要依赖cc组件**[CommonsBeanutils与无commons-collections的Shiro反序列化利用](https://www.leavesongs.com/PENETRATION/commons-beanutils-without-commons-collections.html#shiro)
