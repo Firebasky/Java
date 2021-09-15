@@ -13,3 +13,4 @@
 + [添加了FileUpload利用链](FileUpload) **比较简单而且真实危害可能比较小，截断还需要jdk的支持。不过copy可以去出题**
 + [并没有添加Wicket链]()  **因为和FileUpload一样。。。。。**
 + [添加了CommonsBeanutils链](CommonsBeanutils) **来自p师傅的文章，不需要依赖cc组件**[CommonsBeanutils与无commons-collections的Shiro反序列化利用](https://www.leavesongs.com/PENETRATION/commons-beanutils-without-commons-collections.html#shiro)
++ [添加了AspectJWeaver利用链](AspectJWeaver) **主要是写文件触发put方法，自己尝试不需要cc组件去挖掘没有成功。。。。**
