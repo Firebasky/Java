@@ -132,6 +132,9 @@ pom.xml 中版本修改为 1.7.0 或及以下即可
 增加了选项，tokenizeToStringArray 函数中默认不会进行 trim,默认情况下 token = token.trim() 并不会被执行
 
 
+## CVE-2021-41303
+
+![image](https://user-images.githubusercontent.com/63966847/133890465-dfbd4a6b-524d-4f5a-96d6-2b2dcb10e27f.png)
 
 ## 字典
 
