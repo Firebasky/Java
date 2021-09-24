@@ -1,5 +1,9 @@
 # java 模板注入
 
+
+>https://github.com/lufeirider/BypassShell/blob/master/JAVA/JAVA.md
+
+
 + [FreeMarker模板注入](FreeMarker)   后缀名.ftl
 + [Thymeleaf模板注入](Thymeleaf) **waero-ctf-2021-ideas-web 考察过**
 + [jsp模板注入](jsp)
