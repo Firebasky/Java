@@ -81,4 +81,44 @@ public static Transformer[] EchoCC() throws Exception  {
         return transformers;
     }
 ```
+### defineClass
+其实就是通过ClassLoader去执行(反射)我们自定义类的字节码。
+
+```java
+public static String FiletoBytes(String filename) throws Exception{
+        String buf = null;
+        File file = new File(filename);
+        FileInputStream fis = null;
+        try {
+            fis = new FileInputStream(file);
+            int size = fis.available();
+            byte[] bytes = new byte[size];
+            fis.read(bytes);
+            buf = Arrays.toString(bytes);
+            fis.close();
+            return buf;
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return buf;
+    }
+    
+@Override
+    protected Class<?> findClass(String name) throws ClassNotFoundException {
+        if (name == myClassName) {
+            System.out.println("加载" + name + "类");
+            return defineClass(myClassName, bs, 0, bs.length);
+        }
+        return super.findClass(name);
+    }    
+```
+
+
+
+>参考：
+>https://www.joyk.com/dig/detail/1624894461629758
+
+
 
