@@ -122,8 +122,7 @@ public static String FiletoBytes(String filename) throws Exception{
 直接用项目的代码。
 
 在利用tempimpl创建类的时候可以使用如下代码
-```
-
+```java
 import com.sun.org.apache.xalan.internal.xsltc.DOM;
 import com.sun.org.apache.xalan.internal.xsltc.TransletException;
 import com.sun.org.apache.xalan.internal.xsltc.runtime.AbstractTranslet;
