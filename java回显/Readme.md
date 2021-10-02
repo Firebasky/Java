@@ -176,3 +176,5 @@ public class evilclass extends AbstractTranslet  {
 >[Java反射-修改字段值, 反射修改static final修饰的字段](https://www.cnblogs.com/noKing/p/9038234.html)
 >
 >[基于全局储存的新思路 | Tomcat的一种通用回显方法研究](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247484799&idx=1&sn=42e7807d6ea0d8917b45e8aa2e4dba44)
+>
+>[tomcat不出网回显连续剧第六集](https://xz.aliyun.com/t/7535)
