@@ -115,7 +115,13 @@ public static String FiletoBytes(String filename) throws Exception{
     }    
 ```
 
+### 中间件回显
 由于没有是研究tomcat等容器的回显。能力有限。
+
+
+>中间件而言多数重写了thread类，在thread中保存了req和resp，可以通过获取当前线程，在resp中写入回显结果
+
+
 
 参考：https://l3yx.github.io/2020/03/31/Java-Web%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%E5%9B%9E%E6%98%BE%E6%80%BB%E7%BB%93/
 
