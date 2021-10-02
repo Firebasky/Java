@@ -27,7 +27,8 @@ public class socket_v2 {
 
             result += line + "\n";
             // 按源IP/PORT过滤，在各层转发中会变，这个方法不准
-            if (remoteAddr.contains("01001DAC")) {
+            //https://tool.520101.com/wangluo/jinzhizhuanhuan/
+            if (remoteAddr.contains("1748878")) {
                 inode = lineArr[10];
                 if (!inode.equals("0")) {
                     break;
