@@ -178,3 +178,5 @@ public class evilclass extends AbstractTranslet  {
 >[基于全局储存的新思路 | Tomcat的一种通用回显方法研究](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247484799&idx=1&sn=42e7807d6ea0d8917b45e8aa2e4dba44)
 >
 >[tomcat不出网回显连续剧第六集](https://xz.aliyun.com/t/7535)
+>
+>[前尘——返回执行结果的回显链](https://www.anquanke.com/post/id/253661)
