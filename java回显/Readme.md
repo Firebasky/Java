@@ -265,6 +265,16 @@ public class Main {
 }
 ```
 
+### 通过写文件
+linux
+```bash
+// 进入test.html的根目录并执行id命令写入1.txt
+cd $(find -name "test.html" -type f -exec dirname {} \; | sed 1q) && echo `id` > 1.txt
+```
+win
+```bash
+$file = Get-ChildItem -Path . -Filter test.html -recurse -ErrorAction SilentlyContinue;$f = -Join($file.DirectoryName,"/a.txt");echo 222 |Out-File $f
+```
 
 >参考：
 >
