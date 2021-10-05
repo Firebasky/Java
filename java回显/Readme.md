@@ -264,6 +264,12 @@ public class Main {
     }
 }
 ```
+#### weblogic
+
+https://xz.aliyun.com/t/5299
+
+https://github.com/lufeirider/CVE-2019-2725
+
 
 ### 通过写文件
 linux
