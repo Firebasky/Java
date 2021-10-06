@@ -29,6 +29,10 @@ SQL 注入: Select、Dao 、from 、delete 、update、insert
 ```
 
 ```java
+ssrf: HttpClient.execute()、HttpClient.executeMethod()、HttpURLConnection.connect、HttpURLConnection.getInputStream、URL.openStream、HttpServletRequest、BasicHttpEntityEnclosingRequest、DefaultBHttpClientConnection、BasicHttpRequest、
+```
+
+```java
 缓冲区溢出: strcpy,strcat,scanf,memcpy,memmoGetc(),fgetc(),getchar;read,printf
 ```
 
