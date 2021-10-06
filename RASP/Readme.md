@@ -19,3 +19,13 @@ https://github.com/baidu/openrasp
 https://github.com/baidu-security/openrasp-testcases
 
 日志:\rasp\logs\alarm\alarm.log
+
+### 代学习
+
+https://paper.seebug.org/1041/
+
+https://blog.csdn.net/u011721501/article/details/74990346
+
+https://paper.seebug.org/330/
+
+
