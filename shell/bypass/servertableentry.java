@@ -1,4 +1,4 @@
-package
+package shell.bypass;
 
 import com.sun.corba.se.impl.logging.ActivationSystemException;
 import com.sun.corba.se.spi.activation.RepositoryPackage.ServerDef;
