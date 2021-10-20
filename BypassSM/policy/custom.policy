@@ -1,0 +1,4 @@
+grant {
+    permission java.io.FilePermission "D:\\*", "read";
+	permission java.net.SocketPermission "www.baidu.com:1-", "connect,resolve";
+};
