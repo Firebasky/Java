@@ -39,6 +39,8 @@ https://github.com/codeplutos/java-security-manager-bypass/
 
 >自定义一个ClassLoader来加载一个恶意类，并且把它的ProtectionDomain里面的权限初始化成所有权限，这样就能绕过Java Security Manager了
 
+[自定义ClassLoader绕过poc为什么很多人执行出现问题的缘由](https://github.com/codeplutos/java-security-manager-bypass/issues/2)
+
 Exploit.java
 
 ```java
