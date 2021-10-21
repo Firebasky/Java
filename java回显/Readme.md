@@ -287,9 +287,9 @@ $file = Get-ChildItem -Path . -Filter test.html -recurse -ErrorAction SilentlyCo
 https://www.00theway.org/2020/01/04/apereo-cas-rce/
 https://www.freebuf.com/vuls/226149.html
 
-```
+
 org.springframework.webflow.context.ExternalContextHolder.getExternalContext()方法可以获取到上下文关联信息，然后通过getNativeRequest()方法获取request对象通过getNativeResponse()方法获取response对象。同时提及到org.springframework.cglib.core.ReflectUtils.defineClass().newInstance();加载payload。猜测大佬的想法是通过defineClass从byte[]还原出一个Class对象，该恶意对象主要是执行命令，获取response对象，将执行命令后的结果通过response对象的输出流输出。
-```
+
 
 
 >参考：
