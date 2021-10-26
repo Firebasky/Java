@@ -40,3 +40,4 @@
 + 2021/10/19 [在Jfinal使用redis缓存时存在的反序列化问题](https://b1eed.github.io/2020/12/05/Jfinal_readObject/) **这个和CVE-2020-26945 mybatis二级缓存反序列化有异曲同工之妙**
 + 2021/10/21 [自定义ClassLoader绕过poc为什么很多人执行出现问题的缘由](https://github.com/codeplutos/java-security-manager-bypass/issues/2) **可能以后会遇到。**
 + 2021/10/25 [defineClass在java反序列化当中的利用](https://paper.seebug.org/572/)  defineClass可以从byte[]还原出一个Class对象 **org.mozilla.classfile.DefiningClassLoader#defineClass**
++ 2021/10/26 [浅析JDWP远程命令执行漏洞](https://www.mi1k7ea.com/2021/08/06/%E6%B5%85%E6%9E%90JDWP%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E/) 大概就是开启了远程Debugger..
