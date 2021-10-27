@@ -1,6 +1,7 @@
 # Dubbo 
 
->Apache Dubbo 是伪装的、轻量级的Java RPC 服务框架。[RPC服务](https://www.zhihu.com/question/25536695)
+>Apache Dubbo 是伪装的、轻量级的Java RPC 服务框架。[RPC服务](https://www.zhihu.com/question/25536695) 
+>[默认反序列化利用之hessian2](https://www.anquanke.com/post/id/197658)
 
 ### CVE-2019-17564
 >spring (spring-web（5.1.9.RELEASE）) 的httpinvoker 可能存在反序列化漏洞 [docs](https://docs.spring.io/spring-framework/docs/5.1.0.RELEASE/spring-framework-reference/integration.html#remoting-httpinvoker)
@@ -15,3 +16,7 @@ https://www.mi1k7ea.com/2021/07/03/%E6%B5%85%E6%9E%90Dubbo-HttpInvokerServiceExp
 https://www.mi1k7ea.com/2021/06/30/%E6%B5%85%E6%9E%90Dubbo-KryoFST%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E%EF%BC%88CVE-2021-25641%EF%BC%89/
 
 ~~可以整理一个fastjson利用gadget~~
+
+### CVE-2021-30179
+
+https://mp.weixin.qq.com/s/vHJpE2fZ8Lne-xFggoQiAg
