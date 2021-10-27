@@ -22,3 +22,10 @@ https://www.mi1k7ea.com/2021/06/30/%E6%B5%85%E6%9E%90Dubbo-KryoFST%E5%8F%8D%E5%B
 https://mp.weixin.qq.com/s/vHJpE2fZ8Lne-xFggoQiAg
 
 **个人认为CVE-2021-30179的主要思路就是Apache Dubbo在处理泛类引用时，提供了多种通过反序列化方式得到对象再生成pojo对象的选择。** 三梦师傅说跟这个思路扩大了反序列化挖掘思路
+
+### Dubbo反序列化RCE利用之新拓展面 - Dubbo Rouge攻击客户端
+
+https://xz.aliyun.com/t/7354
+
+**文章中有一点非常强**
+![image](https://user-images.githubusercontent.com/63966847/139078049-28694796-bb21-40fe-9e8d-38d96da29ab8.png)
