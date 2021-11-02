@@ -46,3 +46,4 @@
 + 2021/10/26 [XXL-JOB Hessian2反序列化漏洞](https://www.mi1k7ea.com/2021/04/22/XXL-JOB-Hessian2%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E/)
 + 2021/10/30 [Mojarra JSF ViewState 反序列化漏洞](https://blog.csdn.net/xuandao_ahfengren/article/details/113135364) 
 + 2021/11/02 [关于Java 中 XXE 的利用限制探究](https://www.freebuf.com/articles/web/284225.html) **使用http外带数据不能有换行，使用ftp可以解决，但是ftp在java 8u131修复了这个漏洞 CVE-2017-3533**
++ 2021/11/02 [Adobe ColdFusion 反序列化漏洞（CVE-2017-3066）](https://github.com/vulhub/vulhub/blob/master/coldfusion/CVE-2017-3066/README.zh-cn.md) 暴露接口反序列化。。。
