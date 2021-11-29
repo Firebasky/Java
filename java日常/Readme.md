@@ -49,3 +49,4 @@
 + 2021/11/02 [Adobe ColdFusion 反序列化漏洞（CVE-2017-3066）](https://github.com/vulhub/vulhub/blob/master/coldfusion/CVE-2017-3066/README.zh-cn.md) 暴露接口反序列化。。。
 + 2021/11/03 [浅谈Liferay Portal JSON Web Service未授权反序列化远程代码执行漏洞](https://xz.aliyun.com/t/7485)
 + 2021/11/03 [H2 Database Console 未授权访问](https://github.com/vulhub/vulhub/blob/master/h2database/h2-console-unacc/README.zh-cn.md)
++ 2021/11/30 [wsdl相关](wsdl.md) **接触到一些soap协议。。。**
