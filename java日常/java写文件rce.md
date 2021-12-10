@@ -12,6 +12,15 @@
 面前自己遇到的是springboot项目 通过覆盖charset.jar去hook实现rce。大概原理就是jvm启动的过程中不会全部加载资源如charset.jar是不会加载的只有通过特点方法才会加载。这样可以减少Java内存的消耗。
 参考 文章springboot写文件rce
 
+### springboot
+
+https://landgrey.me/blog/22/
+
+https://threedr3am.github.io/2021/04/14/JDK8%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E5%86%99%E5%9C%BA%E6%99%AF%E4%B8%8B%E7%9A%84SpringBoot%20RCE/
+
+### fastjson
+https://threedr3am.github.io/2021/04/13/JDK8%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E5%86%99%E5%9C%BA%E6%99%AF%E4%B8%8B%E7%9A%84Fastjson%20RCE/
+
 >
 https://www.cnblogs.com/wh4am1/p/14681335.html
 
