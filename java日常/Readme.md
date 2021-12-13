@@ -52,3 +52,4 @@
 + 2021/11/30 [wsdl相关](wsdl.md) **接触到一些soap协议。。。**
 + 2021/12/11 [log4j 漏洞一些特殊的利用方式](https://mp.weixin.qq.com/s?__biz=Mzg4OTExMjE2Mw==&mid=2247483945&idx=1&sn=b15b68d95da83bb20f1b3496396f823a&chksm=cff19125f88618338373a32f98be3d2a9497b464d6531658c2aa96f4872c23eed294441917b5&mpshare=1&scene=23&srcid=1211aS0Tghr1agBnBRlwwGTw&sharer_sharetime=1639232420884&sharer_shareid=33a823b10ae99f33a60db621d83241cb#rd) **自己也发现了这个利用思路，不过不知道ResourceBundle类是干什么的。。。。** https://www.cnblogs.com/jona-test/p/11399218.html  **用来读取项目中后缀为properties的配置文件，然后通过dnslog或者ldap回显示**
 + 2021/12/13 [Java读文件](https://www.cnblogs.com/hkgov/p/14707726.html) **方便操作。。。**
++ 2021/12/14 [不使用new创建对象](https://zhuanlan.zhihu.com/p/214093086) **unsafe.allocateInstance()**
