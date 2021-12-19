@@ -55,3 +55,4 @@
 + 2021/12/14 [不使用new创建对象](https://zhuanlan.zhihu.com/p/214093086) **unsafe.allocateInstance()** [unsafe使用](https://tech.meituan.com/2019/02/14/talk-about-java-magic-class-unsafe.html)
 + 2021/12/14 [Spring Boot中关于%2e的Trick](http://rui0.cn/archives/1643)
 + 2021/12/18 [闲谈log4j2](闲谈log4j2.md)
++ 2021/12/19 [SPI机制](SPI机制.md)
