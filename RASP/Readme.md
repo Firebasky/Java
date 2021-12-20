@@ -46,6 +46,8 @@ PHP是通过开发第php扩展库来进行实现。
 
 ### 代学习
 
+https://www.freebuf.com/articles/web/197823.html
+
 https://paper.seebug.org/1041/
 
 https://blog.csdn.net/u011721501/article/details/74990346
