@@ -13,3 +13,9 @@
 + 2021/10/6  学习了java代码审计书中的jspxcms,发现其中的**conn.getContentType('image')可以通过自己搭建的http服务器实现**。 evilserver.php
 + 2021/11/01  突然间看了一篇文章[代码审计入门之Jeeplus代码审计](https://www.freebuf.com/articles/web/220066.html)
 + 2021/11/02 [CVE-2020-10189 Zoho ManageEngine反序列化RCE](https://xz.aliyun.com/t/7439) **对文件进行反序列化，绕过上传。**  [参考](https://www.anquanke.com/post/id/200474)
+
+
+## 好文章
+
+https://www.sec-in.com/author/8 这个师傅太猛了 
+
