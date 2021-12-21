@@ -144,4 +144,11 @@ public class main {
     }
 }
 ```
+2021/12/21 更新
 
+## 远程加载
+
+之前在安全客上介绍了这个利用思路[文章](https://www.anquanke.com/post/id/248771#h3-3)，当时没有利用成功，今天晚上jiang师傅给我说了利用思路。大概是一个load()去远程加载执行。
+
+
+https://anuradha-15.medium.com/loading-scripts-using-nashorn-85585f495cf0
