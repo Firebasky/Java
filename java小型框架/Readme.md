@@ -21,4 +21,4 @@ https://www.sec-in.com/author/8 这个师傅太猛了
 
 + 2021/12/21 [SpringMVC寻找Controller技巧](https://www.sec-in.com/article/552) **@(.*?)Mapping\(**
 + 2021/12/21 [绕过后缀安全检查进行文件上传](https://sec-in.com/article/647) **解决了条件竞争不知道文件名的问题，通过异常报错让程序停止向下执行绕过。（在multipart做文章）**
-+ 2021/12/21 [绕过后缀安全检查进行文件上传-2](https://www.sec-in.com/article/1328) **只能说非常np了，servlet单例，存在线程安全问题**  看看能不能搭建一个环境复现一下。。。。
++ 2021/12/21 [绕过后缀安全检查进行文件上传-2](https://www.sec-in.com/article/1328) **只能说非常np了，servlet单例，存在线程安全问题。扩展一下java中volatile有可能存在线程安全问题**  看看能不能搭建一个环境复现一下。。。。
