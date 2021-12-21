@@ -20,4 +20,5 @@
 https://www.sec-in.com/author/8 这个师傅太猛了 
 
 + 2021/12/21 [SpringMVC寻找Controller技巧](https://www.sec-in.com/article/552) **@(.*?)Mapping\(**
++ 2021/12/21 [绕过后缀安全检查进行文件上传](https://sec-in.com/article/647) **解决了条件竞争不知道文件名的问题，通过异常报错让程序停止向下执行绕过。（在multipart做文章）**
 + 
