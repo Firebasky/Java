@@ -1,5 +1,7 @@
 # java回显
 
+发现个好项目 https://github.com/feihong-cs/Java-Rce-Echo
+
 >一般web服务是想办法获得response对象，可以参考[2021RCTF ezshell](https://github.com/Firebasky/ctf-Challenge/tree/main/RCTF-2021-EZshell)
 
 
