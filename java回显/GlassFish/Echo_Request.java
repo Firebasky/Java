@@ -14,7 +14,7 @@ package com.firebasky.exp;
 
 
 /**
- * GlassFish 回显
+ * GlassFish 回显 有问题获得的res为null,等待完善
  */
 public class Echo_Request {
     static {
