@@ -208,6 +208,9 @@ https://mp.weixin.qq.com/s?__biz=MzU5MjEzOTM3NA==&mid=2247490570&idx=1&sn=279f4c
 不愧是师傅总结的不错，简单的说就是通过配置文件去rce.
 突然又想到了一个：web.xml里面添加servlet去实现解析一句话。
 访问/exp路由就会解析
+
+![image](https://user-images.githubusercontent.com/63966847/147626724-576ba23e-7fdf-4b73-b591-095af4578f8a.png)
+
 ```xml
 <servlet>
 <servlet-name>xxx</servlet-name>
