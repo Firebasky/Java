@@ -1,6 +1,8 @@
 # java日常
 
 >有一些不知道这么分类就放里面吧
+>
+## 2021
 
 + 2021/7/27 [java-fix序列化漏洞](java-fix序列化漏洞.md)
 + 2021/7/28 [java执行js导致命令执行](java执行js导致命令执行.pdf)
@@ -60,3 +62,6 @@
 + 2021/12/23 [寻找复杂对象的属性值](searchobj.md) **是在使用object-searcher的时候想到了，于是去学习了一下在java中通过递归去寻找复杂对象的属性。**
 + 2021/12/29 [jps命令](https://www.cnblogs.com/keystone/p/10789382.html) **其中可以支持远程调用并且默认情况下， jstatd开启在1099 端口上开启RMI服务器，rmi服务？想到了什么！**
 + 2021/12/30 [浅谈Log4j2不借助dnslog的检测](https://xz.aliyun.com/t/10676) **还得是大哥，思路太棒了，通过tcp数据传输的方面来验证漏洞。。学习！**
++ 2021/12/31 [构造java探测class反序列化gadget的思考](构造java探测class反序列化gadget的思考.md) **2021 新年快乐**
+
+## 2022
