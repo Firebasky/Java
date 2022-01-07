@@ -65,3 +65,4 @@
 + 2021/12/31 [构造java探测class反序列化gadget的思考](构造java探测class反序列化gadget的思考.md) **2021 新年快乐**
 
 ## 2022
++ 2022/01/07 [GadgetProbe：利用反序列化来暴力破解远程类路径](https://bishopfox.com/blog/gadgetprobe) **和构造java探测class反序列化gadget的思考思路是一样的**
