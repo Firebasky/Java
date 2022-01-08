@@ -68,3 +68,5 @@
 + 2022/01/07 [GadgetProbe：利用反序列化来暴力破解远程类路径](https://bishopfox.com/blog/gadgetprobe) **和构造java探测class反序列化gadget的思考思路是一样的**
 + 2022/01/08 [目录穿越上传](https://github.com/metersphere/metersphere/issues/8653) **tw上有一个后台上传jar插件进行getshell的**
 + 2022/01/08 [关于 Java 中的 RMI-IIOP](https://paper.seebug.org/1105/) **没有这么看懂。23333**
++ 2022/01/08 [你了解 SpringBoot java -jar 的启动原理吗？](https://xie.infoq.cn/article/765f324659d44a5e1eae1ee0c) 
++ 
