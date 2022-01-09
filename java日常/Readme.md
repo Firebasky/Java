@@ -72,3 +72,4 @@
 + 2022/01/08 [c语言能不能实现agent?](c语言能实现agent%3F!.md) **通过编写c语言代码去实现agent**  **实现了通用的代码https://gist.github.com/Firebasky/c1efd9dc7eb964a77cb788c170a8598f**
 + 2022/01/09 [瞒天过海计之Tomcat隐藏内存马](https://tttang.com/archive/1368/) 思路是[从一个被Tomcat拒绝的漏洞到特殊内存马](https://xz.aliyun.com/t/10577)中不过使用了agent去实现并且工具化了，太猛了(有空学习一下ysomap。。。。
 + 2022/01/09 [入侵JVM?Java Agent原理浅析和实践中](https://blog.csdn.net/CringKong/article/details/120840827)
++ 2022/01/09 [Java内存攻击技术漫谈](https://xz.aliyun.com/t/10075) **神仙级别的文章，还没有看完23333，慢慢消化** 
