@@ -74,3 +74,4 @@
 + 2022/01/09 [入侵JVM?Java Agent原理浅析和实践中](https://blog.csdn.net/CringKong/article/details/120840827)
 + 2022/01/09 [Java内存攻击技术漫谈](https://xz.aliyun.com/t/10075) **神仙级别的文章，还没有看完23333，慢慢消化** 
 + 2022/01/09 [解决agent中tools加载的问题](解决agent中tools加载的问题.md) **学习思路**
++ 2022/01/10 [unsafe学习](unsafe学习.md) **可以用来bypass 反射filter**
