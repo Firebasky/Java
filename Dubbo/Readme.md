@@ -148,6 +148,7 @@ Apache Dubbo 2.7.0 to 2.7.9
 Apache Dubbo 2.6.0 to 2.6.9
 Apache Dubbo all 2.5.x versions (官方已不再提供支持)
 ```
+exp:https://github.com/lz2y/DubboPOC
 
 **个人认为CVE-2021-30179的主要思路就是Apache Dubbo在处理泛类引用时，提供了多种通过反序列化方式得到对象再生成pojo对象的选择。** 三梦师傅说跟这个思路扩大了反序列化挖掘思路
 
