@@ -141,7 +141,8 @@ CVE-2021-25641 利用版本需要判断
 
 ### CVE-2021-30179
 
-https://mp.weixin.qq.com/s/vHJpE2fZ8Lne-xFggoQiAg
+分析：https://mp.weixin.qq.com/s/vHJpE2fZ8Lne-xFggoQiAg
+实验：https://mp.weixin.qq.com/s?__biz=MzA4NzUwMzc3NQ==&mid=2247488856&idx=1&sn=ee37514a5bfbf8c35f4ec661a4c7d45a&chksm=903933a8a74ebabecaf9428995491494f20e5b24a15f8d52e79d3a9dac601620c21d097cdc1f&scene=21#wechat_redirect
 
 ```
 Apache Dubbo 2.7.0 to 2.7.9
