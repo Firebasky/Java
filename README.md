@@ -19,12 +19,14 @@
 + 2021/12/17 [添加Springcloud](Springcolud) 💛 💙 💜 ❤️ 💚
 + 2021/12/17 [添加jbdc](Jdbc) 💛 💙 💜 ❤️ 💚
 + 2021/12/19 [添加Jenkins](Jenkins) 💛 💙 💜 ❤️ 💚
++ 2022/01/14 [添加了dubbo漏洞分析](Dubbo) 💛 💙 💜 ❤️ 💚
 
 
 
 ## 代学习
 
 [java设计模式](https://www.runoob.com/design-pattern/design-pattern-tutorial.html)       :heavy_check_mark:  
+[jvm学习]
 
 
 
