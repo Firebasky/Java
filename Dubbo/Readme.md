@@ -147,8 +147,16 @@ https://mp.weixin.qq.com/s/vHJpE2fZ8Lne-xFggoQiAg
 Apache Dubbo 2.7.0 to 2.7.9
 Apache Dubbo 2.6.0 to 2.6.9
 Apache Dubbo all 2.5.x versions (官方已不再提供支持)
+
+实验：https://mp.weixin.qq.com/s?__biz=MzA4NzUwMzc3NQ==&mid=2247488856&idx=1&sn=ee37514a5bfbf8c35f4ec661a4c7d45a&chksm=903933a8a74ebabecaf9428995491494f20e5b24a15f8d52e79d3a9dac601620c21d097cdc1f&scene=21#wechat_redirect
+
 ```
 exp:https://github.com/lz2y/DubboPOC
+```
+Apache Dubbo默认支持泛化引用由服务端API接口暴露的所有方法，这些调用由GenericFilter处理。GenericFilter将根据客户端提供的接口名、方法名、方法参数类型列表，根据反射机制获取对应的方法，再根据客户端提供的反序列化方式将参数进行反序列化成pojo对象。
+
+也就是说需要知道注册中心注册的接口名，方法名，才可以配合攻击。
+```
 
 **个人认为CVE-2021-30179的主要思路就是Apache Dubbo在处理泛类引用时，提供了多种通过反序列化方式得到对象再生成pojo对象的选择。** 三梦师傅说跟这个思路扩大了反序列化挖掘思路
 
