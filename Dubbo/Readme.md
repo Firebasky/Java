@@ -143,6 +143,12 @@ CVE-2021-25641 利用版本需要判断
 
 https://mp.weixin.qq.com/s/vHJpE2fZ8Lne-xFggoQiAg
 
+```
+Apache Dubbo 2.7.0 to 2.7.9
+Apache Dubbo 2.6.0 to 2.6.9
+Apache Dubbo all 2.5.x versions (官方已不再提供支持)
+```
+
 **个人认为CVE-2021-30179的主要思路就是Apache Dubbo在处理泛类引用时，提供了多种通过反序列化方式得到对象再生成pojo对象的选择。** 三梦师傅说跟这个思路扩大了反序列化挖掘思路
 
 ### Dubbo反序列化RCE利用之新拓展面 - Dubbo Rouge攻击客户端
