@@ -178,3 +178,6 @@ https://xz.aliyun.com/t/7354
 
 **文章中有一点非常强**
 ![image](https://user-images.githubusercontent.com/63966847/139078049-28694796-bb21-40fe-9e8d-38d96da29ab8.png)
+
+在一次看了threedr3am师傅的文章太精彩了，简单的说就是通过注册中心上注册恶意rpc服务并且设置序列化为java原生序列化，等待客户端去连接。
+也就是**rouge**,中文名称叫胭脂，hhh 有点美人计的味道了。
