@@ -10,6 +10,8 @@ http://www.lmxspace.com/2020/02/16/Apache-Dubbo%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C
 
 https://www.mi1k7ea.com/2021/07/03/%E6%B5%85%E6%9E%90Dubbo-HttpInvokerServiceExporter%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E%EF%BC%88CVE-2019-17564%EF%BC%89/
 
+演示：https://github.com/vulhub/vulhub/blob/master/dubbo/CVE-2019-17564/README.zh-cn.md
+
 ### CVE-2020-1948
 https://www.anquanke.com/post/id/209251
 ```
