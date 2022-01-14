@@ -15,6 +15,12 @@ https://www.mi1k7ea.com/2021/07/03/%E6%B5%85%E6%9E%90Dubbo-HttpInvokerServiceExp
 
 https://www.mi1k7ea.com/2021/06/30/%E6%B5%85%E6%9E%90Dubbo-KryoFST%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E%EF%BC%88CVE-2021-25641%EF%BC%89/
 
+```
+CVE-2021-25641 利用版本需要判断
+
+一方面dubbo-common必须<=2.7.3版本另一方面fj的版本要<=1.2.49 并且在2.7.4.1的版本中已经更新了fj版本所以不能使用(只是目前)
+
+```
 ~~可以整理一个fastjson利用gadget~~
 
 ### CVE-2021-30179
