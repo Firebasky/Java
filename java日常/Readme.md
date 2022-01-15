@@ -76,3 +76,4 @@
 + 2022/01/09 [解决agent中tools加载的问题](解决agent中tools加载的问题.md) **学习思路**
 + 2022/01/10 [unsafe学习](unsafe学习.md) **可以用来bypass 反射filter**
 + 2022/01/14 [CVE-2021-45456ApacheKylin命令注入分析补充](CVE-2021-45456ApacheKylin命令注入分析补充.md) **对2次函数的处理出现了问题**
++ 2022/01/15 [wJa无源码的源码级调试jar包](https://www.freebuf.com/sectool/318013.html) **这个工具好像是比较新?还没有使用过** [bilibil视频](https://www.bilibili.com/video/BV19m4y1Q75X/)
