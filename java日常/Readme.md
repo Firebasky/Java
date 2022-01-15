@@ -78,3 +78,4 @@
 + 2022/01/14 [CVE-2021-45456ApacheKylin命令注入分析补充](CVE-2021-45456ApacheKylin命令注入分析补充.md) **对2次函数的处理出现了问题**
 + 2022/01/15 [wJa无源码的源码级调试jar包](https://www.freebuf.com/sectool/318013.html) **这个工具好像是比较新?还没有使用过** [bilibil视频](https://www.bilibili.com/video/BV19m4y1Q75X/)
 + 2022/01/15 [使用 Yakit 打破 Java 序列化协议语言隔离](https://www.freebuf.com/sectool/318064.html) **比较好从字节码的方向出发方向，之前写gormi的时候也遇到了这个问题**
++ 2022/01/15 [CVE 2021 43287分析](CVE-2021-43287.md) 
