@@ -21,6 +21,11 @@ https://www.anquanke.com/post/id/198842
 https://www.00theway.org/2020/01/04/apereo-cas-rce/
 
 ## PaddingOracle
+
+https://github.com/cL0und/cas4.x-execution-rce/blob/master/cas-padding-oracle.py
+
+>If the target is cas4.x-cas.4.1.6 and the environment is not hardcoded with a key, you can attack by padding oracle.
+
 https://lfysec.top/2020/06/01/ApereoCAS-PaddingOracle%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/
 
 ## xxe
