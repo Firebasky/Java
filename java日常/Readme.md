@@ -81,3 +81,4 @@
 + 2022/01/15 [CVE 2021 43287分析](CVE-2021-43287.md) 
 + 2022/01/16 [探索高版本 JDK 下 JNDI 漏洞的利用方法](https://tttang.com/archive/1405) **不愧是浅蓝师傅，非常好的文章**  [JNDI jdk高版本绕过—— Druid](https://xz.aliyun.com/u/23823) **都是根据本地的Factory类去寻找的**  **自己使用ast实现了去寻找的功能。。。**
 + 2022/01/18 [一次jsp上传绕过的思考 --yzddMr6](https://www.jianshu.com/p/c0c566de4e97) **感觉自己需要去详细的了解一下jsp** [jsp标签绕过](jsp标签绕过.md)
++ 2022/01/20 [Tomcat URL解析差异性及利用](http://www.mi1k7ea.com/2020/04/01/Tomcat-URL%E8%A7%A3%E6%9E%90%E5%B7%AE%E5%BC%82%E6%80%A7%E5%8F%8A%E5%88%A9%E7%94%A8/) **Tomcat对`/;xxx/`以及`/./`的处理是包容的、对`/../`会进行跨目录拼接处理**
