@@ -181,3 +181,7 @@ https://xz.aliyun.com/t/7354
 
 在一次看了threedr3am师傅的文章太精彩了，简单的说就是通过注册中心上注册恶意rpc服务并且设置序列化为java原生序列化，等待客户端去连接。
 也就是**rouge**,中文名称叫胭脂，hhh 有点美人计的味道了。
+
+### CVE-2021-43297
+
+https://paper.seebug.org/1814/
