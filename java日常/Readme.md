@@ -83,4 +83,5 @@
 + 2022/01/18 [一次jsp上传绕过的思考 --yzddMr6](https://www.jianshu.com/p/c0c566de4e97) **感觉自己需要去详细的了解一下jsp** [jsp标签绕过](jsp标签绕过.md)
 + 2022/01/20 [Tomcat URL解析差异性及利用](http://www.mi1k7ea.com/2020/04/01/Tomcat-URL%E8%A7%A3%E6%9E%90%E5%B7%AE%E5%BC%82%E6%80%A7%E5%8F%8A%E5%88%A9%E7%94%A8/) **Tomcat对`/;xxx/`以及`/./`的处理是包容的、对`/../`会进行跨目录拼接处理**  [tomcat容器url解析特性研究](https://xz.aliyun.com/t/10799)
 + 2022/01/20 [微某OA从0day流量分析到武器化利用](https://mp.weixin.qq.com/s/iTP9jBypsJEsSlAIaNOnhw)  [exp](https://github.com/0730Nophone/E-cology-WorkflowServiceXml-)
++ 2022/01/21 [使用JVMTI技术解密class文件](https://landgrey.me/blog/5/) **JVMTI**去操作类似攻击思想agent加载c原因实现攻击
  
