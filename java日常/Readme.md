@@ -86,3 +86,4 @@
 + 2022/01/21 [使用JVMTI技术解密class文件](https://landgrey.me/blog/5/) **JVMTI**去操作类似攻击思想agent加载c原因实现攻击
 + 2022/01/21 [JSP 包含文件的四种方法](https://landgrey.me/blog/4/) **利用<jsp:directive.include file="include.txt"/>**可以包含非jsp的文件，可以利用来做后门。[jsp include后门文件](https://www.javaweb.org/?p=84)
 + 2022/01/22 [Java Timer 后门](https://www.javaweb.org/?p=544) **只能说思路太厉害了** **Timer 的特性是，如果不是所有未完成的任务都已完成执行，或不调用 Timer 对象的cancel 方法，这个线程是不会停止，也不会被 GC 的，因此，这个任务会一直执行下去，直到应用关闭。**
++ 2022/01/23 [用Java 调试协议JDWP(Java DEbugger Wire Protocol) 弹shell](https://www.javaweb.org/?p=1875) **之前面试问到了内网中存在的比较多**
