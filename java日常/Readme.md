@@ -85,3 +85,4 @@
 + 2022/01/20 [微某OA从0day流量分析到武器化利用](https://mp.weixin.qq.com/s/iTP9jBypsJEsSlAIaNOnhw)  [exp](https://github.com/0730Nophone/E-cology-WorkflowServiceXml-)
 + 2022/01/21 [使用JVMTI技术解密class文件](https://landgrey.me/blog/5/) **JVMTI**去操作类似攻击思想agent加载c原因实现攻击
 + 2022/01/21 [JSP 包含文件的四种方法](https://landgrey.me/blog/4/) **利用<jsp:directive.include file="include.txt"/>**可以包含非jsp的文件，可以利用来做后门。
++ 2022/01/22 [Java Timer 后门](https://www.javaweb.org/?p=544) **只能说思路太厉害了**
