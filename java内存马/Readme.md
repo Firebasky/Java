@@ -12,3 +12,4 @@
 
 ## 查杀
 + [查杀Java web filter型内存马](https://gv7.me/articles/2020/kill-java-web-filter-memshell/)
++ [Filter/Servlet型内存马的扫描抓捕与查杀](https://gv7.me/articles/2020/filter-servlet-type-memshell-scan-capture-and-kill/)
