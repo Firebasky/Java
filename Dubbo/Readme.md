@@ -185,3 +185,7 @@ https://xz.aliyun.com/t/7354
 ### CVE-2021-43297
 
 https://paper.seebug.org/1814/
+
+### Dubbo 2.7.8多个远程代码执行漏洞
+
+https://xz.aliyun.com/t/8917
