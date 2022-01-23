@@ -8,3 +8,6 @@
 
 ## 后门
 + [一种tomcat中间件留持久化后门的思路](https://gv7.me/articles/2021/an-idea-of-keeping-persistent-backdoor-in-tomcat-middleware/)
+
+## 查杀
++ [查杀Java web filter型内存马](https://gv7.me/articles/2020/kill-java-web-filter-memshell/)
