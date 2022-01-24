@@ -88,3 +88,4 @@
 + 2022/01/22 [Java Timer 后门](https://www.javaweb.org/?p=544) **只能说思路太厉害了** **Timer 的特性是，如果不是所有未完成的任务都已完成执行，或不调用 Timer 对象的cancel 方法，这个线程是不会停止，也不会被 GC 的，因此，这个任务会一直执行下去，直到应用关闭。**
 + 2022/01/23 [用Java 调试协议JDWP(Java DEbugger Wire Protocol) 弹shell](https://www.javaweb.org/?p=1875) **之前面试问到了内网中存在的比较多**
 + 2022/01/23 [JAVA虚拟机关闭钩子(Shutdown Hook)](https://blog.csdn.net/u013256816/article/details/50394923) **可用在jvm关闭的时候执行奇奇怪怪的存在比如：不死内存木马**
++ 2022/01/24 [浅谈加载字节码相关的Java安全问题](https://xz.aliyun.com/t/10535) **理论上还有其他的加载器。** 
