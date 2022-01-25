@@ -89,4 +89,4 @@
 + 2022/01/23 [用Java 调试协议JDWP(Java DEbugger Wire Protocol) 弹shell](https://www.javaweb.org/?p=1875) **之前面试问到了内网中存在的比较多**
 + 2022/01/23 [JAVA虚拟机关闭钩子(Shutdown Hook)](https://blog.csdn.net/u013256816/article/details/50394923) **可用在jvm关闭的时候执行奇奇怪怪的存在比如：不死内存木马**
 + 2022/01/24 [浅谈加载字节码相关的Java安全问题](https://xz.aliyun.com/t/10535) **理论上还有其他的加载器。** 
-+ 2022/01/25 [学习了asm的简单使用](asm.md)  [基于污点分析的JSP Webshell检测](https://xz.aliyun.com/t/10622) **其中主要是利用了asm和模拟jvm操作去判断的**
++ 2022/01/25 [学习了asm的简单使用](asm.md)  [基于污点分析的JSP Webshell检测](https://xz.aliyun.com/t/10622) **其中主要是利用了asm和模拟jvm操作去判断的**  [加载恶意字节码Webshell的检测](https://xz.aliyun.com/t/10636)
