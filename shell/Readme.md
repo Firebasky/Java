@@ -12,6 +12,8 @@ https://www.anquanke.com/post/id/243329
 
 https://xz.aliyun.com/t/7046
 
+https://mp.weixin.qq.com/s?__biz=Mzg5MjQ1OTkwMg==&mid=2247483860&idx=1&sn=436dbdf49846851da5480e9e0c26ac23&chksm=c03c8fc5f74b06d3d6a8dba8726d4b82d811254073bbc75f982bd59f705c1e750178eddd3fe7&mpshare=1&scene=23&srcid=01302ApMKF6H7h71gWVIbJDN&sharer_sharetime=1643510224916&sharer_shareid=33a823b10ae99f33a60db621d83241cb#rd
+
 **其实说到底是java.lang.Runtime#exec(string)一个对命令进行了空格切分（导致切分不合本意），另一个string[]是自己去分离可以执行**
 
 下面代码是可以执行的
