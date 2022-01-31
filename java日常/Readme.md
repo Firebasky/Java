@@ -90,3 +90,4 @@
 + 2022/01/23 [JAVA虚拟机关闭钩子(Shutdown Hook)](https://blog.csdn.net/u013256816/article/details/50394923) **可用在jvm关闭的时候执行奇奇怪怪的存在比如：不死内存木马**
 + 2022/01/24 [浅谈加载字节码相关的Java安全问题](https://xz.aliyun.com/t/10535) **理论上还有其他的加载器。** 
 + 2022/01/25 [学习了asm的简单使用](asm.md)  [基于污点分析的JSP Webshell检测](https://xz.aliyun.com/t/10622) **其中主要是利用了asm和模拟jvm操作去判断的**  [加载恶意字节码Webshell的检测](https://xz.aliyun.com/t/10636)
++ 2022/01/31 [java执行shellcode的几种方法](https://mp.weixin.qq.com/s?__biz=MzUzNTEyMTE0Mw==&mid=2247484630&idx=1&sn=5d911558674ba5a210988df35addb3eb&chksm=fa8b194ecdfc9058194a730f280fbf0eb31deaddf1bbdbb135493d593e876b807e6cc14ecae8&mpshare=1&scene=23&srcid=01319e5soHkeMskTioS9UgSt&sharer_sharetime=1643563538758&sharer_shareid=33a823b10ae99f33a60db621d83241cb#rd)
