@@ -22,4 +22,4 @@ https://www.sec-in.com/author/8 这个师傅太猛了
 + 2021/12/21 [SpringMVC寻找Controller技巧](https://www.sec-in.com/article/552) **@(.*?)Mapping\(**
 + 2021/12/21 [绕过后缀安全检查进行文件上传](https://sec-in.com/article/647) **解决了条件竞争不知道文件名的问题，通过异常报错让程序停止向下执行绕过。（在multipart做文章）**
 + 2021/12/21 [绕过后缀安全检查进行文件上传-2](https://www.sec-in.com/article/1328) **只能说非常np了，servlet单例，属性在调用时会被共享，存在线程安全问题。扩展一下java中volatile有可能存在线程安全问题[参考](https://github.com/Firebasky/Java/blob/main/java%E6%97%A5%E5%B8%B8/Thinking_in_java%E9%AB%98%E7%BA%A7%E4%B9%8Bvolatile.md)**  看看能不能搭建一个环境复现一下。。。。
-
++ 2022/01/31 [验证是否存在写文件漏洞小技巧](https://mp.weixin.qq.com/s?__biz=MzkyMDIxMjE5MA==&mid=2247483994&idx=1&sn=2d29f31afa27a3709b5dc9e46532230a&chksm=c19705ebf6e08cfdd6dc59937beee4a77110b3cac9958335a6cfdbd020d00f2f24a7033063f2&mpshare=1&scene=23&srcid=0131EzMk9fpayyNZeXFR8nhb&sharer_sharetime=1643561054742&sharer_shareid=33a823b10ae99f33a60db621d83241cb#rd)
