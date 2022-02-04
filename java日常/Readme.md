@@ -93,3 +93,4 @@
 + 2022/01/31 [java执行shellcode的几种方法](https://mp.weixin.qq.com/s?__biz=MzUzNTEyMTE0Mw==&mid=2247484630&idx=1&sn=5d911558674ba5a210988df35addb3eb&chksm=fa8b194ecdfc9058194a730f280fbf0eb31deaddf1bbdbb135493d593e876b807e6cc14ecae8&mpshare=1&scene=23&srcid=01319e5soHkeMskTioS9UgSt&sharer_sharetime=1643563538758&sharer_shareid=33a823b10ae99f33a60db621d83241cb#rd)
 + 2022/02/01 [Java环境下通过时间竞争实现DNS Rebinding 绕过SSRF 防御限制](https://mp.weixin.qq.com/s?__biz=MzA4ODc0MTIwMw==&mid=2652533185&idx=1&sn=e960a15c6dd5071b22d615c6fe85ba8c&chksm=8bcb55fdbcbcdcebb1433de02cd3250c4d460e9401581817f15d887d90adcdf5c453ec9c31b1&mpshare=1&scene=23&srcid=0201Tl4H6As13axhsze8JJi9&sharer_sharetime=1643683667134&sharer_shareid=33a823b10ae99f33a60db621d83241cb#rd) **通过条件竞争绕过java默认ttl不为0**
 + 2022/02/02 [The Story of an RCE on a Java Web Application](https://infosecwriteups.com/the-story-of-a-rce-on-a-java-web-application-2e400cddcd1e)
++ 2022/02/04 [深入学习tomcat](深入学习tomcat.md) **清楚了tomcat的流程**
