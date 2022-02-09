@@ -95,3 +95,4 @@
 + 2022/02/02 [The Story of an RCE on a Java Web Application](https://infosecwriteups.com/the-story-of-a-rce-on-a-java-web-application-2e400cddcd1e)
 + 2022/02/04 [深入学习tomcat](深入学习tomcat.md) **清楚了tomcat的流程**
 + 2022/02/07 [Resin解析漏洞分析](https://mp.weixin.qq.com/s?__biz=MzIxNTIzMzM1Ng==&mid=2651103763&idx=1&sn=f3147eae969a17bd04e0a6471e2109e0&chksm=8c6b6430bb1ced267d4294a72bc991d2780b2a1521504660a010900319ae637b114c453c3057&mpshare=1&scene=23&srcid=02075OY7BLNDsUwhHiaWDFw4&sharer_sharetime=1644211604502&sharer_shareid=33a823b10ae99f33a60db621d83241cb#rd) **主要出问题的是^.*\.jsp(?=/)部分这个正则的逻辑是匹配xxxx.jsp/xxxx所以我们传入的路径会被匹配到,这也是这个漏洞的本质原因**
++ 2022/02/09 [Java加载动态链接库](http://tttang.com/archive/1436/) **模拟实现加载动态链接库webshell**
