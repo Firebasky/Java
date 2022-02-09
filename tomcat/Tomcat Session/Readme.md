@@ -31,6 +31,6 @@ ln -s /Users/xxxx/java/soft/apache-tomcat-8.5.42/work/Catalina/localhost/ROOT/a.
 JSESSIONID=../../../tmp/exp.session
 然后条件竞争去修改/tmp/exp.session
 ```
-**trick**
+**trick**:
 new File("ceshi.session").getCanonicalFile()
 如果是Symlinks文件就返回本来的文件名
