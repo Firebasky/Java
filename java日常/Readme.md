@@ -100,3 +100,4 @@
 + 2022/02/10 [通过代码执行修改Shiro密钥](https://mp.weixin.qq.com/s?__biz=MzkzNTI4NjU1Mw==&mid=2247483900&idx=1&sn=af727619a14b4677acb6ddad156524b9&chksm=c2b1038af5c68a9cc5185e1ed9ec0aa13963de3b2853c13fc0bf7a6184ec649cae9b28eda621&mpshare=1&scene=23&srcid=0210HYf3qYA2UnBm9sCrvUGM&sharer_sharetime=1644429131269&sharer_shareid=33a823b10ae99f33a60db621d83241cb#rd)
 + 2022/02/10 shiro利用head太长解决办法？ 1.反射修改headmax值 2.获取request，将post的数据进行classloader加载，加载的内容为动态注册filter内存马。
 + 2022/02/10 [java调用shell脚本_记一次突破反弹shell](https://blog.csdn.net/weixin_39620845/article/details/111048567)  **反弹java socket shell实现不依赖反弹shell环境**
++ 2022/02/10 [OpenRASP 两次绕过](https://mp.weixin.qq.com/s/hkL8VPHnTgFsOCCrNlRpzQ) **1.修改特征值 2.在静态代码里面开启新线程调用恶意方法**
