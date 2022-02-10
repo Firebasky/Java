@@ -98,3 +98,4 @@
 + 2022/02/09 [Java加载动态链接库](http://tttang.com/archive/1436/) **模拟实现加载动态链接库webshell**
 + 2022/02/09 [Tomcat Session(CVE-2020-9484)反序列化漏洞复现](https://www.freebuf.com/vuls/245232.html)  [Apache Tomcat权限提升漏洞分析CVE-2022-23181](https://mp.weixin.qq.com/s/sQH0CbiSHdpsoJf7ABPrtA)
 + 2022/02/10 [通过代码执行修改Shiro密钥](https://mp.weixin.qq.com/s?__biz=MzkzNTI4NjU1Mw==&mid=2247483900&idx=1&sn=af727619a14b4677acb6ddad156524b9&chksm=c2b1038af5c68a9cc5185e1ed9ec0aa13963de3b2853c13fc0bf7a6184ec649cae9b28eda621&mpshare=1&scene=23&srcid=0210HYf3qYA2UnBm9sCrvUGM&sharer_sharetime=1644429131269&sharer_shareid=33a823b10ae99f33a60db621d83241cb#rd)
++ 2022/02/10 shiro利用head太长解决办法？ 1.反射修改headmax值 2.获取request，将post的数据进行classloader加载，加载的内容为动态注册filter内存马。
