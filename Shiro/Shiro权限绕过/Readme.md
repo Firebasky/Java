@@ -41,6 +41,8 @@ https://github.com/apache/shiro/commit/3708d7907016bf2fa12691dff6ff0def1249b8ce#
 
 ## CVE-2020-11989
 
+[Apache Shiro权限绕过漏洞CVE-2020-11989分析](https://www.anquanke.com/post/id/222489)
+
 **payload：/admin/%252fxxx**
 
 漏洞产生的原因是因为 Spring 与 Shiro 之间对 url 的处理不同从而导致权限绕过.
