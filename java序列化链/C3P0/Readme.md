@@ -50,6 +50,12 @@ public static String bytesToHexString(byte[] bArray, int length) {
 }
 ```
 
+## 不出网利用
+
+
+[JAVA反序列化之C3P0不出网利用](https://mp.weixin.qq.com/s?__biz=MzkzNTI4NjU1Mw==&mid=2247483871&idx=1&sn=56c63dc3f4dc22ad9c61143ee2c484df&chksm=c2b103a9f5c68abfb8e6cb39e81210cce98a3a6850c69b756b7018bc0db829d00af08839d8fc&mpshare=1&scene=23&srcid=1009lg8jEvc5MFXslLojyUud&sharer_sharetime=1644428964407&sharer_shareid=33a823b10ae99f33a60db621d83241cb#rd)
+
+
 > 参考
 >
 > http://redteam.today/2020/04/18/c3p0%E7%9A%84%E4%B8%89%E4%B8%AAgadget/
