@@ -102,3 +102,4 @@
 + 2022/02/10 [java调用shell脚本_记一次突破反弹shell](https://blog.csdn.net/weixin_39620845/article/details/111048567)  **反弹java socket shell实现不依赖反弹shell环境**
 + 2022/02/10 [OpenRASP 两次绕过](https://mp.weixin.qq.com/s/hkL8VPHnTgFsOCCrNlRpzQ) **1.修改特征值 2.在静态代码里面开启新线程调用恶意方法**
 + 2022/02/21 **java 中存在编译时执行函数（注解的方式执行）**
++ 2022/02/23 [原创 | emoji、shiro与log4j2漏洞](https://mp.weixin.qq.com/s/mEwljigkkXk-y1ik7au_CQ) **通过fuzz报错记录log触发log4j2漏洞**
