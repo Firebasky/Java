@@ -103,3 +103,4 @@
 + 2022/02/10 [OpenRASP 两次绕过](https://mp.weixin.qq.com/s/hkL8VPHnTgFsOCCrNlRpzQ) **1.修改特征值 2.在静态代码里面开启新线程调用恶意方法**
 + 2022/02/21 **java 中存在编译时执行函数（注解的方式执行）**
 + 2022/02/23 [原创 | emoji、shiro与log4j2漏洞](https://mp.weixin.qq.com/s/mEwljigkkXk-y1ik7au_CQ) **通过fuzz报错记录log触发log4j2漏洞**
++ 2022/03/06 [Make JDBC Attacks Brilliant Again 番外篇](https://tttang.com/archive/1462/) **np!**
