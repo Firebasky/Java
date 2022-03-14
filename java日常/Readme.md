@@ -105,3 +105,5 @@
 + 2022/02/23 [原创 | emoji、shiro与log4j2漏洞](https://mp.weixin.qq.com/s/mEwljigkkXk-y1ik7au_CQ) **通过fuzz报错记录log触发log4j2漏洞**
 + 2022/03/06 [Make JDBC Attacks Brilliant Again 番外篇](https://tttang.com/archive/1462/) **np!**
 + 2022/03/07 [Java Web —— 从内存中Dump JDBC数据库明文密码](https://mp.weixin.qq.com/s?__biz=Mzg5OTQ3NzA2MQ==&mid=2247485138&idx=1&sn=1229156e187fedd7b4aa4b1ac6c8f490&chksm=c053fdf8f72474eeb936fdfcefa43a74e2a7f661b9b98bff73330e5e661184440821047addf7&mpshare=1&scene=23&srcid=0307Aw2UzS1q0Fsdy5d2vqCD&sharer_sharetime=1646624025057&sharer_shareid=33a823b10ae99f33a60db621d83241cb#rd) **在connect之前hook任何写入用户名密码**
++ 2022/03/14 [关于JavaWeb后门问题](https://wooyun.js.org/drops/%E6%94%BB%E5%87%BBJavaWeb%E5%BA%94%E7%94%A8[8]-%E5%90%8E%E9%97%A8%E7%AF%87.html) **思路不错，配置文件这些。。。**
+
