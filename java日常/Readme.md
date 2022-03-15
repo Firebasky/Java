@@ -107,3 +107,4 @@
 + 2022/03/07 [Java Web —— 从内存中Dump JDBC数据库明文密码](https://mp.weixin.qq.com/s?__biz=Mzg5OTQ3NzA2MQ==&mid=2247485138&idx=1&sn=1229156e187fedd7b4aa4b1ac6c8f490&chksm=c053fdf8f72474eeb936fdfcefa43a74e2a7f661b9b98bff73330e5e661184440821047addf7&mpshare=1&scene=23&srcid=0307Aw2UzS1q0Fsdy5d2vqCD&sharer_sharetime=1646624025057&sharer_shareid=33a823b10ae99f33a60db621d83241cb#rd) **在connect之前hook任何写入用户名密码**
 + 2022/03/14 [关于JavaWeb后门问题](https://wooyun.js.org/drops/%E6%94%BB%E5%87%BBJavaWeb%E5%BA%94%E7%94%A8[8]-%E5%90%8E%E9%97%A8%E7%AF%87.html) **思路不错，配置文件这些。。。**
 + 2022/03/14 [weblogic下spring bean RCE的一些拓展](https://gv7.me/articles/2021/some-extensions-of-spring-bean-rce-under-weblogic/) **c0ny1师傅的文章一如既往的好**
++ 2022/03/15 [Shiro后渗透拓展面](https://tttang.com/archive/1472/) **扩展了思路agnet dump 获得key！**
