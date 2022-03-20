@@ -109,3 +109,4 @@
 + 2022/03/14 [weblogic下spring bean RCE的一些拓展](https://gv7.me/articles/2021/some-extensions-of-spring-bean-rce-under-weblogic/) **c0ny1师傅的文章一如既往的好**
 + 2022/03/15 [Shiro后渗透拓展面](https://tttang.com/archive/1472/) **扩展了思路agnet dump 获得key！**
 + 2022/03/16 [通过ql发现java gadgets](https://www.synacktiv.com/publications/finding-gadgets-like-its-2022.html) **可以参考文章的思路，sink和source,和中间的链。**
++ 2022/03/20 [使用 Burp 测试基于快速信息集的 Web 应用程序](https://blog.gdssecurity.com/labs/2017/10/10/pentesting-fast-infoset-based-web-applications-with-burp.html) **可能绕过xml**
