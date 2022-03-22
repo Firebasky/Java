@@ -110,3 +110,4 @@
 + 2022/03/15 [Shiro后渗透拓展面](https://tttang.com/archive/1472/) **扩展了思路agnet dump 获得key！**
 + 2022/03/16 [通过ql发现java gadgets](https://www.synacktiv.com/publications/finding-gadgets-like-its-2022.html) **可以参考文章的思路，sink和source,和中间的链。**
 + 2022/03/20 [使用 Burp 测试基于快速信息集的 Web 应用程序](https://blog.gdssecurity.com/labs/2017/10/10/pentesting-fast-infoset-based-web-applications-with-burp.html) **可能绕过xml**
++ 2022/03/23 [Linux下文件描述符回显构造](http://foreversong.cn/archives/1459) **理论上linux系统都可以通过fd文件描述符去获得回显，不仅仅是java语言，在想能不能有什么办法准确的获得fd(考虑各个因素)**
