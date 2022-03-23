@@ -189,3 +189,8 @@ https://paper.seebug.org/1814/
 ### Dubbo 2.7.8多个远程代码执行漏洞
 
 https://xz.aliyun.com/t/8917
+
+### CVE-2021-36162
+
+[Apache Dubbo CVE-2021-36162 挖掘过程
+](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247487450&idx=1&sn=895a573a105cff858990df8bb88aafc5&chksm=c187cfcbf6f046ddbe75a826d851ebeafbcc7449e728a6be0e3ad60279ae7689ef14d4181757&mpshare=1&scene=23&srcid=0323KHKv3qtNyGs5a4jlCoz5&sharer_sharetime=1648033016703&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd)
