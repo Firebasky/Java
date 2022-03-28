@@ -111,3 +111,4 @@
 + 2022/03/16 [通过ql发现java gadgets](https://www.synacktiv.com/publications/finding-gadgets-like-its-2022.html) **可以参考文章的思路，sink和source,和中间的链。**
 + 2022/03/20 [使用 Burp 测试基于快速信息集的 Web 应用程序](https://blog.gdssecurity.com/labs/2017/10/10/pentesting-fast-infoset-based-web-applications-with-burp.html) **可能绕过xml**
 + 2022/03/23 [Linux下文件描述符回显构造](http://foreversong.cn/archives/1459) **理论上linux系统都可以通过fd文件描述符去获得回显，不仅仅是java语言，在想能不能有什么办法准确的获得fd(考虑各个因素)**
++ 2022/03/28 [内存Dump数据库密码的补充](https://mp.weixin.qq.com/s?__biz=Mzg2NDM2MTE5Mw==&mid=2247488363&idx=2&sn=cd23ae6069ce67dd1884950e59654440&chksm=ce6bdcedf91c55fb423a02276007c5c964d5ee08f56643fb643fe977bdaf2e82f7e7f130be08&mpshare=1&scene=23&srcid=0328z7pucoel3CnkzthxIP2i&sharer_sharetime=1648427946090&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd) **自己想的一个思路是获得Statement对象的全部方法然后在方法之前hook就可以了，有亿点麻烦。。。**
