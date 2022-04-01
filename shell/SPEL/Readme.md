@@ -104,6 +104,9 @@ print(')}')
 
 防御方式是使用`SimpleEvaluationContext`来禁用其敏感的功能，从而阻止表达式注入执行问题的出现。
 
+
+其他bypass: https://xz.aliyun.com/t/9245
+
 ## 参考
 
 >https://www.cnblogs.com/bitterz/p/15206255.html
