@@ -318,3 +318,4 @@ org.springframework.webflow.context.ExternalContextHolder.getExternalContext()�
 >[前尘——返回执行结果的回显链](https://www.anquanke.com/post/id/253661)
 >
 >[Weblogic使用ClassLoader和RMI来回显命令执行结果](https://xz.aliyun.com/t/7228)
+>[JAVA反序列化回显学习](https://cangqingzhe.github.io/2020/12/17/JAVA%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E5%9B%9E%E6%98%BE%E5%AD%A6%E4%B9%A0/)
