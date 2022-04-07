@@ -115,3 +115,4 @@
 + 2022/04/01 [Spring Framework CVE-2022-22965漏洞分析](https://wx.zsxq.com/dweb2/index/group/2212251881)
 + 2022/04/02 [关于Spring framework rce（CVE-2022-22965）的一些问题思考](https://mp.weixin.qq.com/s?__biz=MzkzNjMxNDM0Mg==&mid=2247484213&idx=1&sn=f975b31111e3029fa92b098ffa5c7933&chksm=c2a1d7bcf5d65eaaf5b3ef13ec9147b77866511f07ef04b33c5d8e6897e93121b2fbe1c86efd&mpshare=1&scene=23&srcid=0402nGSU5SdMSCyU5rXBMkvD&sharer_sharetime=1648875678204&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd) **通俗易懂**
 + 2022/04/05 [JAVA RMI 反序列化流程原理分析](https://xz.aliyun.com/t/2223) **rmi攻击的回显思路，通过异常回显**
++ 2022/04/07 [（先知首发）从Jenkins RCE看Groovy代码注入](https://www.mi1k7ea.com/2020/08/26/%E4%BB%8EJenkins-RCE%E7%9C%8BGroovy%E4%BB%A3%E7%A0%81%E6%B3%A8%E5%85%A5)
