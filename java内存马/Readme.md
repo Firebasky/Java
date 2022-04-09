@@ -7,6 +7,9 @@
 + [JavaWeb 内存马二周目通关攻略](https://su18.org/post/memory-shell-2/)
 + [【原创】利用“进程注入”实现无文件不死webshell](https://www.cnblogs.com/rebeyond/p/9686213.html)
 
+## springboot
++ [利用 intercetor 注入 spring 内存 webshell](https://landgrey.me/blog/19/)
+
 ## 后门
 + [一种tomcat中间件留持久化后门的思路](https://gv7.me/articles/2021/an-idea-of-keeping-persistent-backdoor-in-tomcat-middleware/)
 
