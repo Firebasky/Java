@@ -12,6 +12,7 @@
 
 ## spring
 + [基于内存 Webshell 的无文件攻击技术研究](https://landgrey.me/blog/12/)
++ [前尘——内存中无处可寻的木马](https://www.anquanke.com/post/id/253475)
 
 ## 后门
 + [一种tomcat中间件留持久化后门的思路](https://gv7.me/articles/2021/an-idea-of-keeping-persistent-backdoor-in-tomcat-middleware/)
