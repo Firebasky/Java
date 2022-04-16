@@ -33,3 +33,6 @@ public void cmd(@RequestParam String command) throws Exception {
 Command = "ping 127.0.0.1"+request.getParameter("cmd");
 Runtime.getRuntime().exec(command);
 ```
+## webshell 管理工具
+
++ [菜刀HTTP流量中转代理过WAF](https://xz.aliyun.com/t/2739) **现在来说就是bx和gsl了**
