@@ -44,7 +44,11 @@ PHP是通过开发第php扩展库来进行实现。
 
 
 
-### 代学习
+### 学习
+
+https://blog.csdn.net/HY1273383167/article/details/116211211   1  
+
+https://blog.csdn.net/u011721501/article/details/74990346   1
 
 https://www.freebuf.com/articles/web/197823.html
 
