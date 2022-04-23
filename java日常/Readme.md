@@ -117,3 +117,4 @@
 + 2022/04/05 [JAVA RMI 反序列化流程原理分析](https://xz.aliyun.com/t/2223) **rmi攻击的回显思路，通过异常回显**
 + 2022/04/07 [（先知首发）从Jenkins RCE看Groovy代码注入](https://www.mi1k7ea.com/2020/08/26/%E4%BB%8EJenkins-RCE%E7%9C%8BGroovy%E4%BB%A3%E7%A0%81%E6%B3%A8%E5%85%A5)
 + 2022/04/09 [Spring Boot拦截器(Interceptor)详解](https://juejin.cn/post/6844904020675559432) **注入interceptor的基础**
++ 2022/04/23 [红队第4篇 | Shiro Padding Oracle无key的艰难实战利用过程](https://mp.weixin.qq.com/s?__biz=MzU4NTY4MDEzMw==&mid=2247492569&idx=1&sn=a3ff25d6fb277763785213b18885b422&chksm=fd8477b3caf3fea59b39ab27229e214e5a4038dbc6925b5ccafea9481bc8952313b404f84a11&mpshare=1&scene=23&srcid=0423xysf3wTzCs7HWGlyakZM&sharer_sharetime=1650694544259&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd) 
