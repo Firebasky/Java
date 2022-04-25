@@ -35,3 +35,6 @@ String bypass_sm_exp = "var str = Java.type('java.lang.String[]').class;" +
 >参考
 >https://www.sec-in.com/article/753
 >https://www.mi1k7ea.com/2020/03/16/OGNL%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E%E6%80%BB%E7%BB%93/
+
+## mybatis 存在${}的ognl
+参考2022的d3ctf ezsql
