@@ -4,3 +4,5 @@ JBoss 是一个基于J2EE的[开放源代码](https://baike.baidu.com/item/开�
 
 自己测试了网上很多工具发现不是特别好用 而且不集中。。。。
 所以自己想写一个综合利用的工具。。。
+
++ [JBOSS CVE-2017-12149 WAF绕过之旅](https://www.yulegeyu.com/2021/03/05/JBOSS-CVE-2017-12149-WAF%E7%BB%95%E8%BF%87%E4%B9%8B%E6%97%85/)
