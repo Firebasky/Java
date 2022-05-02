@@ -28,20 +28,12 @@
 ## 代学习
 
 [java设计模式](https://www.runoob.com/design-pattern/design-pattern-tutorial.html)       :heavy_check_mark:  
-[jvm学习]()
+[jvm学习]() 正在学习中.
 
+## 说明
+目前该项目更新可能会慢一些,更新的基本上是在[添加了Java日常知识点](java日常)中记录自己感觉有意思的文章和小trick,希望对你有帮助.
 
-
-## 小记录
-2021/12/21更新
-
-项目100star啦~~~~~~~~
-
--------------------------------
-
-2022/1/20更新
-
-项目200star啦~~~~~~~~
+如果你遇到了很好的文章非常欢迎提交issues.
 
 
 ## Stargazers over time
