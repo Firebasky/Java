@@ -121,3 +121,4 @@
 + 2022/04/30 [【第2周】编写Poc小Tips之无损检测](https://mp.weixin.qq.com/s?__biz=Mzg3NjA4MTQ1NQ==&mid=2247483702&idx=1&sn=82567b235e7f3526e113ae1fa51cc30e&chksm=cf36f976f84170609633cb61e07787548271cd6da263043bb3e6b0333397045cef0ae259561d&mpshare=1&scene=23&srcid=04302wIyYWv0SSE4RbsbKHUi&sharer_sharetime=1651253127103&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd) **思路很好的**
 + 2022/04/20 [红蓝必备 你需要了解的weblogic攻击手法](https://mp.weixin.qq.com/s/tgQO9ILHudfkkOzeahICTg) **比较牛皮了**
 + 2022/04/30 [Hessian2黑名单](https://github.dev/sofastack/sofa-hessian/blob/master/src/main/resources/security/serialize.blacklist) **通过已有的黑名单快速挖掘利用的危险类**
++ 2022/05/02 [不同的类加载器加载的类不是同一个类](https://blog.csdn.net/csdnlijingran/article/details/89226943)
