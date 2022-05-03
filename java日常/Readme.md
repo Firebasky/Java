@@ -123,3 +123,4 @@
 + 2022/04/30 [Hessian2黑名单](https://github.dev/sofastack/sofa-hessian/blob/master/src/main/resources/security/serialize.blacklist) **通过已有的黑名单快速挖掘利用的危险类**
 + 2022/05/02 [不同的类加载器加载的类不是同一个类](https://blog.csdn.net/csdnlijingran/article/details/89226943)
 + 2022/05/03 [使用 CVE-2020-2555 攻击 Shiro](https://xz.aliyun.com/t/9343) **可能之后自己会遇到。**
++ 2022/05/03 [快速探测目标防火墙出网端口的工具化实现](https://xz.aliyun.com/t/10677)  **小工具感觉有时候不错**
