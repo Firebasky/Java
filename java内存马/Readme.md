@@ -16,6 +16,10 @@
 
 ## 后门
 + [一种tomcat中间件留持久化后门的思路](https://gv7.me/articles/2021/an-idea-of-keeping-persistent-backdoor-in-tomcat-middleware/)
++ [JavaWeb 内存马二周目通关攻略](https://tttang.com/archive/1313)
+
+## jsp
++ [](https://xz.aliyun.com/t/10372)
 
 ## 查杀
 + [查杀Java web filter型内存马](https://gv7.me/articles/2020/kill-java-web-filter-memshell/)
