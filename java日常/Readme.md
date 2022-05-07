@@ -124,3 +124,4 @@
 + 2022/05/02 [不同的类加载器加载的类不是同一个类](https://blog.csdn.net/csdnlijingran/article/details/89226943)
 + 2022/05/03 [使用 CVE-2020-2555 攻击 Shiro](https://xz.aliyun.com/t/9343) **可能之后自己会遇到。**
 + 2022/05/03 [快速探测目标防火墙出网端口的工具化实现](https://xz.aliyun.com/t/10677)  **小工具感觉有时候不错**
++ 2022/05/07 [红蓝必备 你需要了解的weblogic攻击手法](https://mp.weixin.qq.com/s/tgQO9ILHudfkkOzeahICTg) **检测路径非常不错**
