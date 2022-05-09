@@ -10,5 +10,5 @@ F5 BIGIP iControl REST CVE-2021-22986
 + [F5 BIG-IP Cookie 信息泄露利用工具](https://mp.weixin.qq.com/s/RzYSA1ADrIQYQxqjug62sg)
 + [漏洞复现-F5 BIG-IP远程代码执行漏洞(CVE-2021-22986)](https://mp.weixin.qq.com/s/CDST3_FcVM8tvB0hTlrsJg)
 
-
-
+CVE-2022-1388
++ [BIG-IP(CVE-2022-1388)从修复方案分析出exp](https://mp.weixin.qq.com/s/6gVZVRSDRmeGcNYjTldw1Q)
