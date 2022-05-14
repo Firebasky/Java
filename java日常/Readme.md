@@ -125,3 +125,4 @@
 + 2022/05/03 [使用 CVE-2020-2555 攻击 Shiro](https://xz.aliyun.com/t/9343) **可能之后自己会遇到。**
 + 2022/05/03 [快速探测目标防火墙出网端口的工具化实现](https://xz.aliyun.com/t/10677)  **小工具感觉有时候不错**
 + 2022/05/07 [红蓝必备 你需要了解的weblogic攻击手法](https://mp.weixin.qq.com/s/tgQO9ILHudfkkOzeahICTg) **检测路径非常不错**
++ 2022/05/14 [入侵检测挑战赛第二期-XXE注入wp](https://mp.weixin.qq.com/s?__biz=MzIwOTMzMzY0Ng==&mid=2247487049&idx=1&sn=fba13912ae3c490b588c6fb0231055c4&chksm=977432a8a003bbbec5421ba14f9fe5480972f9c8ef2ad7f9dea4df4be7d987de5552157a29f3&mpshare=1&scene=23&srcid=0514JguMX8NCJBwchxH7ZZMG&sharer_sharetime=1652501963417&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd) **分块传输**
