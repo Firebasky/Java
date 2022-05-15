@@ -126,3 +126,4 @@
 + 2022/05/03 [快速探测目标防火墙出网端口的工具化实现](https://xz.aliyun.com/t/10677)  **小工具感觉有时候不错**
 + 2022/05/07 [红蓝必备 你需要了解的weblogic攻击手法](https://mp.weixin.qq.com/s/tgQO9ILHudfkkOzeahICTg) **检测路径非常不错**
 + 2022/05/14 [入侵检测挑战赛第二期-XXE注入wp](https://mp.weixin.qq.com/s?__biz=MzIwOTMzMzY0Ng==&mid=2247487049&idx=1&sn=fba13912ae3c490b588c6fb0231055c4&chksm=977432a8a003bbbec5421ba14f9fe5480972f9c8ef2ad7f9dea4df4be7d987de5552157a29f3&mpshare=1&scene=23&srcid=0514JguMX8NCJBwchxH7ZZMG&sharer_sharetime=1652501963417&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd) **分块传输**
++ 2022/05/16 [红队第9篇：给任意java程序挂Socks5代理方法](https://mp.weixin.qq.com/s?__biz=MzU0MjUxNjgyOQ==&mid=2247489836&idx=1&sn=ac9f3ea11dcae5f9a819bdad6c2b0440&chksm=fb182a1ecc6fa308837e69c8420996a1dc5b8b0ecd6dc4fec91b88facd65fc13a0b7da5022d6&mpshare=1&scene=23&srcid=0516lp7Qgg05Zcrb9rdmPY6g&sharer_sharetime=1652630865336&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd) **自己真实遇到的问题**
