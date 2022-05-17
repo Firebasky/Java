@@ -129,3 +129,4 @@
 + 2022/05/16 [红队第9篇：给任意java程序挂Socks5代理方法](https://mp.weixin.qq.com/s?__biz=MzU0MjUxNjgyOQ==&mid=2247489836&idx=1&sn=ac9f3ea11dcae5f9a819bdad6c2b0440&chksm=fb182a1ecc6fa308837e69c8420996a1dc5b8b0ecd6dc4fec91b88facd65fc13a0b7da5022d6&mpshare=1&scene=23&srcid=0516lp7Qgg05Zcrb9rdmPY6g&sharer_sharetime=1652630865336&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd) **自己真实遇到的问题**
 + 2022/05/16 [DNS记录类型介绍(A记录、MX记录、NS记录等)](https://developer.aliyun.com/article/331012)
 + 2022/05/17 [socks5 代理和 http 代理有什么区别](https://www.wangan.com/wenda/2272)
++ 2022/05/17 [CobaltStrike二次开发](https://www.geekby.site/2020/12/cs%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) **大哥说适合基本上全部的二次开发的使用**
