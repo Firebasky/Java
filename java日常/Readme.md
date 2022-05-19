@@ -130,3 +130,4 @@
 + 2022/05/16 [DNS记录类型介绍(A记录、MX记录、NS记录等)](https://developer.aliyun.com/article/331012)
 + 2022/05/17 [socks5 代理和 http 代理有什么区别](https://www.wangan.com/wenda/2272)
 + 2022/05/17 [CobaltStrike二次开发](https://www.geekby.site/2020/12/cs%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) **大哥说适合基本上全部的二次开发的使用**
++ 2022/05/20 [struts2绕过waf读写文件及另类方式执行命令](https://mp.weixin.qq.com/s/outtxUANOa406ErGleWjtQ) **说不定之后会遇到。**
