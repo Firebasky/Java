@@ -131,3 +131,4 @@
 + 2022/05/17 [socks5 代理和 http 代理有什么区别](https://www.wangan.com/wenda/2272)
 + 2022/05/17 [CobaltStrike二次开发](https://www.geekby.site/2020/12/cs%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91) **大哥说适合基本上全部的二次开发的使用**
 + 2022/05/20 [struts2绕过waf读写文件及另类方式执行命令](https://mp.weixin.qq.com/s/outtxUANOa406ErGleWjtQ) **说不定之后会遇到。**
++ 2022/05/30 [Shiro反序列化漏洞笔记五（对抗篇）](http://changxia3.com/2022/05/09/Shiro%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E%E7%AC%94%E8%AE%B0%E4%BA%94%EF%BC%88%E5%AF%B9%E6%8A%97%E7%AF%87%EF%BC%89/#0x1-%E5%89%8D%E8%A8%80) **里面很多trick 的bypass**
