@@ -25,3 +25,4 @@ Content-Length: 45
 }
 ```
 + [CVE-2022-1388 F5 BIG-IP iControl REST 处理进程分析与认证绕过漏洞复现](https://mp.weixin.qq.com/s/DR0RGE0lhBjBIF3TbDLhMw)
++ [CVE-2022-1388：扩展攻击之文件写入](https://mp.weixin.qq.com/s?__biz=MzkwMzM2NDE5OQ==&mid=2247483731&idx=1&sn=6ac2832719258adbbcf718984558d2cb&chksm=c0962a5bf7e1a34daeb3cfbd92b3de27718aa372374b022e5d7f0ab0923e585012d7be7c429d&scene=132#wechat_redirect) **写入的地址/usr/local/www/**
