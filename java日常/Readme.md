@@ -135,3 +135,4 @@
 + 2022/06/05 [精简JRE,打造无依赖的Java-ShellCode-Loader](https://mp.weixin.qq.com/s?__biz=Mzg2MTc1NDAxMA==&mid=2247483848&idx=1&sn=03ea03031d7f6f19c7848f3bb60267a3&chksm=ce13063df9648f2bfdc5dd39b230ba400af7fad8f9b87b292646e862b2c41bd3db2c34341443&mpshare=1&scene=23&srcid=0605Twg54SwL9UVJVuW0U9dE&sharer_sharetime=1654430144972&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd) **感觉不错 减少了执行java的成本**
 + 2022/06/06 [CVE-2020-7961 Liferay Portal 复现分析](https://www.programminghunter.com/article/5340663689/) 
 + 2022/06/12 [Identity Security Authentication Vulnerability](http://noahblog.360.cn/an-quan-ren-zheng-xiang-guan-lou-dong-wa-jue/) **权限绕过认证非常不错**
++ 2022/06/12 [Blackhat 2021 议题详细分析—— FastJson 反序列化漏洞及在区块链应用中的渗透利用](http://noahblog.360.cn/blackhat-2021yi-ti-xiang-xi-fen-xi-fastjsonfan-xu-lie-hua-lou-dong-ji-zai-qu-kuai-lian-ying-yong-zhong-de-shen-tou-li-yong-2/) **扩大了利用**
