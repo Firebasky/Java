@@ -136,3 +136,4 @@
 + 2022/06/06 [CVE-2020-7961 Liferay Portal 复现分析](https://www.programminghunter.com/article/5340663689/) 
 + 2022/06/12 [Identity Security Authentication Vulnerability](http://noahblog.360.cn/an-quan-ren-zheng-xiang-guan-lou-dong-wa-jue/) **权限绕过认证非常不错**
 + 2022/06/12 [Blackhat 2021 议题详细分析—— FastJson 反序列化漏洞及在区块链应用中的渗透利用](http://noahblog.360.cn/blackhat-2021yi-ti-xiang-xi-fen-xi-fastjsonfan-xu-lie-hua-lou-dong-ji-zai-qu-kuai-lian-ying-yong-zhong-de-shen-tou-li-yong-2/) **扩大了利用**
++ 2022/06/18 [Java中的任意文件上传技巧](https://pyn3rd.github.io/2022/05/07/Arbitrary-File-Upload-Tricks-In-Java/) **bypass waf 文件上传**
