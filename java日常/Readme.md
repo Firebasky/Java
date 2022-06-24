@@ -139,3 +139,4 @@
 + 2022/06/18 [Java中的任意文件上传技巧](https://pyn3rd.github.io/2022/05/07/Arbitrary-File-Upload-Tricks-In-Java/) **bypass waf 文件上传**
 + 2022/06/22 [关于Tomcat中的三个Context的理解](https://yzddmr6.com/posts/tomcat-context/)
 + 2022/06/24 [利用tomcat自动部署机制getshell](https://novysodope.github.io/2022/06/01/82/) **tocmat 文件上传war目录穿越到webapps目录 getshell**
++ 2022/06/24 [记一次Spring Devtools反序列化利用](https://xz.aliyun.com/t/8349) **非常不错而且居然是2020年的知识**
