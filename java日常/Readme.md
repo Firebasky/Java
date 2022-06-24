@@ -138,3 +138,4 @@
 + 2022/06/12 [Blackhat 2021 议题详细分析—— FastJson 反序列化漏洞及在区块链应用中的渗透利用](http://noahblog.360.cn/blackhat-2021yi-ti-xiang-xi-fen-xi-fastjsonfan-xu-lie-hua-lou-dong-ji-zai-qu-kuai-lian-ying-yong-zhong-de-shen-tou-li-yong-2/) **扩大了利用**
 + 2022/06/18 [Java中的任意文件上传技巧](https://pyn3rd.github.io/2022/05/07/Arbitrary-File-Upload-Tricks-In-Java/) **bypass waf 文件上传**
 + 2022/06/22 [关于Tomcat中的三个Context的理解](https://yzddmr6.com/posts/tomcat-context/)
++ 2022/06/24 [利用tomcat自动部署机制getshell](https://novysodope.github.io/2022/06/01/82/) **tocmat 文件上传war目录穿越到webapps目录 getshell**
