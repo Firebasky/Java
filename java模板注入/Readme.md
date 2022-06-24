@@ -2,6 +2,7 @@
 
 
 >https://github.com/lufeirider/BypassShell/blob/master/JAVA/JAVA.md
+>https://gosecure.github.io/template-injection-workshop/#0
 
 
 + [FreeMarker模板注入](FreeMarker)   后缀名.ftl
