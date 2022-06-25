@@ -1,7 +1,9 @@
 # snakeyaml
 
 ## 不出网利用
->通过fastjson写文件如何本地加载rce
+>通过写文件然后本地加载rce
+
+//todo 写一个工具 去完成
 
 
 https://xz.aliyun.com/t/10655
