@@ -140,3 +140,4 @@
 + 2022/06/22 [关于Tomcat中的三个Context的理解](https://yzddmr6.com/posts/tomcat-context/)
 + 2022/06/24 [利用tomcat自动部署机制getshell](https://novysodope.github.io/2022/06/01/82/) **tocmat 文件上传war目录穿越到webapps目录 getshell**
 + 2022/06/24 [记一次Spring Devtools反序列化利用](https://xz.aliyun.com/t/8349) **非常不错而且居然是2020年的知识**
++ 2022/06/25 [CVE-2022-22978 Spring Security RegexRequestMatcher 认证绕过及转发流程分析](https://xz.aliyun.com/t/11473) **对认证过后spring分发器的分析不错,自己之前就遇到了404的问题**
