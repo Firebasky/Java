@@ -143,3 +143,4 @@
 + 2022/06/25 [CVE-2022-22978 Spring Security RegexRequestMatcher 认证绕过及转发流程分析](https://xz.aliyun.com/t/11473) **对认证过后spring分发器的分析不错,自己之前就遇到了404的问题**
 + 2022/06/25 [【新手入门系列】 一步一步教你漏洞挖掘之如何在半黑盒模式下挖掘RCE漏洞](https://mp.weixin.qq.com/s/nusGsstudrQt2dwZxHXKgg) **客服端漏洞挖掘。。**
 + 2022/06/27 [Beanshell未授权利用简析](https://www.kitsch.live/2021/09/22/beanshell%e6%9c%aa%e6%8e%88%e6%9d%83%e5%88%a9%e7%94%a8%e7%ae%80%e6%9e%90/) **其他绕过方法**
++ 2022/06/27 [漏洞检测的那些事儿](https://paper.seebug.org/9/) **漏洞检测相关的知识**
