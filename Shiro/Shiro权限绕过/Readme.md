@@ -155,7 +155,10 @@ pom.xml 中版本修改为 1.7.0 或及以下即可
 /admin/%20
 ```
 
+## CVE-2022-32532
 
+[CVE-2022-32532](https://github.com/4ra1n/CVE-2022-32532)
+原理参考[CVE-2022-22978 Spring Security RegexRequestMatcher 认证绕过及转发流程分析](https://xz.aliyun.com/t/11473)
 
 >参考：
 >
