@@ -145,3 +145,4 @@
 + 2022/06/27 [Beanshell未授权利用简析](https://www.kitsch.live/2021/09/22/beanshell%e6%9c%aa%e6%8e%88%e6%9d%83%e5%88%a9%e7%94%a8%e7%ae%80%e6%9e%90/) **其他绕过方法**
 + 2022/06/27 [漏洞检测的那些事儿](https://paper.seebug.org/9/) **漏洞检测相关的知识**
 + 2022/07/02 [记一次无文件Webshell攻击分析](https://changxia3.com/2021/07/13/%E8%AE%B0%E4%B8%80%E6%AC%A1%E6%97%A0%E6%96%87%E4%BB%B6Webshell%E6%94%BB%E5%87%BB%E5%88%86%E6%9E%90/)
++ 2022/07/03 [第16篇：Weblogic 2019-2729反序列化漏洞绕防护拿权限的实战过程](https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247484303&idx=1&sn=58cbb4d7f63b9276bb89eeac286d174c&chksm=c25fccf4f52845e241256c2f425003b73b6061b3d1964dcd4a184a2cda1b4d8761098227e6de&mpshare=1&scene=23&srcid=0703XRThsRmunAKy5fSIYQKh&sharer_sharetime=1656786411917&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd) **其中的获取weblogic路径不错**
