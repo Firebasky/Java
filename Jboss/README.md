@@ -9,6 +9,7 @@ JBoss 是一个基于J2EE的[开放源代码](https://baike.baidu.com/item/开�
 
 ## CVE-2017-12149
 bypass  请求方式是HEAD
+
 **endpoint**
 ```
 /invoker/readonly
