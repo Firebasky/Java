@@ -12,7 +12,7 @@ bypass  请求方式是HEAD
 
 **endpoint**
 ```
-/invoker/readonly
+/invoker/readonly   是一个filter 请求方法随便并且url后面可以加其他的
 /invoker/EJBInvokerServlet
 /invoker/JMXInvokerServlet
 /invoker/readonly/JMXInvokerServlet
