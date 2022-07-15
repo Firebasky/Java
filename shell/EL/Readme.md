@@ -1,5 +1,7 @@
 # EL
 
+https://xz.aliyun.com/t/7692
+
 ## 回显
 
 https://forum.butian.net/share/886
