@@ -8,6 +8,8 @@
 
 https://xz.aliyun.com/t/10655
 
+限制了class,不过存在class bean中有object属性   https://mp.weixin.qq.com/s/7HJXfNibY9Z3DPGarTqyZQ
+
 加载本地
 ```java
 String data2 = "!!javax.script.ScriptEngineManager [\n" +
