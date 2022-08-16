@@ -148,3 +148,4 @@
 + 2022/07/03 [第16篇：Weblogic 2019-2729反序列化漏洞绕防护拿权限的实战过程](https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247484303&idx=1&sn=58cbb4d7f63b9276bb89eeac286d174c&chksm=c25fccf4f52845e241256c2f425003b73b6061b3d1964dcd4a184a2cda1b4d8761098227e6de&mpshare=1&scene=23&srcid=0703XRThsRmunAKy5fSIYQKh&sharer_sharetime=1656786411917&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd) **其中的获取weblogic路径不错**
 + 2022/07/18 [java~通过ClassLoader动态加载类,实现简单的热部署](https://icode.best/i/88333747185426)  [java利用classloader实现热部署](https://blog.csdn.net/chaofanwei2/article/details/51298818)
 + 2022/08/15 [玄武盾的几种绕过姿势](https://mp.weixin.qq.com/s/blPSDeuzQxwbjfdvZFlWQg) **里面的编码有点意思**
++ 2022/08/16 [weblogic“伪随机”目录生成算法探究](https://gv7.me/articles/2019/weblogic-pseudo-random-dir-generation-algorithm-exploration/) **比较细节**
