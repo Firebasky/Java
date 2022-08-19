@@ -149,3 +149,4 @@
 + 2022/07/18 [java~通过ClassLoader动态加载类,实现简单的热部署](https://icode.best/i/88333747185426)  [java利用classloader实现热部署](https://blog.csdn.net/chaofanwei2/article/details/51298818)
 + 2022/08/15 [玄武盾的几种绕过姿势](https://mp.weixin.qq.com/s/blPSDeuzQxwbjfdvZFlWQg) **里面的编码有点意思**
 + 2022/08/16 [weblogic“伪随机”目录生成算法探究](https://gv7.me/articles/2019/weblogic-pseudo-random-dir-generation-algorithm-exploration/) **比较细节**
++ 2022/08/20 [Java安全攻防之从wsProxy到AbstractTranslet](https://mp.weixin.qq.com/s/HuQV6PNBCW4qSKQVQg8ifA) **学习了反序列化代码执行不需要继承AbstractTranslet**
