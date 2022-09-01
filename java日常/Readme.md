@@ -151,3 +151,4 @@
 + 2022/08/16 [weblogic“伪随机”目录生成算法探究](https://gv7.me/articles/2019/weblogic-pseudo-random-dir-generation-algorithm-exploration/) **比较细节**
 + 2022/08/20 [Java安全攻防之从wsProxy到AbstractTranslet](https://mp.weixin.qq.com/s/HuQV6PNBCW4qSKQVQg8ifA) **学习了反序列化代码执行不需要继承AbstractTranslet**
 + 2022/08/22 [ysoserial分析之Jython1利用链](https://mp.weixin.qq.com/s/QNrwrv5leC0FN3H4RL6oEg) **等待完善命令执行。。。**
++ 2022/09/01 [手把手带你挖掘spring-cloud-gateway新链](https://forum.butian.net/share/1410) **学到了Idea 快捷键Ctrl + Alt + H来查看调用的层次 比较清楚**
