@@ -153,3 +153,4 @@
 + 2022/08/22 [ysoserial分析之Jython1利用链](https://mp.weixin.qq.com/s/QNrwrv5leC0FN3H4RL6oEg) **等待完善命令执行。。。**
 + 2022/09/01 [手把手带你挖掘spring-cloud-gateway新链](https://forum.butian.net/share/1410) **学到了Idea 快捷键Ctrl + Alt + H来查看调用的层次 比较清楚**
 + 2022/09/02 [代码审计之洞态IAST 0day挖掘](https://mp.weixin.qq.com/s/LDBwhQYiiZ8heOiJl83JFQ) **感觉一般**
++ 2022/09/10 [Groovy Template Engine Exploitation – Notes from a real case scenario](https://security.humanativaspa.it/groovy-template-engine-exploitation-notes-from-a-real-case-scenario/) **Groovy Template Engine Exploitation 说不定以后遇到**
