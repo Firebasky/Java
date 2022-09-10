@@ -154,3 +154,4 @@
 + 2022/09/01 [手把手带你挖掘spring-cloud-gateway新链](https://forum.butian.net/share/1410) **学到了Idea 快捷键Ctrl + Alt + H来查看调用的层次 比较清楚**
 + 2022/09/02 [代码审计之洞态IAST 0day挖掘](https://mp.weixin.qq.com/s/LDBwhQYiiZ8heOiJl83JFQ) **感觉一般**
 + 2022/09/10 [Groovy Template Engine Exploitation – Notes from a real case scenario](https://security.humanativaspa.it/groovy-template-engine-exploitation-notes-from-a-real-case-scenario/) **Groovy Template Engine Exploitation 说不定以后遇到**
++ 2022/09/10 [Xalan-J XSLT整数截断漏洞利用构造(CVE-2022-34169)](http://noahblog.360.cn/xalan-j-integer-truncation-reproduce-cve-2022-34169/) **好牛皮 但是看不懂**
