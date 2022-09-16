@@ -155,4 +155,5 @@
 + 2022/09/02 [代码审计之洞态IAST 0day挖掘](https://mp.weixin.qq.com/s/LDBwhQYiiZ8heOiJl83JFQ) **感觉一般**
 + 2022/09/10 [Groovy Template Engine Exploitation – Notes from a real case scenario](https://security.humanativaspa.it/groovy-template-engine-exploitation-notes-from-a-real-case-scenario/) **Groovy Template Engine Exploitation 说不定以后遇到**
 + 2022/09/10 [Xalan-J XSLT整数截断漏洞利用构造(CVE-2022-34169)](http://noahblog.360.cn/xalan-j-integer-truncation-reproduce-cve-2022-34169/) **好牛皮 但是看不懂**
-+ 2022/09/11 [通过动态链接库绕过反病毒软件Hook - Break JVM](https://mp.weixin.qq.com/s?__biz=MzA4NzQwNzY3OQ==&mid=2247483882&idx=1&sn=011c3f231d38d899bcf8bf21010616a0&chksm=9038acbaa74f25acd2983131a4b309424985fde3538cd8a93409336e317a4393350f75c7e334&scene=132#wechat_redirect) 
++ 2022/09/11 [通过动态链接库绕过反病毒软件Hook - Break JVM](https://mp.weixin.qq.com/s?__biz=MzA4NzQwNzY3OQ==&mid=2247483882&idx=1&sn=011c3f231d38d899bcf8bf21010616a0&chksm=9038acbaa74f25acd2983131a4b309424985fde3538cd8a93409336e317a4393350f75c7e334&scene=132#wechat_redirect)
++ 2022/09/16 [研究 XSS 到 RCE 缺陷的开源应用程序](https://swarm.ptsecurity.com/researching-open-source-apps-for-xss-to-rce-flaws/) **xss->rce**
