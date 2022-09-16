@@ -111,7 +111,8 @@ print(')}')
 其他bypass: https://xz.aliyun.com/t/9245
 
 ## 参考
-
+> https://xz.aliyun.com/t/9245   **可以使用#request.getRequestedSessionId() 或者 #request.getHeader('User-Agent') 反正可以使用request对象或者respose**
+>
 >https://www.cnblogs.com/bitterz/p/15206255.html
 >
 >https://landgrey.me/blog/15/
