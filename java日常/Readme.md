@@ -158,3 +158,4 @@
 + 2022/09/11 [通过动态链接库绕过反病毒软件Hook - Break JVM](https://mp.weixin.qq.com/s?__biz=MzA4NzQwNzY3OQ==&mid=2247483882&idx=1&sn=011c3f231d38d899bcf8bf21010616a0&chksm=9038acbaa74f25acd2983131a4b309424985fde3538cd8a93409336e317a4393350f75c7e334&scene=132#wechat_redirect)
 + 2022/09/16 [研究 XSS 到 RCE 缺陷的开源应用程序](https://swarm.ptsecurity.com/researching-open-source-apps-for-xss-to-rce-flaws/) **xss->rce**
 + 2022/09/17 [JAVA反序列化中 RMI JRMP 以及JNDI多种利用方式详解](https://mp.weixin.qq.com/s/tAPCzt6Saq5q7W0P7kBdJg)
++ 2022/09/19 [冰蝎v4.0传输协议详解](https://mp.weixin.qq.com/s/EwY8if6ed_hZ3nQBiC3o7A)
