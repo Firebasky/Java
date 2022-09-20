@@ -159,3 +159,4 @@
 + 2022/09/16 [研究 XSS 到 RCE 缺陷的开源应用程序](https://swarm.ptsecurity.com/researching-open-source-apps-for-xss-to-rce-flaws/) **xss->rce**
 + 2022/09/17 [JAVA反序列化中 RMI JRMP 以及JNDI多种利用方式详解](https://mp.weixin.qq.com/s/tAPCzt6Saq5q7W0P7kBdJg)
 + 2022/09/19 [冰蝎v4.0传输协议详解](https://mp.weixin.qq.com/s/EwY8if6ed_hZ3nQBiC3o7A)
++ 2022/09/20 [CVE-2022-26377: Apache HTTPd AJP Request Smuggling](http://noahblog.360.cn/apache-httpd-ajp-request-smuggling/) **好牛皮啊**
