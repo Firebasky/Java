@@ -164,3 +164,4 @@
 + 2022/09/23 [Java运行代码的效率怎么提高](https://blog.csdn.net/qf2019/article/details/109351547)  [JAVA实现大文件多线程下载，提速30倍](https://blog.csdn.net/qq_19749625/article/details/120009749) **java效率提高**
 + 2022/09/26 [一次老版本jboss反序列化漏洞的利用分析](https://mp.weixin.qq.com/s/7oyRYlNUJ4neAdDRkxL2Rg) **低版本的jboss 重挖，不错**
 + 2022/09/26 [CS反制之批量伪装上线](https://forum.butian.net/share/708) **思路不错。**
++ 2022/09/26 [浅谈JFinal的DenyAccessJsp绕过](https://forum.butian.net/share/1899) **路径绕过url编码**
