@@ -162,3 +162,4 @@
 + 2022/09/20 [CVE-2022-26377: Apache HTTPd AJP Request Smuggling](http://noahblog.360.cn/apache-httpd-ajp-request-smuggling/) **好牛皮啊**
 + 2022/09/23 [cve-2010-4452 codebase 和code标签属性未检测同源策略导致任意代码执行漏洞](https://blog.csdn.net/instruder/article/details/7730905) **学习**
 + 2022/09/23 [Java运行代码的效率怎么提高](https://blog.csdn.net/qf2019/article/details/109351547)  [JAVA实现大文件多线程下载，提速30倍](https://blog.csdn.net/qq_19749625/article/details/120009749) **java效率提高**
++ 2022/09/26 [一次老版本jboss反序列化漏洞的利用分析](https://mp.weixin.qq.com/s/7oyRYlNUJ4neAdDRkxL2Rg) **低版本的jboss 重挖，不错**
