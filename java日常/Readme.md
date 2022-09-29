@@ -166,3 +166,4 @@
 + 2022/09/26 [CS反制之批量伪装上线](https://forum.butian.net/share/708) **思路不错。**
 + 2022/09/26 [浅谈JFinal的DenyAccessJsp绕过](https://forum.butian.net/share/1899) **路径绕过url编码**
 + 2022/09/29 [TCTF 2019 线上赛 web 题 writeup](https://www.k0rz3n.com/2019/04/04/TCTF%202019%20%E7%BA%BF%E4%B8%8A%E8%B5%9B%20web%20%E9%A2%98%20writeup/) [在Java EE Servers环境下利用Jolokia Agent漏洞](https://www.freebuf.com/vuls/166695.html)
++ 2022/9/29  [从JDBC attack到detectCustomCollations利用范围扩展](https://xz.aliyun.com/t/11610) **扩展思路**
