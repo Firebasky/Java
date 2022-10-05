@@ -90,3 +90,10 @@ public class UpgradeMemShell implements UpgradeProtocol {
     }
 }
 ```
+
+使用
+```txt
+Upgrade: http2.o
+cmd: calc
+Connection: Upgrade
+```
