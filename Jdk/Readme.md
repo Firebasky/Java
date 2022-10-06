@@ -45,14 +45,15 @@ public class bypass {
         Class reflectionAnonymousClass = unsafe.defineAnonymousClass(reflectionClass,classBuffer,null);
 
         Field fieldFilterMapField=reflectionAnonymousClass.getDeclaredField("fieldFilterMap");
-        Field methodFilterMapField=reflectionAnonymousClass.getDeclaredField("methodFilterMap");
+        //不需要
+        //Field methodFilterMapField=reflectionAnonymousClass.getDeclaredField("methodFilterMap");
 
         if(fieldFilterMapField.getType().isAssignableFrom(HashMap.class)){
             unsafe.putObject(reflectionClass,unsafe.staticFieldOffset(fieldFilterMapField),new HashMap());
         }
-        if(methodFilterMapField.getType().isAssignableFrom(HashMap.class)){
-            unsafe.putObject(reflectionClass,unsafe.staticFieldOffset(methodFilterMapField),new HashMap());
-        }
+        //if(methodFilterMapField.getType().isAssignableFrom(HashMap.class)){
+        //  unsafe.putObject(reflectionClass,unsafe.staticFieldOffset(methodFilterMapField),new HashMap());
+        //}
     }
     public static void main(String[] args) throws Exception{
         //绕过Java 反射过滤获取ClassLoader私有字段
