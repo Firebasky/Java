@@ -170,3 +170,4 @@
 + 2022/10/04 [为什么预编译可以防止sql注入](https://m.php.cn/faq/418626.html) **预编译可以防止sql注入的原因：允许数据库做参数化查询。在使用参数化查询的情况下，数据库不会将参数的内容视为SQL执行的一部分，而是作为一个字段的属性值来处理，这样就算参数中包含破环性语句（or ‘1=1’）也不会被执行。**
 + 2022/10/05 [JavaMelody 漏洞](https://mp.weixin.qq.com/s?__biz=MzU1OTU3ODk0OQ==&mid=2247484382&idx=1&sn=bb8b97a74d99a5c361db431898a953d9&chksm=fc1469f4cb63e0e261e53faa8728ff57c72f5694034dda028d08904fe775fa1654f82cb690aa&scene=178&cur_album_id=2327370482917965825#rd)
 + 2022/10/05 [一种新的Tomcat内存马 - Upgrade内存马](https://tttang.com/archive/1709)
++ 2022/10/06 [HSQLDB 安全测试指南](https://b1ue.cn/archives/458.html)
