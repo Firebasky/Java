@@ -173,3 +173,4 @@
 + 2022/10/06 [HSQLDB 安全测试指南](https://b1ue.cn/archives/458.html)
 + 2022/10/06 [Linux terminal/tty/pty and shell](https://kangxiaoning.github.io/post/2021/05/linux-terminal-tty-pty-and-shell/)
 + 2022/10/08 [利用ModSecurity内置实现第一代 rasp](https://mp.weixin.qq.com/s?__biz=Mzg3ODY3MzcwMQ==&mid=2247489448&idx=1&sn=3a64455cb703152d9f69b3fa3657f7f7&chksm=cf117de2f866f4f46b088ca106911db77ef7e16b3408ef5c3f3d893c99432227f38ed0969367&mpshare=1&scene=23&srcid=1008ouxJsQWdvxgKPMzYC9x0&sharer_sharetime=1665193299451&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd)
++ 2022/10/08 [WAF bypasses via 0days](https://terjanq.medium.com/waf-bypasses-via-0days-d4ef1f212ec)
