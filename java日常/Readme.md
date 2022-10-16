@@ -179,3 +179,4 @@
 + 2022/10/15 [bcel环境下打入springboot内存马](https://mp.weixin.qq.com/s?__biz=MzU5MTExMjYwMA==&mid=2247485492&idx=1&sn=82fd393c7fc33417bff5d8cfa81b1451&chksm=fe32b8c3c94531d520d3fe4b0349b982fab83da2f6273799b68aa48f7bbb16700a642034c15e&mpshare=1&scene=23&srcid=1014Db7SCSD03rrslhpasxqf&sharer_sharetime=1665743334925&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd) **解决方法太麻烦,可以直接写一个loader里面加载代码。就不需要通过bcel加载了。(因为使用bcel加载的时候会存在class not find,因为加载器是bcel.)**
 + 2022/10/15 [Padding Oracle原理深度解析&CBC字节翻转攻击原理解析](https://mp.weixin.qq.com/s/OtGw-rALwpBkERfvqdZ4kQ?utm_source=qq&utm_medium=social&utm_oi=1165421494795706368)
 + 2022/10/16 [Shiro Padding Oracle攻击分析](https://www.cnblogs.com/wh4am1/p/12761959.html) **重新学习**
++ 2022/10/16 [JSP文件无依赖加载shellcode分析](https://cangqingzhe.github.io/2021/10/21/JSP%E6%96%87%E4%BB%B6%E6%97%A0%E4%BE%9D%E8%B5%96%E5%8A%A0%E8%BD%BDshellcode%E5%88%86%E6%9E%90/) **由于这种方式是通过Tomcat服务的进程上线的,exit的话比较困难**
