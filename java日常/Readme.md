@@ -182,3 +182,4 @@
 + 2022/10/16 [JSP文件无依赖加载shellcode分析](https://cangqingzhe.github.io/2021/10/21/JSP%E6%96%87%E4%BB%B6%E6%97%A0%E4%BE%9D%E8%B5%96%E5%8A%A0%E8%BD%BDshellcode%E5%88%86%E6%9E%90/) **由于这种方式是通过Tomcat服务的进程上线的,exit的话比较困难**
 + 2022/10/17 [负载均衡踩坑记](https://cangqingzhe.github.io/2021/09/24/%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1%E8%B8%A9%E5%9D%91%E8%AE%B0/)
 + 2022/10/17 [最新CS RCE（CVE-2022-39197）复现心得分享](https://mp.weixin.qq.com/s/89wXyPaSn3TYn4pmVdr-Mw)
++ 2022/10/17 [RMI攻击Registry的两种方式](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651199558&idx=2&sn=f92be210fda6dcda351912e5819191e5&chksm=bd1d8acd8a6a03db3b62ba72b2a3b931ab99cf74dbacde501c0d615a8eb894c50d96405b3b43&mpshare=1&scene=23&srcid=10175X0cCc5JMI6fbq1VPYi6&sharer_sharetime=1666017207856&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd)
