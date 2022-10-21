@@ -27,3 +27,4 @@ https://www.sec-in.com/author/8 这个师傅太猛了
 + 2022/02/26 [记一次曲折的weblogic上传webshell](https://chaserw.github.io/2021/11/05/%E8%AE%B0%E4%B8%80%E6%AC%A1%E6%9B%B2%E6%8A%98%E7%9A%84weblogic%E4%B8%8A%E4%BC%A0webshell/)
 + 2022/10/08 [实战 | 一次成功的子域名劫持](https://mp.weixin.qq.com/s/xA6OVbeQrCgeYBWMtkvWVA) **学习**
 + 2022/10/22 [上传包可“绕过”Java过滤器的检查？](https://gv7.me/articles/2019/why-can-multipart-post-bypass-java-filter/) **遇到了post请求有waf可以试一试文件上传的方法传递参数**
++ 2022/10/22 [burpsuite保存现有数据包记录&导入之前的抓包记录](https://blog.csdn.net/Fly_hps/article/details/88854111)  [148处XSS你如何提交给开发修复？](https://gv7.me/articles/2017/how-do-to-submit-148-xss-vulnerabilities/) **bp的保存数据**
