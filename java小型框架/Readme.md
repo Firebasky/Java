@@ -26,3 +26,4 @@ https://www.sec-in.com/author/8 这个师傅太猛了
 + 2022/01/31 [验证是否存在写文件漏洞小技巧](https://mp.weixin.qq.com/s?__biz=MzkyMDIxMjE5MA==&mid=2247483994&idx=1&sn=2d29f31afa27a3709b5dc9e46532230a&chksm=c19705ebf6e08cfdd6dc59937beee4a77110b3cac9958335a6cfdbd020d00f2f24a7033063f2&mpshare=1&scene=23&srcid=0131EzMk9fpayyNZeXFR8nhb&sharer_sharetime=1643561054742&sharer_shareid=33a823b10ae99f33a60db621d83241cb#rd)
 + 2022/02/26 [记一次曲折的weblogic上传webshell](https://chaserw.github.io/2021/11/05/%E8%AE%B0%E4%B8%80%E6%AC%A1%E6%9B%B2%E6%8A%98%E7%9A%84weblogic%E4%B8%8A%E4%BC%A0webshell/)
 + 2022/10/08 [实战 | 一次成功的子域名劫持](https://mp.weixin.qq.com/s/xA6OVbeQrCgeYBWMtkvWVA) **学习**
++ 2022/10/22 [上传包可“绕过”Java过滤器的检查？](https://gv7.me/articles/2019/why-can-multipart-post-bypass-java-filter/) **遇到了post请求有waf可以试一试文件上传的方法传递参数**
