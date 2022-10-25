@@ -186,3 +186,6 @@ get = requests.get(burp0_url, headers=burp0_headers)
 print(get.text)
 ```
 
+## 任意文件删除
+
+https://mp.weixin.qq.com/s/JXBiQR3q7ykITVFBwm_9Vg
