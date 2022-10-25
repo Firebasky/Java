@@ -185,3 +185,4 @@
 + 2022/10/17 [RMI攻击Registry的两种方式](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651199558&idx=2&sn=f92be210fda6dcda351912e5819191e5&chksm=bd1d8acd8a6a03db3b62ba72b2a3b931ab99cf74dbacde501c0d615a8eb894c50d96405b3b43&mpshare=1&scene=23&srcid=10175X0cCc5JMI6fbq1VPYi6&sharer_sharetime=1666017207856&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd)
 + 2022/10/19 [Apache Spark UI 命令注入漏洞 CVE-2022-33891](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjM5MTYxNjQxOA==&action=getalbum&album_id=2619537533131227139&scene=173&from_msgid=2652892336&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 + 2022/10/20 [如何更加精确的检测Tomcat AJP文件包含漏洞(CVE-2020-1938)](https://gv7.me/articles/2020/how-to-detect-tomcat-ajp-lfi-more-accurately/) **ajp的利用**
++ 2022/10/25 [Python PIP自解压的命令执行](https://mp.weixin.qq.com/s/xFY6VYzrA4RryH1agC8zUw)  **包管理工具的命令执行**  [node npm 中的preinstall 命令执行](https://bytedance.feishu.cn/docx/doxcnWmtkIItrGokckfo1puBtCh)
