@@ -186,3 +186,4 @@
 + 2022/10/19 [Apache Spark UI 命令注入漏洞 CVE-2022-33891](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjM5MTYxNjQxOA==&action=getalbum&album_id=2619537533131227139&scene=173&from_msgid=2652892336&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 + 2022/10/20 [如何更加精确的检测Tomcat AJP文件包含漏洞(CVE-2020-1938)](https://gv7.me/articles/2020/how-to-detect-tomcat-ajp-lfi-more-accurately/) **ajp的利用**
 + 2022/10/25 [Python PIP自解压的命令执行](https://mp.weixin.qq.com/s/xFY6VYzrA4RryH1agC8zUw)  **包管理工具的命令执行**  [node npm 中的preinstall 命令执行](https://bytedance.feishu.cn/docx/doxcnWmtkIItrGokckfo1puBtCh)
++ 2022/10/26 [这是我见过最复杂的URL了](https://cn-sec.com/archives/1372213.html)
