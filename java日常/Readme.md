@@ -188,3 +188,4 @@
 + 2022/10/25 [Python PIP自解压的命令执行](https://mp.weixin.qq.com/s/xFY6VYzrA4RryH1agC8zUw)  **包管理工具的命令执行**  [node npm 中的preinstall 命令执行](https://bytedance.feishu.cn/docx/doxcnWmtkIItrGokckfo1puBtCh)
 + 2022/10/26 [这是我见过最复杂的URL了](https://cn-sec.com/archives/1372213.html)
 + 2022/10/27 [【技术干货】CVE-2022-34916 Apache Flume 远程代码执行漏洞分析](https://mp.weixin.qq.com/s/zS2TBfBsK1gzkLxs5u3GmQ)
++ 2022/10/30 [Beware the Nashorn: ClassFilter gotchas](https://mbechler.github.io/2019/03/02/Beware-the-Nashorn/)
