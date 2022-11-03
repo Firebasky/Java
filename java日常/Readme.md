@@ -190,3 +190,4 @@
 + 2022/10/27 [【技术干货】CVE-2022-34916 Apache Flume 远程代码执行漏洞分析](https://mp.weixin.qq.com/s/zS2TBfBsK1gzkLxs5u3GmQ)
 + 2022/10/30 [Beware the Nashorn: ClassFilter gotchas](https://mbechler.github.io/2019/03/02/Beware-the-Nashorn/)
 + 2022/11/01 [红队第10篇：coldfusion反序列化过waf改exp拿靶标的艰难过程](https://www.moonsec.com/5362.html)
++ 2022/11/03 [hw打点之某创中间件](https://mp.weixin.qq.com/s/D-LuR33WKlzRjo0s75TFSQ)
