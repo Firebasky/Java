@@ -45,3 +45,5 @@ https://forum.butian.net/share/1880
 ```java
 ${""[param.a]()[param.b](param.c)[param.d]()[param.e](param.f)[param.g](param.h)}
 ```
+
+https://blog.orange.tw/2018/08/how-i-chained-4-bugs-features-into-rce-on-amazon.html
