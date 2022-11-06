@@ -28,3 +28,4 @@ https://www.sec-in.com/author/8 这个师傅太猛了
 + 2022/10/08 [实战 | 一次成功的子域名劫持](https://mp.weixin.qq.com/s/xA6OVbeQrCgeYBWMtkvWVA) **学习**
 + 2022/10/22 [上传包可“绕过”Java过滤器的检查？](https://gv7.me/articles/2019/why-can-multipart-post-bypass-java-filter/) **遇到了post请求有waf可以试一试文件上传的方法传递参数**
 + 2022/10/22 [burpsuite保存现有数据包记录&导入之前的抓包记录](https://blog.csdn.net/Fly_hps/article/details/88854111)  [148处XSS你如何提交给开发修复？](https://gv7.me/articles/2017/how-do-to-submit-148-xss-vulnerabilities/) **bp的保存数据**
++ 2022/11/06 [【干货分享】五分钟教你挖掘小程序漏洞](https://mp.weixin.qq.com/s/95YiN8XJLGPUS5ykBUsmAg【干货分享】五分钟教你挖掘小程序漏洞) **小程序挖掘**
