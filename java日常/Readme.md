@@ -192,3 +192,4 @@
 + 2022/11/01 [红队第10篇：coldfusion反序列化过waf改exp拿靶标的艰难过程](https://www.moonsec.com/5362.html)
 + 2022/11/03 [hw打点之某创中间件](https://mp.weixin.qq.com/s/D-LuR33WKlzRjo0s75TFSQ)
 + 2022/11/06 [看我如何再一次駭進 Facebook，一個在 MobileIron MDM 上的遠端程式碼執行漏洞!](https://devco.re/blog/2020/09/12/how-I-hacked-Facebook-again-unauthenticated-RCE-on-MobileIron-MDM/) 好np啊
++ 2022/11/06 [How I Chained 4 Bugs(Features?) into RCE on Amazon Collaboration System](https://blog.orange.tw/2018/08/how-i-chained-4-bugs-features-into-rce-on-amazon.html) **真的np**
