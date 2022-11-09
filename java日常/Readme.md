@@ -194,3 +194,4 @@
 + 2022/11/06 [看我如何再一次駭進 Facebook，一個在 MobileIron MDM 上的遠端程式碼執行漏洞!](https://devco.re/blog/2020/09/12/how-I-hacked-Facebook-again-unauthenticated-RCE-on-MobileIron-MDM/) 好np啊
 + 2022/11/06 [How I Chained 4 Bugs(Features?) into RCE on Amazon Collaboration System](https://blog.orange.tw/2018/08/how-i-chained-4-bugs-features-into-rce-on-amazon.html) **真的np**
 + 2022/11/08 [常见安全工具的扫描流量特征分析与检测](https://mp.weixin.qq.com/s/JyFXNtIwludyDBNQc0-oKw)
++ 2022/11/09 [Bypass Authentication BurpSuit 插件](https://mp.weixin.qq.com/s?__biz=Mzg5OTQ3NzA2MQ==&mid=2247485029&idx=1&sn=c1a45885d1037f902f172da08d84341d&chksm=c053fd4ff72474590add9334e497b5c08895e564d3a913cf7b20c9a707d204cca47ed160cca9&mpshare=1&scene=23&srcid=1109NLqGHLO9SdPBfzlUhLUT&sharer_sharetime=1667932033444&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd) **bp 插件**
