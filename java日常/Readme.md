@@ -202,3 +202,4 @@
 + 2022/11/19 [命令注入执行](https://0xn3va.gitbook.io/cheat-sheets/web-application/command-injection)
 + 2022/11/19 [Hessian 序列化、反序列化](https://mp.weixin.qq.com/s/icYs7VjPRytt6zgXja9V-w) **学习**
 + 2022/11/20 [Remote Command Execution in a Bank Server](https://medium.com/@win3zz/remote-command-execution-in-a-bank-server-b213f9f42afe)
++ 2022/11/23 [ZK框架权限绕过导致R1Soft Server Backup Manager RCE并接管Agent](http://tttang.com/archive/1833)
