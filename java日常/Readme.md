@@ -206,3 +206,4 @@
 + 2022/11/27 [burp指纹修改](https://mp.weixin.qq.com/s?__biz=MzU1NTQ5MDEwNw==&mid=2247484690&idx=1&sn=5b2251069f9bcc98c340278207825c66&chksm=fbd2cb46cca542505b3f49c8ba7f609fab9d5ca6a43b6ebdc61cf67a3f725406b998b56fdbdc&mpshare=1&scene=23&srcid=1126mmkxPLOblhlehRFdhOY7&sharer_sharetime=1669485801645&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd)
 + 2022/11/30 [关于HackerOne上Grafana、jolokia、Flink攻击手法的学习](https://mp.weixin.qq.com/s/iQlLvF8LHzJvL8ofE2YvKA) **flink 寻找main 有意思**
 + 2022/11/30 [内存马的攻防博弈之旅之gRPC内存马](https://mp.weixin.qq.com/s/osuoinwCpOwNM4WoI6SOnQ) **可能之后可以用**
++ 2022/12/02 [一次失败的定点漏洞挖掘之代码审计宜信Davinci](https://www.cnblogs.com/r00tuser/p/13265435.html) **遇到了 但是不出网**
