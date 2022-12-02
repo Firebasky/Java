@@ -19,3 +19,8 @@
 [漏洞版本](http://archive.apache.org/dist/struts/binaries/)
 ![](./img/环境.png)
 
+
+## TODO
+分析各个s2 漏洞 
+s2-62 和新的 [https://mc0wn.blogspot.com/2022/11/rce-on-apache-struts-2530.html](https://mc0wn.blogspot.com/2022/11/rce-on-apache-struts-2530.html)
+
