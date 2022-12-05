@@ -208,3 +208,4 @@
 + 2022/11/30 [内存马的攻防博弈之旅之gRPC内存马](https://mp.weixin.qq.com/s/osuoinwCpOwNM4WoI6SOnQ) **可能之后可以用**
 + 2022/12/02 [一次失败的定点漏洞挖掘之代码审计宜信Davinci](https://www.cnblogs.com/r00tuser/p/13265435.html) **遇到了 但是不出网**
 + 2022/12/05 [宝塔后渗透-添加用户|反弹shell](https://mp.weixin.qq.com/s/2o_H66BMqy3Ft3-5ERlKpQ) **后渗透比较重要**
++ 2022/12/05 [Nacos Client Yaml反序列化漏洞分析](https://xz.aliyun.com/t/10355) [Nacos 未授权远程代码执行漏洞通告](https://mp.weixin.qq.com/s/Zpa3af43XZECglYMbNRk8g) **add user有用**
