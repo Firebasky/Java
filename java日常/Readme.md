@@ -211,3 +211,4 @@
 + 2022/12/05 [Nacos Client Yaml反序列化漏洞分析](https://xz.aliyun.com/t/10355) [Nacos 未授权远程代码执行漏洞通告](https://mp.weixin.qq.com/s/Zpa3af43XZECglYMbNRk8g) **add user有用**
 + 2022/12/08 [CVE-2022-44262](https://github.com/ff4j/ff4j/issues/624) **需要找到构造方法并且是string类型的利用**
 + 2022/12/08 [RCE on Apache Struts 2.5.30](https://mc0wn.blogspot.com/2022/11/rce-on-apache-struts-2530.html) **np s2的利用**
++ 2022/12/09 [那些年一起打过的CTF - Laravel 任意用户登陆Tricks分析](https://www.yulegeyu.com/2021/09/22/%E9%82%A3%E4%BA%9B%E5%B9%B4%E4%B8%80%E8%B5%B7%E6%89%93%E8%BF%87%E7%9A%84CTF-Laravel-%E4%BB%BB%E6%84%8F%E7%94%A8%E6%88%B7%E7%99%BB%E9%99%86Tricks%E5%88%86%E6%9E%90/)  **不愧是是雨神，yyds**
