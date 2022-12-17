@@ -215,3 +215,4 @@
 + 2022/12/09 [老版本Fastjson 的一些不出网利用](https://www.yulegeyu.com/2022/11/12/Java%E5%AE%89%E5%85%A8%E6%94%BB%E9%98%B2%E4%B9%8B%E8%80%81%E7%89%88%E6%9C%ACFastjson-%E7%9A%84%E4%B8%80%E4%BA%9B%E4%B8%8D%E5%87%BA%E7%BD%91%E5%88%A9%E7%94%A8/) ***yyds*
 + 2022/12/09 [浅谈XXE防御(Java)](https://mp.weixin.qq.com/s/BSq77W0u0-O2elKZTJQNOQ)
 + 2022/12/14 [js-on-security-off-abusing-json-based-sql-to-bypass-waf](https://claroty.com/team82/research/js-on-security-off-abusing-json-based-sql-to-bypass-waf) 
++ 2022/12/17 [java.exe和javaw.exe区别](https://blog.csdn.net/xtho62/article/details/114085591) 在bp启动的时候看到了
