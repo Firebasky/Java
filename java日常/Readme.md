@@ -216,3 +216,4 @@
 + 2022/12/09 [浅谈XXE防御(Java)](https://mp.weixin.qq.com/s/BSq77W0u0-O2elKZTJQNOQ)
 + 2022/12/14 [js-on-security-off-abusing-json-based-sql-to-bypass-waf](https://claroty.com/team82/research/js-on-security-off-abusing-json-based-sql-to-bypass-waf) 
 + 2022/12/17 [java.exe和javaw.exe区别](https://blog.csdn.net/xtho62/article/details/114085591) 在bp启动的时候看到了
++ 2022/12/17 [Weakness in Java TLS Host Verification](https://blog.h3xstream.com/2020/10/weakness-in-java-tls-host-verification.html) **字符编码绕过**
