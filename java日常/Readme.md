@@ -218,3 +218,5 @@
 + 2022/12/17 [java.exe和javaw.exe区别](https://blog.csdn.net/xtho62/article/details/114085591) 在bp启动的时候看到了
 + 2022/12/17 [Weakness in Java TLS Host Verification](https://blog.h3xstream.com/2020/10/weakness-in-java-tls-host-verification.html) **字符编码绕过**
 + 2022/12/18 [Java使用 try catch会影响性能？](https://mp.weixin.qq.com/s/kkEGvMwaG6J1WrD_DWRRzg) **不会**
++ 2022/12/22 [How I was able to steal users credentials via Swagger UI DOM-XSS](https://medium.com/@M0X0101/how-i-was-able-to-steal-users-credentials-via-swagger-ui-dom-xss-e84255eb8c96)
++ 2022/12/22 [浅析自动绑定漏洞](https://xz.aliyun.com/t/128) [浅析自动绑定漏洞之Spring MVC](https://www.mi1k7ea.com/2020/02/12/%E6%B5%85%E6%9E%90%E8%87%AA%E5%8A%A8%E7%BB%91%E5%AE%9A%E6%BC%8F%E6%B4%9E%E4%B9%8BSpring-MVC/) [Spring MVC Autobinding漏洞实例初窥](https://xz.aliyun.com/t/1089) [Autobinding](https://github.com/Cryin/JavaID/blob/master/JAVA%E5%AE%89%E5%85%A8%E7%BC%96%E7%A0%81%E4%B8%8E%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1.md) **Autobinding漏洞，代码审计的时候可以关注@SessionAttributes,@ModelAttribute注解**
