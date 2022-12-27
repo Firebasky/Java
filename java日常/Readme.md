@@ -226,3 +226,4 @@
 + [网络安全14：Struts2框架下Log4j2漏洞检测方法分析与总结](https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247484207&idx=1&sn=285b54a79e48db9a05816cab2e6afc27&chksm=c25fcc54f5284542c1b9abe870e0caa9f958f4da90723bd83292deed215c63c705b7b0bbfaff&mpshare=1&scene=23&srcid=1225r9kGcJN5evUgMo6ecUCC&sharer_sharetime=1671942359949&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd) **自己也find 一些**
 + 2022/12/26 [第27篇：CSRF跨站请求伪造漏洞挖掘及绕过校验方法](https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247484515&idx=1&sn=eacea9e2e1636d27a4d122a8c28ca98d&chksm=c25fcb18f528420ee30ed8d48d76add6423c736408ce50f4723b7b4aa8213e7ad7d400c268ea&cur_album_id=2660130833605132289&scene=190#rd) **了解了解**
 + 2022/12/26 [API安全学习笔记](https://xz.aliyun.com/t/11977)  [玩转graphQL](https://mp.weixin.qq.com/s/gp2jGrLPllsh5xn7vn9BwQ)   **api的安全**
++ 2022/12/27 [某厂商数据库审计系统前台RCE挖掘之旅](https://www.sec-in.com/article/2006)   [amazon-redshift-jdbc-driver 任意代码执行漏洞](https://www.sec-in.com/article/896)
