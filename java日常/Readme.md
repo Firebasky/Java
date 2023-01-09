@@ -242,3 +242,4 @@
 + 2023/01/08 [【Java 代码审计入门-06】文件包含漏洞原理与实际案例介绍](https://www.cnpanda.net/codeaudit/1037.html)
 + 2023/01/08 [第45篇：weblogic反序列化漏洞绕waf方法总结，2017-10271与2019-2725漏洞绕waf防护](https://mp.weixin.qq.com/s/8hUYRYoAqjthqgBI_zn9ZA) **weblogic中可以使用编码绕过**
 + 2023/01/09 [调教某数字杀软，权限维持so easy](https://mp.weixin.qq.com/s/IYGon3X4-cQwnwwb1WZWww) **现在还看不懂！**
++ 2023/01/09 [玩转CodeQLpy之代码审计实战案例](https://mp.weixin.qq.com/s?__biz=MzkzNjMxNDM0Mg==&mid=2247485587&idx=1&sn=70b400682976cf82fc1d41fceba7e76e&chksm=c2a1dc1af5d6550c7b5b19b8810ede0bb920c7dad168ac3db3c9cbedfc6e2d4b29a3b42144e6&mpshare=1&scene=23&srcid=01064grkrTL43aUSw4HyhlEh&sharer_sharetime=1673004615548&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd) **可以试一试自己的VI能不能扫描出来**
