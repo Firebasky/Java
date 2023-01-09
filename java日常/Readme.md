@@ -241,3 +241,4 @@
 + 2023/01/08 [浅谈Nacos漏洞之超管权限后续利用](https://mp.weixin.qq.com/s?__biz=MzkxNDAyNTY2NA==&mid=2247495724&idx=2&sn=dcc0629faaf7379bba94a34937db3358&chksm=c1760d83f6018495787c8c4e747f2507ae50ffc7d3fb318ac45892dd1b216b70e942b74259e1&mpshare=1&scene=23&srcid=0107IDEenH2fh5g0656NUtgL&sharer_sharetime=1673107217827&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd)
 + 2023/01/08 [【Java 代码审计入门-06】文件包含漏洞原理与实际案例介绍](https://www.cnpanda.net/codeaudit/1037.html)
 + 2023/01/08 [第45篇：weblogic反序列化漏洞绕waf方法总结，2017-10271与2019-2725漏洞绕waf防护](https://mp.weixin.qq.com/s/8hUYRYoAqjthqgBI_zn9ZA) **weblogic中可以使用编码绕过**
++ 2023/01/09 [调教某数字杀软，权限维持so easy](https://mp.weixin.qq.com/s/IYGon3X4-cQwnwwb1WZWww) **现在还看不懂！**
