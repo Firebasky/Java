@@ -244,3 +244,4 @@
 + 2023/01/09 [调教某数字杀软，权限维持so easy](https://mp.weixin.qq.com/s/IYGon3X4-cQwnwwb1WZWww) **现在还看不懂！**
 + 2023/01/09 [玩转CodeQLpy之代码审计实战案例](https://mp.weixin.qq.com/s?__biz=MzkzNjMxNDM0Mg==&mid=2247485587&idx=1&sn=70b400682976cf82fc1d41fceba7e76e&chksm=c2a1dc1af5d6550c7b5b19b8810ede0bb920c7dad168ac3db3c9cbedfc6e2d4b29a3b42144e6&mpshare=1&scene=23&srcid=01064grkrTL43aUSw4HyhlEh&sharer_sharetime=1673004615548&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd) **可以试一试自己的VI能不能扫描出来**
 + 2023/01/10 [为什么你抓不到baidu的数据](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247497288&idx=1&sn=1d634021528643c2f71e7cbf4dd7a0f7&chksm=fa8327dfcdf4aec9f798046e38ed5918d2df937c1ba7b7729c08e31b4c5c23cd13023c1c08f6&mpshare=1&scene=23&srcid=0110jBzdFMNuglOyMZh5teWu&sharer_sharetime=1673322185390&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd)  **好牛皮啊**
++ 2023/01/10 [EL表达式支持Lambda](http://aducode.github.io/posts/2015-07-14/hook_tomcat_el_expression.html) **np**
