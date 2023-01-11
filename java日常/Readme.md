@@ -246,3 +246,4 @@
 + 2023/01/10 [为什么你抓不到baidu的数据](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247497288&idx=1&sn=1d634021528643c2f71e7cbf4dd7a0f7&chksm=fa8327dfcdf4aec9f798046e38ed5918d2df937c1ba7b7729c08e31b4c5c23cd13023c1c08f6&mpshare=1&scene=23&srcid=0110jBzdFMNuglOyMZh5teWu&sharer_sharetime=1673322185390&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd)  **好牛皮啊**
 + 2023/01/10 [EL表达式支持Lambda](http://aducode.github.io/posts/2015-07-14/hook_tomcat_el_expression.html) **np**
 + 2023/01/10 [HashSet 对象去重复处理](https://blog.csdn.net/wangjie1616/article/details/78416551) **去除重复的对象也可以使用commons.lang这个包来判断**
++ 2023/01/11 [burp自定义解密数据插件](https://mp.weixin.qq.com/s/B-lBbVpJsPdCp1pjz2Rxdg)
