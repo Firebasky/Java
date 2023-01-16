@@ -249,3 +249,4 @@
 + 2023/01/11 [burp自定义解密数据插件](https://mp.weixin.qq.com/s/B-lBbVpJsPdCp1pjz2Rxdg) [某app测试](https://mp.weixin.qq.com/s/_7wSWy0gIMMZmVeOtFgdsw)
 + 2023/01/13 [JVM Shellcode注入探索](https://mp.weixin.qq.com/s/5mK4twhCLtbiHdO0VZrX1A) **np**
 + 2023/01/14 [第46篇：伊朗APT组织入侵美国政府内网全过程揭秘（上篇）](https://mp.weixin.qq.com/s/LarjLeYFqDQh7I0jpFZwHA)
++ 2023/01/16 [Hacking Redis for fun and CTF points,redis的利用](https://medium.com/@emil.lerner/hacking-redis-for-fun-and-ctf-points-3450c351bec1)  **npnp**
