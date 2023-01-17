@@ -253,3 +253,4 @@
 + 2023/01/17 [第47篇：ATT&CK矩阵攻击链分析-伊朗APT入侵美国政府内网(中篇)](https://mp.weixin.qq.com/s/vLBupn8etY1rvcgHmLNbIw)
 + 2023/01/17 [玩转CodeQLpy之用友GRP-U8漏洞挖掘](https://mp.weixin.qq.com/s/hYPdNN6skbikC3FFYRlbrQ) **可以尝试用vi跑一下**
 + 2023/01/17 [JDK-Xalan的XSLT整数截断漏洞利用构造](https://mp.weixin.qq.com/s?__biz=Mzg4MzY5NjIyMg==&mid=2247483755&idx=1&sn=4e9ae8be2a0950ecfe99281689001e06&chksm=cf42365af835bf4ceb041fdbbb108cffbfbef253f41d9197760e11f774749eeb1e721f070fd8&mpshare=1&scene=23&srcid=0117LLaambwHZZNnlAY1Pqnm&sharer_sharetime=1673954336737&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd) **np 学习**
++ 2023/1/17 [XSLT 调用 Java 的类方法](https://yanbin.blog/xslt-call-java-method/) [XSLT Injection](https://vulncat.fortify.com/zh-cn/detail?id=desc.dataflow.java.xslt_injection) **xslt  命令执行**
