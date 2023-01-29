@@ -259,3 +259,4 @@
 + 2023/01/19 [CVE-2022-35741 Apache CloudStack SAML XXE注入](https://xz.aliyun.com/t/11600) **Apache CloudStack 云计算的东西国内没有看到过**
 + 2023/01/19 [Xalan包在XXE问题中的坑](https://www.freebuf.com/vuls/238005.html) **之前就遇到了如果有xalan依赖的时候会导致xxe防御失去效果**
 + 2023/01/29 [红队：IIS短文件名猜解在拿权限中的巧用](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247491093&idx=1&sn=9ebedfadd4b86cbb319c085fdfbdaf1d&chksm=cea8f555f9df7c4370ab5efe4248c3ca144381556d6299c2e9ab1d83229a38ad82b208f70cb6&mpshare=1&scene=23&srcid=0128dKktHmtVydWzC2jEaQ44&sharer_sharetime=1674914927543&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd) **了解**
++ 2023/01/29 [PHP Development Server <= 7.4.21 - Remote Source Disclosure](https://blog.projectdiscovery.io/php-http-server-source-disclosure/) **np**
