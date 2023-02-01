@@ -262,3 +262,4 @@
 + 2023/01/29 [PHP Development Server <= 7.4.21 - Remote Source Disclosure](https://blog.projectdiscovery.io/php-http-server-source-disclosure/) **np**
 + 2023/01/29 [Java Zip Slip漏洞案例分析及实战挖掘](https://xz.aliyun.com/t/12081) **主要是fix的代码可能有问题 一部分开发人员判断的是startwith**
 + 2023/01/30 [Docmosis Tornado的漏洞](https://frycos.github.io/vulns4free/2023/01/24/0days-united-nations.html)
++ 2023/02/01 [Nginx 通过 Lua + Redis 实现动态封禁 IP](https://mp.weixin.qq.com/s/jjwTz53ks61cN5O3l8jHdw) 
