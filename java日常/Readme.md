@@ -265,3 +265,4 @@
 + 2023/02/01 [Nginx 通过 Lua + Redis 实现动态封禁 IP](https://mp.weixin.qq.com/s/jjwTz53ks61cN5O3l8jHdw)
 + 2023/02/01 [Redis常见利用方法](https://mp.weixin.qq.com/s/qQkiGO5wPs8no_BoK13tig) ** 可写/etc/passwd 替换,计划任务 centos可写/var/spool/cron/* ubuntu 写/etc/cron.d/* **
 + 2023/02/02 [水平越权挖掘技巧与自动化越权漏洞检测](https://github.com/Firebasky/Java/tree/main/java%E6%97%A5%E5%B8%B8)
++ 2023/02/03 [ImageMagick：隐藏在网上图像背后的漏洞](https://mp.weixin.qq.com/s/zJkZbNmA1vDkpxP0SNVxHA) **np**
