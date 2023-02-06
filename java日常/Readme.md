@@ -266,3 +266,4 @@
 + 2023/02/01 [Redis常见利用方法](https://mp.weixin.qq.com/s/qQkiGO5wPs8no_BoK13tig) ** 可写/etc/passwd 替换,计划任务 centos可写/var/spool/cron/* ubuntu 写/etc/cron.d/* **
 + 2023/02/02 [水平越权挖掘技巧与自动化越权漏洞检测](https://github.com/Firebasky/Java/tree/main/java%E6%97%A5%E5%B8%B8)
 + 2023/02/03 [ImageMagick：隐藏在网上图像背后的漏洞](https://mp.weixin.qq.com/s/zJkZbNmA1vDkpxP0SNVxHA) **np**
++ 2023/02/06 [Numen安全研究员发现Apache Linkis漏洞CVE-2022-44645](https://mp.weixin.qq.com/s/rrC_CkSvEOsb8Xib21co0A) **黑名单可以bypass**
