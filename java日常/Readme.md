@@ -267,3 +267,4 @@
 + 2023/02/02 [水平越权挖掘技巧与自动化越权漏洞检测](https://github.com/Firebasky/Java/tree/main/java%E6%97%A5%E5%B8%B8)
 + 2023/02/03 [ImageMagick：隐藏在网上图像背后的漏洞](https://mp.weixin.qq.com/s/zJkZbNmA1vDkpxP0SNVxHA) **np**
 + 2023/02/06 [Numen安全研究员发现Apache Linkis漏洞CVE-2022-44645](https://mp.weixin.qq.com/s/rrC_CkSvEOsb8Xib21co0A) **黑名单可以bypass**
++ 2023/02/08 [实战钓鱼之url魔改](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247490656&idx=1&sn=0d98bc095f34ecfb53f0c0d5d835ba32&chksm=c187dc71f6f0556707214ade4ebd207f2a6aeba469f5641f15d96892c13a37a8856c67421f1c&mpshare=1&scene=23&srcid=0208XWF2fNX9S3weD9OrMXKT&sharer_sharetime=1675853346072&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd) **有点意思,可以用在钓鱼方面**
