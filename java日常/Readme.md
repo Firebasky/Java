@@ -272,3 +272,4 @@
 + 2023/02/10 [红队攻防实践：unicode进行webshell免杀的思考](https://mp.weixin.qq.com/s?__biz=MzI4MzA0ODUwNw==&mid=2247484997&idx=1&sn=8694814291d80337928e59afd3034b4c&chksm=eb91e911dce6600735f1d4fae65fb01c682fe9bddc3e72a67d2ae993baac5ccc1f93c1924467&cur_album_id=1342350211271966722&scene=189#wechat_redirect) **里面的零宽连接符ZWJ有意思** [零宽字符妙用](https://1991421.cn/2021/03/08/3c5b1b78/)
 + 2023/02/11 [PWN2OWNING TWO HOSTS AT THE SAME TIME: ABUSING INDUCTIVE AUTOMATION IGNITION’S CUSTOM DESERIALIZATION](https://www.zerodayinitiative.com/blog/2023/2/6/pwn2owning-two-hosts-at-the-same-time-abusing-inductive-automation-ignitions-custom-deserialization)
 + 2023/02/14 [环境变量的利用](https://www.elttam.com/blog/env/#content) **np的**
++ 2023/02/14 [GHSL-2021-1009: URL access filters bypass in Alpine - CVE-2022-23553](https://securitylab.github.com/advisories/GHSL-2021-1009-Alpine/) **很多这样的bypass权限的利用**
