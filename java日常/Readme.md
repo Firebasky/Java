@@ -274,3 +274,4 @@
 + 2023/02/14 [环境变量的利用](https://www.elttam.com/blog/env/#content) **np的**
 + 2023/02/14 [GHSL-2021-1009: URL access filters bypass in Alpine - CVE-2022-23553](https://securitylab.github.com/advisories/GHSL-2021-1009-Alpine/) **很多这样的bypass权限的利用**
 + 2023/02/16 [XXE with Auto-Update in install4j](https://frycos.github.io/vulns4free/2023/02/12/install4j-xxe.html) **这个思路非常好,很多产品自动更新的时候去server端解析传递过来的xml格式就可能造成xxe。我们只需要evil server就可以完成攻击**
++ 2023/02/18 [https://mp.weixin.qq.com/s/ff6LsT2j1OY1lv-_9gJN2A](顶级Javaer都在使用的类库，真香！) **可以记录一下**
