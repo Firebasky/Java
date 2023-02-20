@@ -279,3 +279,4 @@
 + 2023/02/19 [关于使用OCR文字识别方式进行免杀](https://xz.aliyun.com/t/12114) **好思路啊**
 + 2023/02/20 [redis安全学习小记](https://mp.weixin.qq.com/s/W9joCtUQfNA62ZWXwqMmsw) **redis安全学习**
 + 2023/02/20 [一次“SSRF-->RCE”的艰难利用](https://mp.weixin.qq.com/s?__biz=MzUyMDEyNTkwNA==&mid=2247483865&idx=1&sn=41e56040229e383a82a671fc359ee82b&chksm=f9ee6d66ce99e470d102becfcf63955f2aae1d88bc43ef8e7939bc93d786ff2f994eac969d32&scene=21&sessionid=1586255695&key=c00e1a5b49adb240be940797e7d3cb821bae9b89771be268faa858b2888bbba3e96562ccac53df81389cb41e548a9e6412d4f83b6b7b541825630aa6ace9d1d040a3b7cd677b5ca137cc9b1d2297948e&ascene=1&uin=MzE0MDM4MzExMw==&devicetype=Windows%2010&version=62080079&lang=zh_CN&exportkey=A6a52QI1M4H5IGXp8ekqTtY=&pass_ticket=awXcPg/ApqlfbrG8njT11ZZYAGjwbhrnExtbvARh//rtbsupQLnZBKBPE6SCXvhn#wechat_redirect) **学习**
++ 2023/02/20 [五一快乐-微某OA从0day流量分析到武器化利用](https://mp.weixin.qq.com/s/iTP9jBypsJEsSlAIaNOnhw)
