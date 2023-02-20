@@ -277,3 +277,4 @@
 + 2023/02/18 [https://mp.weixin.qq.com/s/ff6LsT2j1OY1lv-_9gJN2A](顶级Javaer都在使用的类库，真香！) **可以记录一下**
 + 2023/02/19 [Java代码审计项目--某在线教育开源系统](https://mp.weixin.qq.com/s/4sZWD792zxLIkIXPk01yhA) **这个流程是比较好的,看一些过滤器和监听器**
 + 2023/02/19 [关于使用OCR文字识别方式进行免杀](https://xz.aliyun.com/t/12114) **好思路啊**
++ 2023/02/20 [redis安全学习小记](https://mp.weixin.qq.com/s/W9joCtUQfNA62ZWXwqMmsw) **redis安全学习**
