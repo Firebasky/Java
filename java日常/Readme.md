@@ -282,3 +282,4 @@
 + 2023/02/20 [五一快乐-微某OA从0day流量分析到武器化利用](https://mp.weixin.qq.com/s/iTP9jBypsJEsSlAIaNOnhw)
 + 2023/02/23 [实战 | 记一次针对非法网站的SSRF渗透](https://mp.weixin.qq.com/s/yfWAu6ebXA14GfOTP86XsA)
 + 2023/02/24 [【剖析 | SOFARPC 框架】之 SOFARPC 序列化比较](https://www.sofastack.tech/blog/sofa-rpc-serialization-comparison/)
++ 2023/03/02 [绕过Struts2 waf写入冰蝎马](https://mp.weixin.qq.com/s?__biz=MzkzNzE4MTk4Nw==&mid=2247485835&idx=1&sn=d09939cc178f8e7aaa085bbbef622557&chksm=c2921fc7f5e596d1312a37b816345a78d4343d509432725a0a558745304c579b9044ef870267&mpshare=1&scene=23&srcid=02286Y2A5JswXVZdDgoD4BXN&sharer_sharetime=1677591306084&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd)
