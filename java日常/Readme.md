@@ -287,3 +287,4 @@
 + 2023/03/02 [【渗透测试实战】--waf绕过--打狗棒法](https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247527297&idx=1&sn=d7f1896b68a2253dcecf2780fb49b8ba&chksm=ce64c118f913480e4edd66dff46f1a9181b5c61dd1b3324db41b95338804a7124868c5740fff&mpshare=1&scene=23&srcid=03026OJPm0666pbtYyYnpZVR&sharer_sharetime=1677756888794&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd) **1.Content-Type中的boundary边界混淆绕过 **
 + 2023/03/05 [代码执行之篡改 deb 包控制文件](https://xz.aliyun.com/t/12250) **在考虑msi 安装程序能不能利用？** [Threat Analysis: MSI - Masquerading as a Software Installer](https://www.cybereason.com/blog/threat-analysis-msi-masquerading-as-software-installer)
 + 2023/03/07 [为什么 Nginx 比 Apache 更牛叉？](https://mp.weixin.qq.com/s/nz0OZsa0rEyF5L40rD5zYg)
++ 2023/03/08 [A New Vector For “Dirty” Arbitrary File Write to RCE](https://blog.doyensec.com/2023/02/28/new-vector-for-dirty-arbitrary-file-write-2-rce.html) [uwsgi生产环境](https://www.cnblogs.com/chunlin99x/p/16291085.html) uwsgi环境写文件rce
