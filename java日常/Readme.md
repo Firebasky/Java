@@ -289,3 +289,4 @@
 + 2023/03/07 [为什么 Nginx 比 Apache 更牛叉？](https://mp.weixin.qq.com/s/nz0OZsa0rEyF5L40rD5zYg)
 + 2023/03/08 [A New Vector For “Dirty” Arbitrary File Write to RCE](https://blog.doyensec.com/2023/02/28/new-vector-for-dirty-arbitrary-file-write-2-rce.html) [uwsgi生产环境](https://www.cnblogs.com/chunlin99x/p/16291085.html) uwsgi环境写文件rce
 + 2023/03/11 [CVE-2022-36413 Unauthorized Reset Password of Zoho ManageEngine ADSelfService Plus](https://blog.noah.360.net/cve-2022-36413-unauthorized-reset-password-of-zoho-manageengine-adselfservice-plus/)
++ 2023/03/11 [第53篇：某OA系统的H2数据库延时注入点不出网拿shell方法](https://mp.weixin.qq.com/s/Lu4V_J6cresqmVnfQmg05g) **思路不错**
