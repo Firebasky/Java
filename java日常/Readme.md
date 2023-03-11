@@ -288,3 +288,4 @@
 + 2023/03/05 [代码执行之篡改 deb 包控制文件](https://xz.aliyun.com/t/12250) **在考虑msi 安装程序能不能利用？** [Threat Analysis: MSI - Masquerading as a Software Installer](https://www.cybereason.com/blog/threat-analysis-msi-masquerading-as-software-installer)
 + 2023/03/07 [为什么 Nginx 比 Apache 更牛叉？](https://mp.weixin.qq.com/s/nz0OZsa0rEyF5L40rD5zYg)
 + 2023/03/08 [A New Vector For “Dirty” Arbitrary File Write to RCE](https://blog.doyensec.com/2023/02/28/new-vector-for-dirty-arbitrary-file-write-2-rce.html) [uwsgi生产环境](https://www.cnblogs.com/chunlin99x/p/16291085.html) uwsgi环境写文件rce
++ 2023/03/11 [CVE-2022-36413 Unauthorized Reset Password of Zoho ManageEngine ADSelfService Plus](https://blog.noah.360.net/cve-2022-36413-unauthorized-reset-password-of-zoho-manageengine-adselfservice-plus/)
