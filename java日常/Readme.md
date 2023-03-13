@@ -292,3 +292,4 @@
 + 2023/03/11 [第53篇：某OA系统的H2数据库延时注入点不出网拿shell方法](https://mp.weixin.qq.com/s/Lu4V_J6cresqmVnfQmg05g) **思路不错**
 + 2023/03/12 [chatgpt能分析0day漏洞么？](https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649907994&idx=1&sn=8984318d81b046ab202650f52557a12b&chksm=f18eea1cc6f9630aca2d2e6d88a767ffc5bd2f44e4367e1b0c68669b11097388b3c5f1e044a0&mpshare=1&scene=23&srcid=0312uHzVdJj4KvnBdTHy0TKM&sharer_sharetime=1678611522010&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd) **ai np**
 + 2023/03/12 [钓鱼邮件中绕过内容检测的一种方式](https://mp.weixin.qq.com/s/oDFCn5K4rXXg-_ALv0-qYw) **bypass 好多内容敏感检测**
++ 2023/03/13 [攻击技术研判 | 使用蜂鸣器对抗沙箱检测技术](https://mp.weixin.qq.com/s/DrUWV4baPIA3WtCVjFp3gw) **就是利用其api实现sleep的效果,对抗沙箱**
