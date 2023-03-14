@@ -293,3 +293,4 @@
 + 2023/03/12 [chatgpt能分析0day漏洞么？](https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649907994&idx=1&sn=8984318d81b046ab202650f52557a12b&chksm=f18eea1cc6f9630aca2d2e6d88a767ffc5bd2f44e4367e1b0c68669b11097388b3c5f1e044a0&mpshare=1&scene=23&srcid=0312uHzVdJj4KvnBdTHy0TKM&sharer_sharetime=1678611522010&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd) **ai np**
 + 2023/03/12 [钓鱼邮件中绕过内容检测的一种方式](https://mp.weixin.qq.com/s/oDFCn5K4rXXg-_ALv0-qYw) **bypass 好多内容敏感检测**
 + 2023/03/13 [攻击技术研判 | 使用蜂鸣器对抗沙箱检测技术](https://mp.weixin.qq.com/s/DrUWV4baPIA3WtCVjFp3gw) **就是利用其api实现sleep的效果,对抗沙箱**
++ 2023/03/14 [从挑战赛看阿里云RASP防御优势与云上最佳实践](https://mp.weixin.qq.com/s?__biz=MzA4MTQ2MjI5OA==&mid=2664088876&idx=1&sn=cc29a7dc475e08300390eae40902808d&chksm=84aaf059b3dd794fe63c1f8af5cdafbca404bdd2e956a658f0807ba5e74d98cfc9369573e64c&mpshare=1&scene=23&srcid=0313b3xCwrxOPs14Cc4DeDtz&sharer_sharetime=1678702681315&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd)
