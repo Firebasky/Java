@@ -299,3 +299,4 @@
 + 2023/03/17 [Spring Boot 如果防护 XSS + SQL 注入攻击 ？一文带你搞定！](https://mp.weixin.qq.com/s/QTUr9ZiXMWqFu1-yhMICjghttps://mp.weixin.qq.com/s/QTUr9ZiXMWqFu1-yhMICjg)
 + 2023/03/19 [Django下防御Race Condition漏洞](https://mp.weixin.qq.com/s/9f5Hxoyw5ne8IcYx4uwwvQ)
 + 2023/03/23 [redis未授权到shiro反序列化](https://xz.aliyun.com/t/11198)  在shiro中不错，可以尝试找其他触发点，基本上在数据库的操作上
++ 2023/03/24 [Flink RCE via jar/plan API Endpoint in JDK8](https://mp.weixin.qq.com/s?srcid=0324U8WlT7MpOqTIt0vM2MJD&scene=23&sharer_sharetime=1679630653991&mid=2247495227&sharer_shareid=33fdea7abe6be586e131951d667ccd06&sn=5ab9bcc3d89d57ff9799f88c3363814c&idx=1&__biz=MzkyNDA5NjgyMg%3D%3D&chksm=c1d9ae62f6ae2774dd25902c116f6c24f3e5bbf68836f676c25aac53f2c6b771b4a3823c3e7e&mpshare=1#rd) **hessian的利用**
