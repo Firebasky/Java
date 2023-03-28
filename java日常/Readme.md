@@ -302,3 +302,4 @@
 + 2023/03/24 [Flink RCE via jar/plan API Endpoint in JDK8](https://mp.weixin.qq.com/s?srcid=0324U8WlT7MpOqTIt0vM2MJD&scene=23&sharer_sharetime=1679630653991&mid=2247495227&sharer_shareid=33fdea7abe6be586e131951d667ccd06&sn=5ab9bcc3d89d57ff9799f88c3363814c&idx=1&__biz=MzkyNDA5NjgyMg%3D%3D&chksm=c1d9ae62f6ae2774dd25902c116f6c24f3e5bbf68836f676c25aac53f2c6b771b4a3823c3e7e&mpshare=1#rd) **hessian的利用**
 + 2023/03/26 [公开一个macOS命令执行技巧](https://mp.weixin.qq.com/s/GZ5eS_lHiBBb7jHNu6PUgg) **因为自己在使用了**
 + 2023/03/27 [Exploiting memory corruption vulnerabilities on Android](https://blog.oversecured.com/Exploiting-memory-corruption-vulnerabilities-on-Android/)
++ 2023/03/29 [zeppelin 未授权任意命令执行漏洞复现](https://edu.hetianlab.com/post/94) 
