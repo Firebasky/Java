@@ -305,3 +305,4 @@
 + 2023/03/29 [zeppelin 未授权任意命令执行漏洞复现](https://edu.hetianlab.com/post/94) 
 + 2023/03/31 [SQL注入&预编译](https://forum.butian.net/share/1559) 
 + 2023/03/31 [The curl quirk that exposed Burp Suite & Google Chrome](https://portswigger.net/research/the-curl-quirk-that-exposed-burp-suite-amp-google-chrome) **@的问题**
++ 2023/04/02 [日志库logback的攻击路径](https://mp.weixin.qq.com/s/OBwxaijYCjnvo8I0OBusug)
