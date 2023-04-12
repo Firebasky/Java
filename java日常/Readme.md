@@ -308,3 +308,4 @@
 + 2023/04/02 [日志库logback的攻击路径](https://mp.weixin.qq.com/s/OBwxaijYCjnvo8I0OBusug)
 + 2023/04/02 [SSRF payloads](https://pravinponnusamy.medium.com/ssrf-payloads-f09b2a86a8b4)
 + 2023/04/02 [DFA敏感词算法](https://mp.weixin.qq.com/s?__biz=MzU1ODcxNDgyMA==&mid=2247484121&idx=1&sn=2f1f40f73124aca46f6572f5235d945a&chksm=fc231872cb549164a13f5f74ce43201390aaeada5f5f897537c3999af583aac184f1ce81d504&mpshare=1&scene=23&srcid=0402QW1pkeLvwamFjHBi3hvz&sharer_sharetime=1680424676004&sharer_shareid=33fdea7abe6be586e131951d667ccd06#rd)
++ 2023/04/12 [java-exploitation-restrictions-in](https://codewhitesec.blogspot.com/2023/04/java-exploitation-restrictions-in.html)
