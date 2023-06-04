@@ -314,3 +314,4 @@
 + 2023/05/31 [Nacos结合Spring Cloud Gateway RCE利用](https://xz.aliyun.com/t/11493)
 + 2023/06/03 [Nevado JMS反序列化审计tips](https://novysodope.github.io/2023/04/01/95/)
 + 2023/06/03 [Celery Redis未授权访问利用](https://forum.butian.net/share/224)
++ 2023/06/04 [cname记录是什么？他存在的意义是什么？](https://www.zhihu.com/question/22916306)
