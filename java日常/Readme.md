@@ -316,3 +316,4 @@
 + 2023/06/03 [Celery Redis未授权访问利用](https://forum.butian.net/share/224)
 + 2023/06/04 [cname记录是什么？他存在的意义是什么？](https://www.zhihu.com/question/22916306)
 + 2023/06/05 [ImageMagick 参数注入](https://github.com/ImageMagick/ImageMagick/issues/6338)
++ 2023/06/05 [为什么我们需要收集URL?](https://mp.weixin.qq.com/s/nhU9gbRot3X8D_1AvkirUA)
