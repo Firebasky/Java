@@ -318,4 +318,4 @@
 + 2023/06/05 [ImageMagick 参数注入](https://github.com/ImageMagick/ImageMagick/issues/6338)
 + 2023/06/05 [为什么我们需要收集URL?](https://mp.weixin.qq.com/s/nhU9gbRot3X8D_1AvkirUA)
 + 2023/06/06 [justCTF2023-AWS Cognito认证服务的安全隐患](https://hpdoger.cn/2023/06/05/title:%20justCTF2023-AWS%20Cognito%E8%AE%A4%E8%AF%81%E6%9C%8D%E5%8A%A1%E7%9A%84%E5%AE%89%E5%85%A8%E9%9A%90%E6%82%A3/) **学习**
-+ 2023/06/16 [NGINX缓存原理及源码分析(一)](https://zhuanlan.zhihu.com/p/420983450)
++ 2023/06/16 [NGINX缓存原理及源码分析(一)](https://zhuanlan.zhihu.com/p/420983450) [cdn原理分析-本地搭建cdn模拟访问过程](https://mp.weixin.qq.com/s/u-VWrrdlkRzKs7u04EPV-g)
